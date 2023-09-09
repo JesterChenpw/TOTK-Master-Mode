@@ -1,6 +1,6 @@
 Golden Bokoblin					CHECK
 Golden Moblin					CHECK
-Golden Lizalfos
+Golden Lizalfos                 CHECK
 Golden Lynel
 Golden Horriblin
 Golden Boss Bokoblin

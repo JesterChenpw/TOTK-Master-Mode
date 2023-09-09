@@ -24,7 +24,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Lizalfos (start soon)
+###### Golden Lizalfos (fully implemented)
 - Base Attack Power: 60
 - Base Attack Power (melee): 86
 - Base Attack Power (ranged): 86
