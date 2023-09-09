@@ -2,6 +2,8 @@ Golden Bokoblin					CHECK
 Golden Moblin					CHECK
 Golden Lizalfos                 CHECK
 Golden Lynel
+Golden armored Bokoblin
+Golden armored Lynel
 Golden Horriblin
 Golden Boss Bokoblin
 Golden Bokoblin Horn

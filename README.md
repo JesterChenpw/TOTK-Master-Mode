@@ -35,7 +35,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Lynel (did not start yet)
+###### Golden Lynel (fully implemented)
 - Base Attack Power: 104
 - Base Attack Power (melee): 130
 - Base Attack Power (ranged): 104
@@ -44,6 +44,10 @@
 - Can not be tricked with Lynel or Majora's Masks
 - Arrows only do 20% of damage
 - Can't headshot
+
+###### Golden Bokoblin (armored) (did not start yet)
+
+###### Golden Lynel (armored) (did not start yet)
 
 ###### Golden Horriblin (did not start yet)
 - Base Attack Power: 50
