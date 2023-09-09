@@ -13,7 +13,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Moblin (did not start yet)
+###### Golden Moblin (fully implemented)
 - Base Attack Power: 64
 - Base Attack Power (melee): 92
 - Base Attack Power (ranged): 56
@@ -24,7 +24,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Lizalfos (did not start yet)
+###### Golden Lizalfos (start soon)
 - Base Attack Power: 60
 - Base Attack Power (melee): 86
 - Base Attack Power (ranged): 86
