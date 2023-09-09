@@ -55,3 +55,14 @@
 - Immune to all elements
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
+
+###### Golden Boss Bokoblin (did not start yet)
+- Base Attack Power: 76
+- Base Attack Power (melee): 96
+- Base Attack Power (ranged): 76
+- HP: 4,000
+- No cooldown
+- Can not be tricked with Bokoblin or Majora's Masks
+- Immune to all elements
+- Arrows only do 20% of damage
+- Harder to headshot, headshots only deal 150% damage

@@ -57,3 +57,31 @@ GameParameter/EnemyCommonParam/Moriblin_Gold.game__enemy__EnemyCommonParam.bgyml
 GameParameter/GameParameterTable/Moriblin_Gold.engine__actor__GameParameterTable.bgyml : 10000
 Life/DamageParameters/Enemy_Moriblin_Gold.game__life__DamageParameters.bgyml : 17000
 Life/LifeParameters/Moriblin_Gold.game__life__LifeParameters.bgyml : 8000
+
+Pack/Actor/Enemy_Lizalfos_Gold.pack : 1300000
+Model/Enemy_Lizalfos.anim.bfres : 15000
+TexToGo/Lizalfos_Gold_Armor_Alb.txtg : 37500
+TexToGo/Lizalfos_Gold_Body_Alb.txtg : 185000
+Actor/Enemy_Lizalfos_Gold.engine__actor__ActorParam.bgyml : 
+Component/ChemicalParam/Lizalfos_Gold.game__component__ChemicalParam.bgyml : 
+Component/DropParam/Enemy_Lizalfos_Gold.game__component__DropParam.bgyml : 
+Component/GameBalanceClientParam/Lizalfos_Gold.game__component__GameBalanceClientParam.bgyml : 
+Component/LifeParam/Lizalfos_Gold.game__component__LifeParam.bgyml : 
+Component/ModelInfo/Enemy_Lizalfos_Gold.engine__component__ModelInfo.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Minus_Normal.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Fire.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Ice.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Minus_Arrow.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Thunder.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal_ZoraSpecial.game__drop__DropTable.bgyml : 
+Drop/DropTable/Enemy_Lizalfos_Gold_Normal.game__drop__DropTable.bgyml : 
+DropTableElementList/Enemy_Lizalfos_Gold_Normal_02.game__drop__DropTableElementList.bgyml : 
+DropTableElementList/Enemy_Lizalfos_Gold_Normal_03.game__drop__DropTableElementList.bgyml : 
+DropTableElementList/Enemy_Lizalfos_Gold_Normal_ZoraSpecial_04.game__drop__DropTableElementList.bgyml : 
+GameBalance/AttackParam/Enemy_Lizalfos_Gold.game__gamebalance__AttackParam.bgyml : 
+GameParameter/EnemyCommonParam/Lizalfos_Gold.game__enemy__EnemyCommonParam.bgyml : 
+GameParameter/GameParameterTable/Enemy_Lizalfos_Gold.engine__actor__GameParameterTable.bgyml : 
+Life/DamageParameters/Enemy_Lizalfos_Gold.game__life__DamageParameters.bgyml : 
+Life/LifeParameters/Lizalfos_Gold.game__life__LifeParameters.bgyml : 
