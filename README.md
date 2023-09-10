@@ -1,6 +1,9 @@
 ### Master Mode project attempt for Tears of the Kingdom
 
-##### Golden enemies stats
+##### Regular gameplay changes
+- Gloom damage went from 0.3x damage to 0.8x damage
+
+##### Golden enemies
 
 ###### Golden Bokoblin (fully implemented)
 - Base Attack Power: 56
