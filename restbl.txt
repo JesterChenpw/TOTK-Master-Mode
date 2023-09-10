@@ -16,6 +16,7 @@ Component/DropParam/Enemy_Bokoblin_Gold.game__component__DropParam.bgyml : 9500
 Component/GameBalanceClientParam/Bokoblin_Gold.game__component__GameBalanceClientParam.bgyml : 9000
 Component/LifeParam/Bokoblin_Gold.game__component__LifeParam.bgyml : 8600
 Component/ModelInfo/Enemy_Bokoblin_Gold.engine__component__ModelInfo.bgyml : 9000
+Component/PerceptionReceiverParam/Bokoblin.game__component__PerceptionReceiverParam.bgyml : 18000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 9000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 9000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Fire.game__drop__DropTable.bgyml : 9000
@@ -44,11 +45,13 @@ TexToGo/Moriblin_Gold_Apron_Alb.txtg : 20000
 TexToGo/Moriblin_Gold_Body_Alb.txtg : 130000
 TexToGo/Moriblin_Gold_Cloth_Alb.txtg : 22000
 Actor/Enemy_Moriblin_Gold.engine__actor__ActorParam.bgyml : 11000
+BSA/MovementParam/Moriblin_Middle.game__bsa__MovementParam.bgyml : 7000
 Component/ChemicalParam/Enemy_Moriblin_Gold.game__component__ChemicalParam.bgyml : 11500
 Component/DropParam/Enemy_Moriblin_Gold.game__component__DropParam.bgyml : 9500
 Component/GameBalanceClientParam/Moriblin_Gold.game__component__GameBalanceClientParam.bgyml : 8000
 Component/LifeParam/Moriblin_Gold.game__component__LifeParam.bgyml : 8000
 Component/ModelInfo/Enemy_Moriblin_Gold.engine__component__ModelInfo.bgyml : 8000
+Component/PerceptionReceiverParam/Moriblin.game__component__PerceptionReceiverParam.bgyml : 16000
 Drop/DropTable/Enemy_Moriblin_Gold_Minus_Normal.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Moriblin_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Moriblin_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 10000
