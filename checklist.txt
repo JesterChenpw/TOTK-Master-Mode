@@ -4,7 +4,7 @@ Golden Lizalfos                 CHECK
 Golden Lynel					CHECK
 Golden armored Bokoblin			CHECK
 Golden armored Lynel			CHECK
-Golden Horriblin
+Golden Horriblin				CHECK
 Golden Boss Bokoblin
 Golden Bokoblin Horn
 Golden Moblin Horn

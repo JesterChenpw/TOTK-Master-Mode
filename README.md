@@ -49,7 +49,7 @@
 
 ###### Golden Lynel (armored) (fully implemented)
 
-###### Golden Horriblin (did not start yet)
+###### Golden Horriblin (fully implemented)
 - Base Attack Power: 50
 - Base Attack Power (melee): 76
 - Base Attack Power (ranged): 50
