@@ -10,6 +10,7 @@ for line in rstb_txt:
     if not line == '\n':
         line = line[:-1]
         entry, size = line.split(' : ')
+        #print(entry, size)
         rstb_dict[entry] = int(size)
 
 with open('restbl.json', 'w') as json_file:

@@ -45,7 +45,7 @@
 - Arrows only do 20% of damage
 - Can't headshot
 
-###### Golden Bokoblin (armored) (did not start yet)
+###### Golden Bokoblin (armored) (fully implemented)
 
 ###### Golden Lynel (armored) (did not start yet)
 

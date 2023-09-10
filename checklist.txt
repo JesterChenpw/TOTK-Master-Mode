@@ -1,8 +1,8 @@
 Golden Bokoblin					CHECK
 Golden Moblin					CHECK
 Golden Lizalfos                 CHECK
-Golden Lynel
-Golden armored Bokoblin
+Golden Lynel					CHECK
+Golden armored Bokoblin			CHECK
 Golden armored Lynel
 Golden Horriblin
 Golden Boss Bokoblin
@@ -16,3 +16,8 @@ Golden Horriblin Horn
 Golden Boss Bokoblin Horn
 +1 Rank
 Golden in XP system
+
+Optional :
+Elemental Lynels
+Elemental Hinoxes
+etc.
