@@ -47,7 +47,7 @@
 
 ###### Golden Bokoblin (armored) (fully implemented)
 
-###### Golden Lynel (armored) (did not start yet)
+###### Golden Lynel (armored) (fully implemented)
 
 ###### Golden Horriblin (did not start yet)
 - Base Attack Power: 50
