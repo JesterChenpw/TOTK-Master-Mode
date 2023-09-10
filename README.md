@@ -2,6 +2,9 @@
 
 ##### Regular gameplay changes
 - Gloom damage went from 0.3x damage to 0.8x damage
+- Link's combo starters and jumped attacks (except for 2H) don't ragdoll enemies
+- Charged attacks are slower and take more stamina
+- Hitting a Lynel when on its back does less damage for one handed and two handed weapons
 
 ##### Golden enemies
 
@@ -11,6 +14,7 @@
 - Base Attack Power (ranged): 56
 - HP: 1,620
 - No cooldown
+- Faster speed
 - Can not be tricked with Bokoblin or Majora's Masks
 - Immune to all elements
 - Arrows only do 20% of damage
@@ -22,6 +26,7 @@
 - Base Attack Power (ranged): 56
 - HP: 2,880
 - No cooldown
+- Faster speed
 - Can not be tricked with Moblin or Majora's Masks
 - Immune to all elements
 - Arrows only do 20% of damage
@@ -33,6 +38,7 @@
 - Base Attack Power (ranged): 86
 - HP: 2,260
 - No cooldown
+- Faster speed
 - Can not be tricked with Lizalfos or Majora's Masks
 - Immune to all elements
 - Arrows only do 20% of damage
@@ -44,6 +50,7 @@
 - Base Attack Power (ranged): 104
 - HP: 10,000
 - No cooldown
+- Faster speed
 - Can not be tricked with Lynel or Majora's Masks
 - Arrows only do 20% of damage
 - Can't headshot
@@ -58,6 +65,7 @@
 - Base Attack Power (ranged): 50
 - HP: 1,840
 - No cooldown
+- Faster speed
 - Can not be tricked with Horriblin or Majora's Masks
 - Immune to all elements
 - Arrows only do 20% of damage
@@ -69,6 +77,7 @@
 - Base Attack Power (ranged): 76
 - HP: 4,000
 - No cooldown
+- Faster speed
 - Can not be tricked with Bokoblin or Majora's Masks
 - Immune to all elements
 - Arrows only do 20% of damage
