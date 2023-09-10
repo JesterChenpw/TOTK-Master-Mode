@@ -9,14 +9,14 @@ Component/ConditionParam/Player.game__component__ConditionParam.bgyml : 15000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
-BSA/MovementParam/Bokoblin_Senior.game__bsa__MovementParam.bgyml : 7500
+BSA/MovementParam/Bokoblin_Gold.game__bsa__MovementParam.bgyml : 8000
 Chemical/MaterialParam/enemy_fire_ice_electric_proof.game__chm__MaterialParam.bgyml : 7500
 Component/ChemicalParam/Enemy_Bokoblin_Gold.game__component__ChemicalParam.bgyml : 11000
 Component/DropParam/Enemy_Bokoblin_Gold.game__component__DropParam.bgyml : 9500
 Component/GameBalanceClientParam/Bokoblin_Gold.game__component__GameBalanceClientParam.bgyml : 9000
 Component/LifeParam/Bokoblin_Gold.game__component__LifeParam.bgyml : 8600
 Component/ModelInfo/Enemy_Bokoblin_Gold.engine__component__ModelInfo.bgyml : 9000
-Component/PerceptionReceiverParam/Bokoblin.game__component__PerceptionReceiverParam.bgyml : 18000
+Component/PerceptionReceiverParam/Bokoblin_Gold.game__component__PerceptionReceiverParam.bgyml : 18000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 9000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 9000
 Drop/DropTable/Enemy_Bokoblin_Gold_Normal_Fire.game__drop__DropTable.bgyml : 9000
@@ -45,13 +45,13 @@ TexToGo/Moriblin_Gold_Apron_Alb.txtg : 20000
 TexToGo/Moriblin_Gold_Body_Alb.txtg : 130000
 TexToGo/Moriblin_Gold_Cloth_Alb.txtg : 22000
 Actor/Enemy_Moriblin_Gold.engine__actor__ActorParam.bgyml : 11000
-BSA/MovementParam/Moriblin_Middle.game__bsa__MovementParam.bgyml : 7000
+BSA/MovementParam/Moriblin_Gold.game__bsa__MovementParam.bgyml : 8000
 Component/ChemicalParam/Enemy_Moriblin_Gold.game__component__ChemicalParam.bgyml : 11500
 Component/DropParam/Enemy_Moriblin_Gold.game__component__DropParam.bgyml : 9500
 Component/GameBalanceClientParam/Moriblin_Gold.game__component__GameBalanceClientParam.bgyml : 8000
 Component/LifeParam/Moriblin_Gold.game__component__LifeParam.bgyml : 8000
 Component/ModelInfo/Enemy_Moriblin_Gold.engine__component__ModelInfo.bgyml : 8000
-Component/PerceptionReceiverParam/Moriblin.game__component__PerceptionReceiverParam.bgyml : 16000
+Component/PerceptionReceiverParam/Moriblin_Gold.game__component__PerceptionReceiverParam.bgyml : 16000
 Drop/DropTable/Enemy_Moriblin_Gold_Minus_Normal.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Moriblin_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Moriblin_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 10000
@@ -73,11 +73,13 @@ Model/Enemy_Lizalfos.anim.bfres : 15000
 TexToGo/Lizalfos_Gold_Armor_Alb.txtg : 37500
 TexToGo/Lizalfos_Gold_Body_Alb.txtg : 185000
 Actor/Enemy_Lizalfos_Gold.engine__actor__ActorParam.bgyml : 12000
+BSA/MovementParam/Lizalfos_Gold.game__bsa__MovementParam.bgyml : 8000
 Component/ChemicalParam/Lizalfos_Gold.game__component__ChemicalParam.bgyml : 13000
 Component/DropParam/Enemy_Lizalfos_Gold.game__component__DropParam.bgyml : 10000
 Component/GameBalanceClientParam/Lizalfos_Gold.game__component__GameBalanceClientParam.bgyml : 10000
 Component/LifeParam/Lizalfos_Gold.game__component__LifeParam.bgyml : 10000
 Component/ModelInfo/Enemy_Lizalfos_Gold.engine__component__ModelInfo.bgyml : 10000
+Component/PerceptionReceiverParam/Lizalfos_Gold.game__component__PerceptionReceiverParam.bgyml : 15000
 Drop/DropTable/Enemy_Lizalfos_Gold_Minus_Normal.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Lizalfos_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 10000
@@ -107,6 +109,7 @@ Component/EquipmentUserParam/Lynel.game__component__EquipmentUserParam.bgyml : 9
 Component/GameBalanceClientParam/Enemy_Lynel_Gold.game__component__GameBalanceClientParam.bgyml : 9000
 Component/LifeParam/Enemy_Lynel_Gold.game__component__LifeParam.bgyml : 9000
 Component/ModelInfo/Enemy_Lynel_Gold.engine__component__ModelInfo.bgyml : 9000
+Component/PerceptionReceiverParam/Lynel_Gold.game__component__PerceptionReceiverParam.bgyml : 18000
 Component/QuadrupedParam/Enemy_Lynel_Gold.game__component__QuadrupedParam.bgyml : 12000
 Drop/DropTable/Enemy_Lynel_Gold_Minus_Normal.game__drop__DropTable.bgyml : 10000
 Drop/DropTable/Enemy_Lynel_Gold_Normal_Bomb.game__drop__DropTable.bgyml : 10000
@@ -149,6 +152,7 @@ TexToGo/Enemy_Horablin_Gold_Apron_Alb.txtg : 12000
 TexToGo/Enemy_Horablin_Gold_Body_Alb.txtg : 160000
 TexToGo/Enemy_Horablin_Gold_Hair_Alb.txtg : 55000
 Actor/Enemy_Horablin_Gold.engine__actor__ActorParam.bgyml : 11000
+BSA/MovementParam/Horiblin_Gold.game__bsa__MovementParam.bgyml : 8000
 Component/ChemicalParam/Enemy_Horablin_Gold.game__component__ChemicalParam.bgyml : 12000
 Component/DropParam/Enemy_Horablin_Gold.game__component__DropParam.bgyml : 9000
 Component/GameBalanceClientParam/Horablin_Gold.game__component__GameBalanceClientParam.bgyml : 9000
@@ -160,5 +164,6 @@ Drop/DropTableElementList/Enemy_Sub_Horablin_Gold_SubMaterial01.game__drop__Drop
 GameBalance/AttackParam/Enemy_Horablin_Gold.game__gamebalance__AttackParam.bgyml : 18000
 GameParameter/EnemyCommonParam/Horablin_Gold.game__enemy__EnemyCommonParam.bgyml : 14500
 GameParameter/GameParameterTable/Enemy_Horablin_Gold.engine__actor__GameParameterTable.bgyml : 10000
+GameParameter/HorablinParam/Enemy_Horablin_Gold.game__enemy__HorablinParam.bgyml : 9000
 Life/DamageParameters/Enemy_Horablin_Gold.game__life__DamageParameters.bgyml : 16000
 Life/LifeParameters/Enemy_Horablin_Gold.game__life__LifeParameters.bgyml : 7500
