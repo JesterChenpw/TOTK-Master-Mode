@@ -16,6 +16,7 @@ Golden Horriblin Horn
 Golden Boss Bokoblin Horn
 +1 Rank                         CHECK
 Golden in XP system             CHECK
+Enhance enemy camp chests       
 
 Optional :
 Elemental Lynels
