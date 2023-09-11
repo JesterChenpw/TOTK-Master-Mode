@@ -99,3 +99,10 @@
 - Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
+
+##### Golden enemy horns/tail
+
+###### Golden Lizalfos Tail (Item_Enemy_900)
+- Fuse Damage : 50
+- Sell Price : 26
+- Buy Price : 104

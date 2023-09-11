@@ -4,11 +4,15 @@ RSDB/ActorInfo.Product.121.rstbl.byml : 6047168
 RSDB/GameActorInfo.Product.121.rstbl.byml : 1512736
 Pack/Actor/Player.pack : 1200000
 Pack/Bootup.Nin_NX_NVN.pack : 1994272
+Pack/ResidentCommon.pack : 500000
 Life/DamageParameters/Player.game__life__DamageParameters.bgyml : 12000
 GameBalance/AttackParam/Player.game__gamebalance__AttackParam.bgyml : 50000
 GameBalance/LevelSensorTargetDefine/Default.game__gamebalance__LevelSensorTargetDefine.bgyml : 200000
 Component/ConditionParam/Player.game__component__ConditionParam.bgyml : 15000
 UI/LayoutArchive/Common.Product.110.Nin_NX_NVN.blarc : 60697999
+RSDB/PouchActorInfo.Product.121.rstbl.byml : 350000
+RSDB/AttachmentActorInfo.Product.121.rstbl.byml : 170000
+GameData/GameDataList.Product.110.byml : 16000000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
@@ -198,3 +202,14 @@ GameParameter/EnemyCommonParam/Bokoblin_Boss_Gold.game__enemy__EnemyCommonParam.
 GameParameter/GameParameterTable/Enemy_Bokoblin_Boss_Gold.engine__actor__GameParameterTable.bgyml : 10000
 Life/DamageParameters/Enemy_Bokoblin_Boss_Gold.game__life__DamageParameters.bgyml : 16000
 Life/LifeParameters/Enemy_Bokoblin_Boss_Gold.game__life__LifeParameters.bgyml : 8000
+
+Pack/Actor/Item_Enemy_900.pack : 45000
+Model/Item_Enemy_05.anim.bfres : 46000
+TexToGo/Item_Enemy_05_Alb.7.txtg : 33000
+Actor/Item_Enemy_900.engine__actor__ActorParam.bgyml : 9000
+Component/AttachmentParam/Item_Enemy_900.game__component__AttachmentParam.bgyml : 9000
+Component/ModelInfo/Item_Enemy_900.engine__component__ModelInfo.bgyml : 9000
+GameParameter/GameParameterTable/Item_Enemy_900.engine__actor__GameParameterTable.bgyml : 9000
+GameParameter/PriceParam/Item_Enemy_900.game__pouchcontent__PriceParam.bgyml : 9000
+GameParameter/SpiceParam/Item_Enemy_900.game__pouchcontent__SpiceParam.bgyml : 9000
+UI/Tex/Icon/Item_Enemy_900.bntx : 120000
