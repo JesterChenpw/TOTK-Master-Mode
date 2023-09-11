@@ -9,7 +9,7 @@ Golden Boss Bokoblin            CHECK
 Golden Bokoblin Horn
 Golden Moblin Horn
 Golden Lizalfos Horn
-Golden Lizalfos Tail
+Golden Lizalfos Tail            CHECK
 Golden Lynel Saber Horn
 Golden Lynel Mace Horn
 Golden Horriblin Horn

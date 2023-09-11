@@ -102,7 +102,7 @@
 
 ##### Golden enemy horns/tail
 
-###### Golden Lizalfos Tail (Item_Enemy_900)
+###### Golden Lizalfos Tail (Item_Enemy_900) (fully implemented)
 - Fuse Damage : 50
 - Sell Price : 26
 - Buy Price : 104
