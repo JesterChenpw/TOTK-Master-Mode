@@ -6,6 +6,9 @@
 - Charged attacks are slower and take more stamina
 - Hitting a Lynel when on its back does less damage for one handed and two handed weapons
 
+##### Scaling
+- All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium.
+
 ##### Golden enemies
 
 ###### Golden Bokoblin (fully implemented)
@@ -17,7 +20,7 @@
 - Faster speed
 - Better awareness
 - Can not be tricked with Bokoblin or Majora's Masks
-- Immune to all elements
+- Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
@@ -30,7 +33,7 @@
 - Faster speed
 - Better awareness
 - Can not be tricked with Moblin or Majora's Masks
-- Immune to all elements
+- Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
@@ -43,7 +46,7 @@
 - Faster speed
 - Better awareness
 - Can not be tricked with Lizalfos or Majora's Masks
-- Immune to all elements
+- Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
@@ -72,7 +75,7 @@
 - Faster speed
 - Better awareness
 - Can not be tricked with Horriblin or Majora's Masks
-- Immune to all elements
+- Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
@@ -85,6 +88,6 @@
 - Faster speed
 - Better awareness
 - Can not be tricked with Bokoblin or Majora's Masks
-- Immune to all elements
+- Immune to all elements and confusion
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
