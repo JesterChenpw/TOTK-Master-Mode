@@ -7,7 +7,7 @@
 - Hitting a Lynel when on its back does less damage for one handed and two handed weapons
 
 ##### Scaling
-- All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium.
+- All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium. Each tier of enemy will use the XP threshold of the previous rank, like in BotW as well. e.g. Silver Lizalfos -> Golden Lizalfos will occur when Black Lizalfos -> Silver Lizalfos would have occured in Normal Mode.
   - [Red Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-4,0xb485726697bc4505)
   - [Red Armored Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,D-6,0x8f761f61db5ed24e)
   - [Red Moblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,E-7,0xb33392917f6dfb14)
@@ -103,6 +103,50 @@
 ##### Golden enemy horns/tail
 
 ###### Golden Lizalfos Tail (Item_Enemy_900) (fully implemented)
-- Fuse Damage : 50
-- Sell Price : 26
-- Buy Price : 104
+- Fuse Damage: 49
+- Sell Price: 150
+- Buy Price: 600
+- Crit chance: 60%
+- Cook time: 5:20
+
+###### Golden Bokoblin Horn (Item_Enemy_901) (did not start yet)
+- Fuse Damage: 52
+- Sell Price: 175
+- Buy Price: 700
+- Cook time: 2:00
+
+###### Golden Moblin Horn (Item_Enemy_902) (did not start yet)
+- Fuse Damage: 57
+- Sell Price: 200
+- Buy Price: 800
+- Cook time: 2:30
+
+###### Golden Lizalfos Horn (Item_Enemy_903) (did not start yet)
+- Fuse Damage: 60
+- Sell Price: 250
+- Buy Price: 1000
+- Cook time: 3:00
+
+###### Golden Lynel Saber Horn (Item_Enemy_904) (did not start yet)
+- Fuse Damage: 85
+- Sell Price: 650
+- Buy Price: 2600
+- Cook time: 9:00
+
+###### Golden Lynel Mace Horn (Item_Enemy_905) (did not start yet)
+- Fuse Damage: 78
+- Sell Price: 650
+- Buy Price: 2600
+- Cook time: 9:00
+
+###### Golden Horriblin Horn (Item_Enemy_906) (did not start yet)
+- Fuse Damage: 62
+- Sell Price: 300
+- Buy Price: 1200
+- Cook time: 4:00
+
+###### Golden Boss Bokoblin Horn (Item_Enemy_907) (did not start yet)
+- Fuse Damage: 70
+- Sell Price: 400
+- Buy Price: 1600
+- Cook time: 5:00
