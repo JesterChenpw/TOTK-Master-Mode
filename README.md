@@ -76,7 +76,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Boss Bokoblin (did not start yet)
+###### Golden Boss Bokoblin (fully implemented)
 - Base Attack Power: 76
 - Base Attack Power (melee): 96
 - Base Attack Power (ranged): 76
