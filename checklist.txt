@@ -15,7 +15,7 @@ Golden Lynel Mace Horn
 Golden Horriblin Horn
 Golden Boss Bokoblin Horn
 +1 Rank                         CHECK
-Golden in XP system
+Golden in XP system             CHECK
 
 Optional :
 Elemental Lynels
