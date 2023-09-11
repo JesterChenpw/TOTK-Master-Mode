@@ -3,8 +3,10 @@ Life/DamageGlobalParam/Default.game__life__DamageGlobalParam.bgyml : 7000
 RSDB/ActorInfo.Product.121.rstbl.byml : 6047168
 RSDB/GameActorInfo.Product.121.rstbl.byml : 1512736
 Pack/Actor/Player.pack : 1200000
+Pack/Bootup.Nin_NX_NVN.pack : 1994272
 Life/DamageParameters/Player.game__life__DamageParameters.bgyml : 12000
 GameBalance/AttackParam/Player.game__gamebalance__AttackParam.bgyml : 50000
+GameBalance/LevelSensorTargetDefine/Default.game__gamebalance__LevelSensorTargetDefine.bgyml : 200000
 Component/ConditionParam/Player.game__component__ConditionParam.bgyml : 15000
 UI/LayoutArchive/Common.Product.110.Nin_NX_NVN.blarc : 60697999
 
