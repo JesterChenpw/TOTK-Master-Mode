@@ -4,12 +4,11 @@ import os
 
 banc_path = r"Banc"
 
-mainfield_files = ['Banc\\MainField\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField') if '.byml.zs' in file]
-sky_files = ['Banc\\MainField\\Sky\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Sky') if '.byml.zs' in file]
-castle_files = ['Banc\\MainField\\Castle\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Castle') if '.byml.zs' in file]
-cave_files = ['Banc\\MainField\\Cave\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Cave') if '.byml.zs' in file]
-chasm_files = ['Banc\\MainField\\DeepHole\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\DeepHole') if '.byml.zs' in file]
-minusfield_files = ['Banc\\MinusField\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MinusField') if '.byml.zs' in file]
+mainfield_files = ['Banc\\MainField\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField') if '.byml' in file]
+sky_files = ['Banc\\MainField\\Sky\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Sky') if '.byml' in file]
+castle_files = ['Banc\\MainField\\Castle\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Castle') if '.byml' in file]
+cave_files = ['Banc\\MainField\\Cave\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Cave') if '.byml' in file]
+minusfield_files = ['Banc\\MinusField\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MinusField') if '.byml' in file]
 
 rank_up_dict = {
     "Enemy_Bokoblin_Junior": "Enemy_Bokoblin_Middle",
@@ -67,8 +66,8 @@ def change_map_file(file, folder, file_path):
 
         for actor_data in map_data['Actors']:
 
-            if actor_data['Gyml'] in rank_up_dict:
-                actor_data['Gyml'] = rank_up_dict[actor_data['Gyml']]
+            if 'Gyaml' in actor_data and actor_data['Gyaml'] in rank_up_dict:
+                actor_data['Gyaml'] = rank_up_dict[actor_data['Gyaml']]
                 has_changed = True
 
         if has_changed:
@@ -86,15 +85,47 @@ def change_map_file(file, folder, file_path):
 
 def change_map_files_of_one_type(list_files):
 
+    files_changed = []
+
     for file in list_files:
 
         file_name = str(file).split('\\')[-1]
-        folder_name = 'test\\'
-        if len(str(file).split('\\')) == 3:
-            folder_name = folder_name + str(file).split('\\')[0] + '\\' + str(file).split('\\')[1]
+        folder_name = 'ScaleUpOutput\\'
+        if 'MinusField' in file:
+            folder_name = folder_name + 'MinusField'
+        elif 'Sky' in file:
+            folder_name = folder_name + 'MainField\\Sky'
+        elif 'Castle' in file:
+            folder_name = folder_name + 'MainField\\Castle'
+        elif 'Cave' in file:
+            folder_name = folder_name + 'MainField\\Cave'
         else:
-            folder_name = folder_name + str(file).split('\\')[0]
+            folder_name = folder_name + 'MainField'
         
-        change_map_file(file_name, folder_name, banc_path.replace('Banc', '') + file)
+        if change_map_file(file_name, folder_name, banc_path.replace('Banc', '') + file):
+            files_changed.append(banc_path.replace('Banc', '') + file)
 
-change_map_files_of_one_type(mainfield_files)
+    return files_changed
+
+def do_all():
+
+    restbl_changes = []
+
+    for file_list in [mainfield_files, sky_files, castle_files, cave_files, minusfield_files]:
+
+        file_list_changed_files = change_map_files_of_one_type(file_list)
+
+        for file in file_list_changed_files:
+            restbl_changes.append(file)
+
+    with open('ScaleUpOutputRestbl.json', 'w') as json_file:
+        json_file.write(json.dumps(restbl_changes, indent = 2))
+
+    input('\n\nFinished processing all map files. Press any key to close.')
+
+def main():
+
+    do_all()
+
+if __name__ == '__main__':
+    main()
