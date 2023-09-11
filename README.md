@@ -8,14 +8,14 @@
 
 ##### Scaling
 - All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium.
-- - [Red Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-4,0xb485726697bc4505)
-- - [Red Armored Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,D-6,0x8f761f61db5ed24e)
-- - [Red Moblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,E-7,0xb33392917f6dfb14)
-- - [Green Lizalfos](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,C-1,0xb9172ba12f4c5007)
-- - [Red Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,I-2,0x6b549b34c4879128)
-- - [Red Armored Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,F-6,0x13737102680c78dc)
-- - [Red Horriblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
-- - [Red Boss Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
+  - [Red Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-4,0xb485726697bc4505)
+  - [Red Armored Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,D-6,0x8f761f61db5ed24e)
+  - [Red Moblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,E-7,0xb33392917f6dfb14)
+  - [Green Lizalfos](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,C-1,0xb9172ba12f4c5007)
+  - [Red Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,I-2,0x6b549b34c4879128)
+  - [Red Armored Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,F-6,0x13737102680c78dc)
+  - [Red Horriblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
+  - [Red Boss Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
 
 ##### Golden enemies
 
