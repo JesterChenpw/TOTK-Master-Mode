@@ -15,7 +15,7 @@
   - [Red Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,I-2,0x6b549b34c4879128)
   - [Red Armored Lynel](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,F-6,0x13737102680c78dc)
   - [Red Horriblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
-  - [Red Boss Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
+  - [Red Boss Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-1,0x3d8aa5f4040846fb)
 
 ##### Golden enemies
 
