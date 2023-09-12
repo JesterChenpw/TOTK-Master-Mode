@@ -6,8 +6,8 @@ Golden armored Bokoblin			CHECK
 Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
-Golden Bokoblin Horn
-Golden Moblin Horn
+Golden Bokoblin Horn            CHECK
+Golden Moblin Horn              CHECK
 Golden Lizalfos Horn
 Golden Lizalfos Tail            CHECK
 Golden Lynel Saber Horn
@@ -16,7 +16,6 @@ Golden Horriblin Horn
 Golden Boss Bokoblin Horn
 +1 Rank                         CHECK
 Golden in XP system             CHECK
-Enhance enemy camp chests       
 
 Optional :
 Elemental Lynels

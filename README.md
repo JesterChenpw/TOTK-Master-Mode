@@ -115,7 +115,7 @@
 - Buy Price: 700
 - Cook time: 2:00
 
-###### Golden Moblin Horn (Item_Enemy_902) (did not start yet)
+###### Golden Moblin Horn (Item_Enemy_902) (fully implemented, waiting for model/texture)
 - Fuse Damage: 57
 - Sell Price: 200
 - Buy Price: 800
