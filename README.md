@@ -121,7 +121,7 @@
 - Buy Price: 800
 - Cook time: 2:30
 
-###### Golden Lizalfos Horn (Item_Enemy_903) (did not start yet)
+###### Golden Lizalfos Horn (Item_Enemy_903) (fully implemented, waiting for model/texture)
 - Fuse Damage: 60
 - Sell Price: 250
 - Buy Price: 1000
