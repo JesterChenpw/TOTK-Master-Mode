@@ -109,7 +109,7 @@
 - Crit chance: 60%
 - Cook time: 5:20
 
-###### Golden Bokoblin Horn (Item_Enemy_901) (did not start yet)
+###### Golden Bokoblin Horn (Item_Enemy_901) (halfway implemented. Golden re texture of Black Bokoblin Horn)
 - Fuse Damage: 52
 - Sell Price: 175
 - Buy Price: 700
