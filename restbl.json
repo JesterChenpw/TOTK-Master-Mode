@@ -16,6 +16,7 @@
   "BSA/MovementParam/Horiblin_Gold.game__bsa__MovementParam.bgyml": 8000,
   "BSA/MovementParam/Lizalfos_Gold.game__bsa__MovementParam.bgyml": 8000,
   "BSA/MovementParam/Moriblin_Gold.game__bsa__MovementParam.bgyml": 8000,
+  "Banc/NormalStage/OpeningField_Static.bcett.byml": 50000,
   "Chemical/MaterialParam/enemy_fire_ice_electric_proof.game__chm__MaterialParam.bgyml": 7500,
   "Component/AttachmentParam/Item_Enemy_900.game__component__AttachmentParam.bgyml": 9000,
   "Component/AttachmentParam/Item_Enemy_901.game__component__AttachmentParam.bgyml": 12000,
