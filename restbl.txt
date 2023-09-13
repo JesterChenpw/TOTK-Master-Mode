@@ -16,6 +16,7 @@ GameData/GameDataList.Product.110.byml : 16000000
 Banc/NormalStage/OpeningField_Static.bcett.byml : 50000
 Game/PictureBookInfo/Enemy.game__ui__PictureBookInfo.bgyml : 70000
 Game/PictureBookInfo/Material.game__ui__PictureBookInfo.bgyml : 70000
+Banc/NormalStage/TitleScreen_Static.bcett.byml : 5000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
@@ -275,3 +276,17 @@ UI/Tex/Icon/Item_Enemy_904.bntx : 140000
 Ecosystem/HornTypeAndAttachmentMappingTable/Horablin_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 9000
 Model/Enemy_Horablin_Horn.Enemy_Horablin_Horn_Hammer_Gold.bfres : 108000
 TexToGo/Enemy_Horablin_Horn_Hammer_Gold_Alb.txtg : 50000
+
+Pack/Actor/Item_Enemy_905.pack : 120000
+Actor/Item_Enemy_905.engine__actor__ActorParam.bgyml : 12000
+Model/Item_Enemy_905.Item_Enemy_905.bfres : 200000
+Component/AttachmentParam/Item_Enemy_905.game__component__AttachmentParam.bgyml : 12000
+Component/ModelInfo/Item_Enemy_905.engine__component__ModelInfo.bgyml : 8000
+GameParameter/GameParameterTable/Item_Enemy_905.engine__actor__GameParameterTable.bgyml : 9000
+GameParameter/PriceParam/Item_Enemy_905.game__pouchcontent__PriceParam.bgyml : 9000
+GameParameter/SortKey/Item_Enemy_905.game__pouchcontent__SortKey.bgyml : 7500
+GameParameter/SpiceParam/Item_Enemy_905.game__pouchcontent__SpiceParam.bgyml : 11000
+UI/Tex/Icon/Item_Enemy_905.bntx : 200000
+Ecosystem/HornTypeAndAttachmentMappingTable/Bokoblin_Boss_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 9000
+Model/Enemy_Bokoblin_Boss_Horn.Enemy_Bokoblin_Boss_Horn_Sharp_Gold.bfres : 200000
+TexToGo/Enemy_Bokoblin_Boss_Horn_Hammer_Gold.Alb.txtg : 60000

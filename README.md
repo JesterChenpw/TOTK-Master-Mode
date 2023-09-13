@@ -133,7 +133,7 @@
 - Buy Price: 1200
 - Cook time: 4:00
 
-###### Golden Boss Bokoblin Horn (Item_Enemy_905) (did not start yet)
+###### Golden Boss Bokoblin Horn (Item_Enemy_905) (fully implemented, waiting for model/texture)
 - Fuse Damage: 70
 - Sell Price: 400
 - Buy Price: 1600
