@@ -127,26 +127,26 @@
 - Buy Price: 1000
 - Cook time: 3:00
 
-###### Golden Lynel Saber Horn (Item_Enemy_904) (did not start yet)
-- Fuse Damage: 85
-- Sell Price: 650
-- Buy Price: 2600
-- Cook time: 9:00
-
-###### Golden Lynel Mace Horn (Item_Enemy_905) (did not start yet)
-- Fuse Damage: 78
-- Sell Price: 650
-- Buy Price: 2600
-- Cook time: 9:00
-
-###### Golden Horriblin Horn (Item_Enemy_906) (did not start yet)
+###### Golden Horriblin Horn (Item_Enemy_904) (fully implemented, waiting for model/texture)
 - Fuse Damage: 62
 - Sell Price: 300
 - Buy Price: 1200
 - Cook time: 4:00
 
-###### Golden Boss Bokoblin Horn (Item_Enemy_907) (did not start yet)
+###### Golden Boss Bokoblin Horn (Item_Enemy_905) (did not start yet)
 - Fuse Damage: 70
 - Sell Price: 400
 - Buy Price: 1600
 - Cook time: 5:00
+
+###### Golden Lynel Mace Horn (Item_Enemy_906) (did not start yet)
+- Fuse Damage: 78
+- Sell Price: 650
+- Buy Price: 2600
+- Cook time: 9:00
+
+###### Golden Lynel Saber Horn (Item_Enemy_907) (did not start yet)
+- Fuse Damage: 85
+- Sell Price: 650
+- Buy Price: 2600
+- Cook time: 9:00

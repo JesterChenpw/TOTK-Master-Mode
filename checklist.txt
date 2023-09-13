@@ -12,7 +12,7 @@ Golden Lizalfos Horn            CHECK
 Golden Lizalfos Tail            CHECK
 Golden Lynel Saber Horn
 Golden Lynel Mace Horn
-Golden Horriblin Horn
+Golden Horriblin Horn           CHECK
 Golden Boss Bokoblin Horn
 +1 Rank                         CHECK
 Golden in XP system             CHECK
