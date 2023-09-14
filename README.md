@@ -2,7 +2,7 @@
 
 ##### Regular gameplay changes
 - Gloom damage went from 0.3x damage to 0.8x damage
-- Link's combo starters and jumped attacks (except for 2H) don't ragdoll enemies
+- Almost all Link's attacks do not interrupt enemies' actions
 - Charged attacks are slower and take more stamina
 - Hitting a Lynel when on its back does less damage for one handed and two handed weapons
 
