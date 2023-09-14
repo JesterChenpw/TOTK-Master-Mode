@@ -5,6 +5,8 @@
 - Almost all Link's attacks do not interrupt enemies' actions
 - Charged attacks are slower and take more stamina
 - Hitting a Lynel when on its back does less damage for one handed and two handed weapons
+- Flurry rush only does 0.25x damage
+- Spin to win only does 0.5x damage
 
 ##### Scaling
 - All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium. Each tier of enemy will use the XP threshold of the previous rank, like in BotW as well. e.g. Silver Lizalfos -> Golden Lizalfos will occur when Black Lizalfos -> Silver Lizalfos would have occured in Normal Mode.
@@ -139,14 +141,14 @@
 - Buy Price: 1600
 - Cook time: 5:00
 
-###### Golden Lynel Mace Horn (Item_Enemy_906) (did not start yet)
-- Fuse Damage: 78
+###### Golden Lynel Saber Horn (Item_Enemy_906) (fully implemented, waiting for model/texture)
+- Fuse Damage: 85
 - Sell Price: 650
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Golden Lynel Saber Horn (Item_Enemy_907) (did not start yet)
-- Fuse Damage: 85
+###### Golden Lynel Mace Horn (Item_Enemy_90) (did not start yet)
+- Fuse Damage: 78
 - Sell Price: 650
 - Buy Price: 2600
 - Cook time: 9:00
