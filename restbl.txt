@@ -18,6 +18,8 @@ Game/PictureBookInfo/Enemy.game__ui__PictureBookInfo.bgyml : 70000
 Game/PictureBookInfo/Material.game__ui__PictureBookInfo.bgyml : 70000
 Banc/NormalStage/TitleScreen_Static.bcett.byml : 5000
 
+GameParameter/SeriesArmorEffectParamList/Default.game__equipment__SeriesArmorEffectParamList.bgyml : 14264
+
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
 BSA/MovementParam/Bokoblin_Gold.game__bsa__MovementParam.bgyml : 8000
