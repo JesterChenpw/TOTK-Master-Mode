@@ -6,6 +6,8 @@ Golden armored Bokoblin			CHECK
 Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
+Soldier Construct V
+Captain Construct V
 Golden Bokoblin Horn            CHECK
 (model)
 Golden Moblin Horn              CHECK
@@ -22,14 +24,36 @@ Golden Horriblin Horn           CHECK
 (model)
 Golden Boss Bokoblin Horn       CHECK
 (model)
+Soldier Construct V Horn
+(model)
+Captain Construct V Horn
+(model)
 +1 Rank                         CHECK
 Golden in XP system             CHECK
+Ganondorf and alike recolor
+Final boss segment buff
 English translation
 French translation
 Compendium pictures
 RESTBL for other ver.
 
 Optional :
-Elemental Lynels
-Elemental Hinoxes
-etc.
+
+Demon Lord Gleeok               CHECK
+(model)
+Meteo Lynel
+(model)
+Blizzard Lynel
+(model)
+Thunderstorm Lynel
+(model)
+Talus
+(model)
+Hinox
+(model)
+Flux Construct
+(model)
+Molduga
+(model)
+Hinox
+(model)
