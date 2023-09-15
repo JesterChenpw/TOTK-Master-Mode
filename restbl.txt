@@ -327,9 +327,24 @@ Actor/Enemy_Drake_Lord.engine__actor__ActorParam.bgyml : 12000
 Component/ConditionParam/Drake_Lord.game__component__ConditionParam.bgyml : 11500
 Component/LifeParam/Drake_Lord.game__component__LifeParam.bgyml : 8500
 Component/GameBalanceClientParam/Drake_Lord.game__component__GameBalanceClientParam.bgyml : 10000
+Component/PerceptionReceiverParam/Drake_Lord.game__component__PerceptionReceiverParam.bgyml : 15000
+Component/ShooterParam/Enemy_Drake_Lord.game__component__ShooterParam.bgyml : 13000
 Game/DrakeGameParam/Enemy_Drake_Lord.game__enemy__DrakeGameParam.bgyml : 11000
 GameBalance/AttackParam/Enemy_Drake_Lord.game__gamebalance__AttackParam.bgyml : 15000
 GameParameter/EnemyCommonParam/Enemy_Drake_Lord.game__enemy__EnemyCommonParam.bgyml : 15000
 GameParameter/GameParameterTable/Enemy_Drake_Lord.engine__actor__GameParameterTable.bgyml : 11000
 Life/DamageParameters/Enemy_Drake_Lord.game__life__DamageParameters.bgyml : 17000
 Life/LifeParameters/Enemy_Drake_Lord.game__life__LifeParameters.bgyml : 8000
+
+Pack/Actor/Drake_Lord_Beam_Small_Electric.pack : 40000
+Pack/Actor/Drake_Lord_Beam_Small_Fire.pack : 40000
+Pack/Actor/Drake_Lord_Beam_Small_Ice.pack : 40000
+Actor/Drake_Lord_Beam_Small_Electric.engine__actor__ActorParam.bgyml : 10000
+Actor/Drake_Lord_Beam_Small_Fire.engine__actor__ActorParam.bgyml : 10000
+Actor/Drake_Lord_Beam_Small_Ice.engine__actor__ActorParam.bgyml : 10000
+GameParameter/GameParameterTable/Drake_Lord_Beam_Small_Electric.engine__actor__GameParameterTable.bgyml : 9000
+GameParameter/GameParameterTable/Drake_Lord_Beam_Small_Fire.engine__actor__GameParameterTable.bgyml : 9000
+GameParameter/GameParameterTable/Drake_Lord_Beam_Small_Ice.engine__actor__GameParameterTable.bgyml : 9000
+GameBalance/AttackParam/Drake_Lord_Beam_Small_Electric.game__gamebalance__AttackParam.bgyml : 12000
+GameBalance/AttackParam/Drake_Lord_Beam_Small_Fire.game__gamebalance__AttackParam.bgyml : 12000
+GameBalance/AttackParam/Drake_Lord_Beam_Small_Ice.game__gamebalance__AttackParam.bgyml : 12000
