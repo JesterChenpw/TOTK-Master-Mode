@@ -126,7 +126,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Check minibosses_spoilers.md for new mini bosses variants. If you're only a player and not actually a modder, you better not click on that for a better surprise!
+Check minibosses_spoilers.md for new mini bosses variants. If you're only a player and not actually a modder, you better not click on that for a better surprise!
 
 ##### New enemy materials
 
