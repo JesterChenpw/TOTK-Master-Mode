@@ -323,4 +323,12 @@ UI/Tex/Icon/Item_Enemy_907.bntx : 140000
 
 Pack/Actor/Enemy_Drake_Lord.pack : 2000000
 Actor/Enemy_Drake_Lord.engine__actor__ActorParam.bgyml : 12000
+Component/ConditionParam/Drake_Lord.game__component__ConditionParam.bgyml : 11500
+Component/LifeParam/Drake_Lord.game__component__LifeParam.bgyml : 8500
+Component/GameBalanceClientParam/Drake_Lord.game__component__GameBalanceClientParam.bgyml : 10000
+Game/DrakeGameParam/Enemy_Drake_Lord.game__enemy__DrakeGameParam.bgyml : 11000
+GameBalance/AttackParam/Enemy_Drake_Lord.game__gamebalance__AttackParam.bgyml : 15000
+GameParameter/EnemyCommonParam/Enemy_Drake_Lord.game__enemy__EnemyCommonParam.bgyml : 15000
+GameParameter/GameParameterTable/Enemy_Drake_Lord.engine__actor__GameParameterTable.bgyml : 11000
+Life/DamageParameters/Enemy_Drake_Lord.game__life__DamageParameters.bgyml : 17000
 Life/LifeParameters/Enemy_Drake_Lord.game__life__LifeParameters.bgyml : 8000
