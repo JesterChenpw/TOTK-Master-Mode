@@ -320,3 +320,7 @@ GameParameter/PriceParam/Item_Enemy_907.game__pouchcontent__PriceParam.bgyml : 7
 GameParameter/SortKey/Item_Enemy_907.game__pouchcontent__SortKey.bgyml : 7500
 GameParameter/SpiceParam/Item_Enemy_907.game__pouchcontent__SpiceParam.bgyml : 11000
 UI/Tex/Icon/Item_Enemy_907.bntx : 140000
+
+Pack/Actor/Enemy_Drake_Lord.pack : 2000000
+Actor/Enemy_Drake_Lord.engine__actor__ActorParam.bgyml : 12000
+Life/LifeParameters/Enemy_Drake_Lord.game__life__LifeParameters.bgyml : 8000

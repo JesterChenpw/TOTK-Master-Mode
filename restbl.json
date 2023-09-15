@@ -2,6 +2,7 @@
   "Actor/Enemy_Bokoblin_Armor_Gold.engine__actor__ActorParam.bgyml": 9000,
   "Actor/Enemy_Bokoblin_Boss_Gold.engine__actor__ActorParam.bgyml": 11000,
   "Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml": 10000,
+  "Actor/Enemy_Drake_Lord.engine__actor__ActorParam.bgyml": 12000,
   "Actor/Enemy_Horablin_Gold.engine__actor__ActorParam.bgyml": 11000,
   "Actor/Enemy_Lizalfos_Gold.engine__actor__ActorParam.bgyml": 12000,
   "Actor/Enemy_Lynel_Boss_Gold.engine__actor__ActorParam.bgyml": 9500,
@@ -218,6 +219,7 @@
   "Life/DamageParameters/Player.game__life__DamageParameters.bgyml": 12000,
   "Life/LifeParameters/Bokoblin_Gold.game__life__LifeParameters.bgyml": 8000,
   "Life/LifeParameters/Enemy_Bokoblin_Boss_Gold.game__life__LifeParameters.bgyml": 8000,
+  "Life/LifeParameters/Enemy_Drake_Lord.game__life__LifeParameters.bgyml": 8000,
   "Life/LifeParameters/Enemy_Horablin_Gold.game__life__LifeParameters.bgyml": 7500,
   "Life/LifeParameters/Enemy_Lynel_Gold.game__life__LifeParameters.bgyml": 9000,
   "Life/LifeParameters/Lizalfos_Gold.game__life__LifeParameters.bgyml": 8000,
@@ -250,6 +252,7 @@
   "Pack/Actor/Enemy_Bokoblin_Armor_Gold.pack": 1500000,
   "Pack/Actor/Enemy_Bokoblin_Boss_Gold.pack": 2500000,
   "Pack/Actor/Enemy_Bokoblin_Gold.pack": 1500000,
+  "Pack/Actor/Enemy_Drake_Lord.pack": 2000000,
   "Pack/Actor/Enemy_Horablin_Gold.pack": 2500000,
   "Pack/Actor/Enemy_Lizalfos_Gold.pack": 1300000,
   "Pack/Actor/Enemy_Lynel_Boss_Gold.pack": 2500000,
@@ -303,5 +306,5 @@
   "UI/Tex/Icon/Item_Enemy_904.bntx": 140000,
   "UI/Tex/Icon/Item_Enemy_905.bntx": 200000,
   "UI/Tex/Icon/Item_Enemy_906.bntx": 140000,
-  "UI/Tex/Icon/Item_Enemy_907.bntx": 14000
+  "UI/Tex/Icon/Item_Enemy_907.bntx": 140000
 }
