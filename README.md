@@ -147,7 +147,7 @@
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Golden Lynel Mace Horn (Item_Enemy_90) (did not start yet)
+###### Golden Lynel Mace Horn (Item_Enemy_90) (fully implemented, waiting for model/texture)
 - Fuse Damage: 78
 - Sell Price: 650
 - Buy Price: 2600
