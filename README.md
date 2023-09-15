@@ -9,7 +9,7 @@
 - Spin to win only does 0.5x damage
 
 ##### Scaling
-- All enemies that have golden variants will go up a rank (like in BotW). There will still be one of each base enemy for the compendium. Each tier of enemy will use the XP threshold of the previous rank, like in BotW as well. e.g. Silver Lizalfos -> Golden Lizalfos will occur when Black Lizalfos -> Silver Lizalfos would have occured in Normal Mode.
+- All enemies that have golden variants (so not counting Constructs) will go up a rank (like in BotW). There will still be one of each base enemy for the compendium. Each tier of enemy will use the XP threshold of the previous rank, like in BotW as well. e.g. Silver Lizalfos -> Golden Lizalfos will occur when Black Lizalfos -> Silver Lizalfos would have occured in Normal Mode.
   - [Red Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-4,0xb485726697bc4505)
   - [Red Armored Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Depths?id=MinusField,D-6,0x8f761f61db5ed24e)
   - [Red Moblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,E-7,0xb33392917f6dfb14)
@@ -19,9 +19,9 @@
   - [Red Horriblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,Cave__Cave_Hebra_0035_GroupSet_000%20,0xf6653dfe76458d9e)
   - [Red Boss Bokoblin](https://objmap-totk.zeldamods.org/#/map/z2,0,0,Surface?id=MainField,G-1,0x3d8aa5f4040846fb)
 
-##### Golden enemies
+##### New enemies
 
-###### Golden Bokoblin (fully implemented)
+###### Golden Bokoblin (Enemy_Bokoblin_Gold )(fully implemented)
 - Base Attack Power: 56
 - Base Attack Power (melee): 80
 - Base Attack Power (ranged): 56
@@ -34,7 +34,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Moblin (fully implemented)
+###### Golden Moblin (Enemy_Moriblin_Gold) (fully implemented)
 - Base Attack Power: 64
 - Base Attack Power (melee): 92
 - Base Attack Power (ranged): 56
@@ -47,7 +47,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Lizalfos (fully implemented)
+###### Golden Lizalfos (Enemy_Lizalfos_Gold) (fully implemented)
 - Base Attack Power: 60
 - Base Attack Power (melee): 86
 - Base Attack Power (ranged): 86
@@ -60,7 +60,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Lynel (fully implemented)
+###### Golden Lynel (Enemy_Lynel_Gold) (fully implemented)
 - Base Attack Power: 104
 - Base Attack Power (melee): 130
 - Base Attack Power (ranged): 104
@@ -72,11 +72,11 @@
 - Arrows only do 20% of damage
 - Can't headshot
 
-###### Golden Bokoblin (armored) (fully implemented)
+###### Golden Bokoblin (armored) (Enemy_Bokoblin_Armor_Gold) (fully implemented)
 
-###### Golden Lynel (armored) (fully implemented)
+###### Golden Lynel (armored) (Enemy_Lynel_Boss_Gold) (fully implemented)
 
-###### Golden Horriblin (fully implemented)
+###### Golden Horriblin (Enemy_Horablin_Gold) (fully implemented)
 - Base Attack Power: 50
 - Base Attack Power (melee): 76
 - Base Attack Power (ranged): 50
@@ -89,7 +89,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Golden Boss Bokoblin (fully implemented)
+###### Golden Boss Bokoblin (Enemy_Bokoblin_Boss_Gold) (fully implemented)
 - Base Attack Power: 76
 - Base Attack Power (melee): 96
 - Base Attack Power (ranged): 76
@@ -102,7 +102,33 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-##### Golden enemy horns/tail
+###### Soldier Construct V (Enemy_Zonau_Robot_Gold) (not started yet)
+- Base Attack Power: 56
+- Base Attack Power (melee): 80
+- Base Attack Power (ranged): 56
+- HP: 1,620
+- No cooldown
+- Faster speed
+- Better awareness
+- Immune to all elements and confusion
+- Arrows only do 20% of damage
+- Harder to headshot, headshots only deal 150% damage
+
+###### Captain Construct V (Enemy_Zonau_Golem_Gold) (not started yet)
+- Base Attack Power: 64
+- Base Attack Power (melee): 86
+- Base Attack Power (ranged): 64
+- HP: 2,400
+- No cooldown
+- Faster speed
+- Better awareness
+- Immune to all elements and confusion
+- Arrows only do 20% of damage
+- Harder to headshot, headshots only deal 150% damage
+
+###### Check minibosses_spoilers.md for new mini bosses variants. If you're only a player and not actually a modder, you better not click on that for a better surprise!
+
+##### New enemy materials
 
 ###### Golden Lizalfos Tail (Item_Enemy_900) (fully implemented)
 - Fuse Damage: 49
@@ -147,8 +173,18 @@
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Golden Lynel Mace Horn (Item_Enemy_90) (fully implemented, waiting for model/texture)
+###### Golden Lynel Mace Horn (Item_Enemy_907) (fully implemented, waiting for model/texture)
 - Fuse Damage: 78
 - Sell Price: 650
 - Buy Price: 2600
 - Cook time: 9:00
+
+###### Soldier Construct V Horn (Item_Enemy_908) (not started yet)
+- Fuse Damage: 50
+- Sell Price: 200
+- Buy Price: 800
+
+###### Captain Construct V Horn (Item_Enemy_909) (did not start yet)
+- Fuse Dmaage: 65
+- Sell Price: 300
+- Buy Price: 1200
