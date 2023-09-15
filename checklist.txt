@@ -7,20 +7,27 @@ Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
 Golden Bokoblin Horn            CHECK
+(model)
 Golden Moblin Horn              CHECK
+(model)
 Golden Lizalfos Horn            CHECK
+(model)
 Golden Lizalfos Tail            CHECK
+(model)
 Golden Lynel Saber Horn         CHECK
+(model)                         CHECK
 Golden Lynel Mace Horn          CHECK
+(model)
 Golden Horriblin Horn           CHECK
+(model)
 Golden Boss Bokoblin Horn       CHECK
+(model)
 +1 Rank                         CHECK
 Golden in XP system             CHECK
 English translation
 French translation
 Compendium pictures
 RESTBL for other ver.
-Horn models
 
 Optional :
 Elemental Lynels

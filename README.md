@@ -141,7 +141,7 @@
 - Buy Price: 1600
 - Cook time: 5:00
 
-###### Golden Lynel Saber Horn (Item_Enemy_906) (fully implemented, waiting for model/texture)
+###### Golden Lynel Saber Horn (Item_Enemy_906) (fully implemented)
 - Fuse Damage: 85
 - Sell Price: 650
 - Buy Price: 2600
