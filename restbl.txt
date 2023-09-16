@@ -17,6 +17,8 @@ Banc/NormalStage/OpeningField_Static.bcett.byml : 50000
 Game/PictureBookInfo/Enemy.game__ui__PictureBookInfo.bgyml : 70000
 Game/PictureBookInfo/Material.game__ui__PictureBookInfo.bgyml : 70000
 Banc/NormalStage/TitleScreen_Static.bcett.byml : 5000
+Banc/MainField/D-1_Dynamic.bcett.byml : 300000
+Banc/MainField/D-1_Static.bcett.byml : 200000
 
 GameParameter/SeriesArmorEffectParamList/Default.game__equipment__SeriesArmorEffectParamList.bgyml : 14264
 
