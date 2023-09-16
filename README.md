@@ -102,7 +102,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Soldier Construct V (Enemy_Zonau_Robot_Gold) (not started yet)
+###### Soldier Construct V (Enemy_Zonau_Robot_Gold) (fully implemented, waiting for texture)
 - Base Attack Power: 56
 - Base Attack Power (melee): 80
 - Base Attack Power (ranged): 56
