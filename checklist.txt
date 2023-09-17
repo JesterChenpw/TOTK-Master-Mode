@@ -6,8 +6,10 @@ Golden armored Bokoblin			CHECK
 Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
-Soldier Construct V
+Soldier Construct V             CHECK
+(model)
 Captain Construct V
+(model)
 Golden Bokoblin Horn            CHECK
 (model)
 Golden Moblin Horn              CHECK

@@ -1,7 +1,7 @@
-Mals/USen.Product.121.sarc : 20428992
+Mals/USen.Product.110.sarc : 20428992
 Life/DamageGlobalParam/Default.game__life__DamageGlobalParam.bgyml : 7000
-RSDB/ActorInfo.Product.121.rstbl.byml : 6047168
-RSDB/GameActorInfo.Product.121.rstbl.byml : 1512736
+RSDB/ActorInfo.Product.110.rstbl.byml : 6047168
+RSDB/GameActorInfo.Product.110.rstbl.byml : 1512736
 Pack/Actor/Player.pack : 1200000
 Pack/Bootup.Nin_NX_NVN.pack : 1994272
 Pack/ResidentCommon.pack : 500000
@@ -10,17 +10,13 @@ GameBalance/AttackParam/Player.game__gamebalance__AttackParam.bgyml : 50000
 GameBalance/LevelSensorTargetDefine/Default.game__gamebalance__LevelSensorTargetDefine.bgyml : 200000
 Component/ConditionParam/Player.game__component__ConditionParam.bgyml : 15000
 UI/LayoutArchive/Common.Product.110.Nin_NX_NVN.blarc : 60697999
-RSDB/PouchActorInfo.Product.121.rstbl.byml : 350000
-RSDB/AttachmentActorInfo.Product.121.rstbl.byml : 170000
+RSDB/PouchActorInfo.Product.110.rstbl.byml : 350000
+RSDB/AttachmentActorInfo.Product.110.rstbl.byml : 2000000
 GameData/GameDataList.Product.110.byml : 16000000
 Banc/NormalStage/OpeningField_Static.bcett.byml : 50000
 Game/PictureBookInfo/Enemy.game__ui__PictureBookInfo.bgyml : 70000
 Game/PictureBookInfo/Material.game__ui__PictureBookInfo.bgyml : 70000
-Banc/NormalStage/TitleScreen_Static.bcett.byml : 5000
-Banc/MainField/D-1_Dynamic.bcett.byml : 300000
-Banc/MainField/D-1_Static.bcett.byml : 200000
-
-GameParameter/SeriesArmorEffectParamList/Default.game__equipment__SeriesArmorEffectParamList.bgyml : 14264
+Banc/NormalStage/TitleScene_Static.bcett.byml : 5000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000

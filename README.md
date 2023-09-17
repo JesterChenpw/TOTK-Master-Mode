@@ -1,4 +1,4 @@
-### Master Mode project attempt for Tears of the Kingdom
+### Master Mode project attempt for Tears of the Kingdom (works only on 1.1.0)
 
 ##### Regular gameplay changes
 - Gloom damage went from 0.3x damage to 0.8x damage
