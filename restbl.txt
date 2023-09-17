@@ -17,6 +17,8 @@ Banc/NormalStage/OpeningField_Static.bcett.byml : 50000
 Game/PictureBookInfo/Enemy.game__ui__PictureBookInfo.bgyml : 70000
 Game/PictureBookInfo/Material.game__ui__PictureBookInfo.bgyml : 70000
 Banc/NormalStage/TitleScene_Static.bcett.byml : 5000
+Pack/Actor/PlayerAttackGrave.pack : 100000
+GameBalance/AttackParam/PlayerAttackGrave.game__gamebalance__AttackParam.bgyml : 10000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
