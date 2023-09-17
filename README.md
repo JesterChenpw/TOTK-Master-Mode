@@ -173,7 +173,7 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Golden Lynel Mace Horn (Item_Enemy_907) (fully implemented, waiting for model/texture)
+###### Golden Lynel Mace Horn (Item_Enemy_907) (fully implemented)
 - Fuse Damage: 78
 - Sell Price: 650
 - Buy Price: 2600

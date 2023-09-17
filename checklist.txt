@@ -21,7 +21,7 @@ Golden Lizalfos Tail            CHECK
 Golden Lynel Saber Horn         CHECK
 (model)                         CHECK
 Golden Lynel Mace Horn          CHECK
-(model)
+(model)                         CHECK
 Golden Horriblin Horn           CHECK
 (model)
 Golden Boss Bokoblin Horn       CHECK
