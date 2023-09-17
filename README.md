@@ -114,7 +114,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Captain Construct V (Enemy_Zonau_Golem_Gold) (not started yet)
+###### Captain Construct V (Enemy_Zonau_Golem_Gold) (fully implemented, waiting for texture)
 - Base Attack Power: 64
 - Base Attack Power (melee): 86
 - Base Attack Power (ranged): 64

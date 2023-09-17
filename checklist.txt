@@ -8,7 +8,7 @@ Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
 Soldier Construct V             CHECK
 (model)
-Captain Construct V
+Captain Construct V             CHECK
 (model)
 Golden Bokoblin Horn            CHECK
 (model)

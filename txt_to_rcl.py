@@ -9,7 +9,7 @@ rstb_dict = {}
 rstb_txt = sorted(rstb_txt)
 
 for line in rstb_txt:
-    if not line == '\n':
+    if not line == '\n' and not 'RSDB' in line:
         line = line[:-1]
         entry, size = line.split(' : ')
         #print(entry, size)

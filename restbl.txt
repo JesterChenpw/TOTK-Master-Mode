@@ -1,7 +1,7 @@
 Mals/USen.Product.110.sarc : 20428992
 Life/DamageGlobalParam/Default.game__life__DamageGlobalParam.bgyml : 7000
-RSDB/ActorInfo.Product.110.rstbl.byml : 6047168
-RSDB/GameActorInfo.Product.110.rstbl.byml : 1512736
+RSDB/ActorInfo.Product.110.rstbl.byml : 7000000
+RSDB/GameActorInfo.Product.110.rstbl.byml : 3000000
 Pack/Actor/Player.pack : 1200000
 Pack/Bootup.Nin_NX_NVN.pack : 1994272
 Pack/ResidentCommon.pack : 500000
@@ -238,6 +238,39 @@ GameParameter/GameParameterTable/Enemy_Zonau_Robot_Gold.engine__actor__GameParam
 Life/DamageParameters/Enemy_Zonau_Robot_Gold.game__life__DamageParameters.bgyml : 16000
 Life/LifeParameters/Enemy_Zonau_Robot_Gold.game__life__LifeParameters.bgyml : 8000
 
+Pack/Actor/Enemy_Zonau_Golem_Gold.pack : 1200000
+Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold.bfres : 2000000
+Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold_Brk_A_Fxmdl.bfres : 70000
+Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold_Brk_B_Fxmdl.bfres : 67000
+TexToGo/Enemy_Zonau_Golem_Gold_Body_Alb.txtg : 200000
+TexToGo/Enemy_Zonau_Golem_Gold_Bow_Alb.txtg : 50000
+TexToGo/Enemy_Zonau_Golem_Gold_Head_Alb.txtg : 50000
+Actor/Enemy_Zonau_Golem_Gold.engine__actor__ActorParam.bgyml : 11500
+BSA/MovementParam/Zonau_Golem_Gold.game__bsa__MovementParam.bgyml : 11000
+Component/ChemicalParam/Zonau_Golem_Gold.game__component__ChemicalParam.bgyml : 11500
+Component/ConditionParam/Enemy_Zonau_Golem_Gold.game__component__ConditionParam.bgyml : 11000
+Component/DropParam/Enemy_Zonau_Golem_Gold.game__component__DropParam.bgyml : 9000
+Component/GameBalanceClientParam/Zonau_Golem_Gold.game__component__GameBalanceClientParam.bgyml : 9000
+Component/LifeParam/Enemy_Zonau_Golem_Gold.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Enemy_Zonau_Golem_Gold.engine__component__ModelInfo.bgyml : 8000
+Component/PerceptionReceiverParam/Zonau_Golem_Gold.game__component__PerceptionReceiverParam.bgyml : 15000
+Drop/DropTable/Enemy_Main_Zonau_Golem_Gold_Normal_Bomb_Fruit.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Main_Zonau_Golem_Gold_Normal_Fire_Fruit.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Main_Zonau_Golem_Gold_Normal_Ice_Fruit.game__drop__DropTable.bgyml : 10000 
+Drop/DropTable/Enemy_Main_Zonau_Golem_Gold_Normal_Thunder_Fruit.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Zonau_Golem_Gold_Minus_Normal.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Zonau_Golem_Gold_Normal_Arrow.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Zonau_Golem_Gold_Normal_Minus_Arrow.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Zonau_Golem_Gold_Normal.game__drop__DropTable.bgyml : 10000
+Drop/DropTableElementList/Enemy_Zonau_Golem_Gold_Normal_00.game__drop__DropTableElementList.bgyml : 10000
+Drop/DropTableElementList/Enemy_Zonau_Golem_Gold_Normal_01.game__drop__DropTableElementList.bgyml : 55000
+Drop/DropTableElementList/Enemy_Zonau_Golem_Gold_Normal_02.game__drop__DropTableElementList.bgyml : 10000
+GameBalance/AttackParam/Zonau_Golem_Gold.game__gamebalance__AttackParam.bgyml : 17000
+GameParameter/EnemyCommonParam/Zonau_Golem_Gold.game__enemy__EnemyCommonParam.bgyml : 14000
+GameParameter/GameParameterTable/Zonau_Golem_Gold.engine__actor__GameParameterTable.bgyml : 9300
+Life/DamageParameters/Enemy_Zonau_Golem_Gold.game__life__DamageParameters.bgyml : 15000
+Life/LifeParameters/Enemy_Zonau_Golem_Gold.game__life__LifeParameters.bgyml : 8000
+
 Pack/Actor/Item_Enemy_900.pack : 45000
 Model/Item_Enemy_05.anim.bfres : 46000
 TexToGo/Item_Enemy_05_Alb.7.txtg : 33000
@@ -341,8 +374,8 @@ TexToGo/Item_Enemy_906_Alb.txtg : 200000
 
 Pack/Actor/Item_Enemy_907.pack : 40000
 Actor/Item_Enemy_907.engine__actor__ActorParam.bgyml : 10000
-Model/Item_Enemy_907.Item_Enemy_907.bfres : 110000
-Model/Item_Enemy_907.Item_Enemy_907_Sub_Lsword.bfres : 110000
+Model/Item_Enemy_907.Item_Enemy_907.bfres : 2000000
+Model/Item_Enemy_907.Item_Enemy_907_Sub_Lsword.bfres : 2000000
 Component/AttachmentParam/Item_Enemy_907.game__component__AttachmentParam.bgyml : 11000
 Component/ModelInfo/Item_Enemy_907.engine__component__ModelInfo.bgyml : 8000
 GameParameter/GameParameterTable/Item_Enemy_907.engine__actor__GameParameterTable.bgyml : 9000
