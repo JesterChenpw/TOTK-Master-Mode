@@ -386,8 +386,8 @@ TexToGo/Enemy_Bokoblin_Horn_Hammer_Gold_Alb.txtg : 55000
 
 Pack/Actor/Item_Enemy_903.pack : 42000
 Actor/Item_Enemy_903.engine__actor__ActorParam.bgyml : 11000
-Model/Item_Enemy_903.Item_Enemy_903.bfres : 75000
-Model/Item_Enemy_903.Item_Enemy_903_Sub_Lsword.bfres : 75000
+Model/Item_Enemy_903.Item_Enemy_903.bfres : 2000000
+Model/Item_Enemy_903.Item_Enemy_903_Sub_Lsword.bfres : 2000000
 Component/AttachmentParam/Item_Enemy_903.game__component__AttachmentParam.bgyml : 11500
 Component/ModelInfo/Item_Enemy_903.engine__component__ModelInfo.bgyml : 8000
 GameParameter/GameParameterTable/Item_Enemy_903.engine__actor__GameParameterTable.bgyml : 9000
@@ -396,8 +396,8 @@ GameParameter/SortKey/Item_Enemy_903.game__pouchcontent__SortKey.bgyml : 7500
 GameParameter/SpiceParam/Item_Enemy_903.game__pouchcontent__SpiceParam.bgyml : 11000
 UI/Tex/Icon/Item_Enemy_903.bntx : 120000
 Ecosystem/HornTypeAndAttachmentMappingTable/Lizalfos_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 9000
-Model/Enemy_Lizalfos_Horn.Enemy_Lizalfos_Horn_Sharp_Gold.bfres : 100000
-TexToGo/Enemy_Lizalfos_Horn_Sharp_Gold_Alb.txtg : 40000
+Model/Enemy_Lizalfos_Horn.Enemy_Lizalfos_Horn_Sharp_Gold.bfres : 2000000
+TexToGo/Enemy_Lizalfos_Horn_Sharp_Gold_Alb.txtg : 2000000
 TexToGo/Enemy_Lizalfos_Horn_Sharp_Gold_Em.txtg : 6000
 
 Pack/Actor/Item_Enemy_904.pack : 40000
