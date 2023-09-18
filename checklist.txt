@@ -7,15 +7,15 @@ Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
 Soldier Construct V             CHECK
-(model)
+(model)                         CHECK
 Captain Construct V             CHECK
-(model)
+(model)                         CHECK
 Golden Bokoblin Horn            CHECK
 (model)
 Golden Moblin Horn              CHECK
 (model)
 Golden Lizalfos Horn            CHECK
-(model)
+(model)                         CHECK
 Golden Lizalfos Tail            CHECK
 (model)
 Golden Lynel Saber Horn         CHECK

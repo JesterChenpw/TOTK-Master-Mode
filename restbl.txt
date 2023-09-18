@@ -233,8 +233,8 @@ Pack/Actor/Enemy_Zonau_Robot_Gold.pack : 1800000
 Model/Enemy_Zonau_Robot_Junior.Enemy_Zonau_Robot_Gold.bfres : 2000000
 Model/Enemy_Zonau_Robot_Junior.Enemy_Zonau_Robot_Gold_Brk_A_Fxmdl.bfres : 120000
 Model/Enemy_Zonau_Robot_Junior.Enemy_Zonau_Robot_Gold_Brk_B_Fxmdl.bfres : 120000
-TexToGo/Enemy_Zonau_Robot_Gold_Body_Alb.txtg : 120000
-TexToGo/Enemy_Zonau_Robot_Gold_Head_Alb.txtg : 32000
+TexToGo/Enemy_Zonau_Robot_Gold_Body_Alb.txtg : 2000000
+TexToGo/Enemy_Zonau_Robot_Gold_Head_Alb.txtg : 2000000
 Actor/Enemy_Zonau_Robot_Gold.engine__actor__ActorParam.bgyml : 12000
 BSA/MovementParam/Zonau_Robot_Gold.game__bsa__MovementParam.bgyml : 10000
 Component/ChemicalParam/Enemy_Zonau_Robot_Gold.game__component__ChemicalParam.bgyml : 12000
@@ -264,9 +264,9 @@ Pack/Actor/Enemy_Zonau_Golem_Gold.pack : 1200000
 Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold.bfres : 2000000
 Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold_Brk_A_Fxmdl.bfres : 70000
 Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold_Brk_B_Fxmdl.bfres : 67000
-TexToGo/Enemy_Zonau_Golem_Gold_Body_Alb.txtg : 200000
+TexToGo/Enemy_Zonau_Golem_Gold_Body_Alb.txtg : 2000000
 TexToGo/Enemy_Zonau_Golem_Gold_Bow_Alb.txtg : 50000
-TexToGo/Enemy_Zonau_Golem_Gold_Head_Alb.txtg : 50000
+TexToGo/Enemy_Zonau_Golem_Gold_Head_Alb.txtg : 2000000
 Actor/Enemy_Zonau_Golem_Gold.engine__actor__ActorParam.bgyml : 11500
 BSA/MovementParam/Zonau_Golem_Gold.game__bsa__MovementParam.bgyml : 11000
 Component/ChemicalParam/Zonau_Golem_Gold.game__component__ChemicalParam.bgyml : 11500
