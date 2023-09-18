@@ -188,3 +188,32 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Fuse Dmaage: 65
 - Sell Price: 300
 - Buy Price: 1200
+
+##### New weapons
+
+###### Seized Construct Sword (Weapon_Sword_200) (not started yet)
+- Damage: 40
+- Durability: 54
+- Zonai bonus: 25
+
+###### Seized Construct Longsword (Weapon_Lsword_200) (not started yet)
+- Damage: 55
+- Durability: 50
+- Zonai bonus: 25
+
+###### Seized Construct Spear (Weapon_Spear_200) (not started yet)
+- Damage: 30
+- Durability: 50
+- Zonai bonus: 25
+
+###### Seized Construct Shield (Weapon_Shield_200) (not started yet)
+- Guard: 70
+- Durability: 40
+- Fuse Damage: 15
+
+###### Seized Construct Bow (Weapon_Bow_200) (not started yet)
+- Damage: 45
+- Durability: 60
+- Range: 40
+- Arrow gravity: -5.0
+- Fuse Damage: 11
