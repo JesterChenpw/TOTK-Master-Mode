@@ -1,6 +1,5 @@
 import json
-
-# AttachmentActorInfo à faire manuellement sur 0.3.7
+from restbl import ResourceSizeTable
 
 with open('restbl.txt') as rstb_text:
     rstb_txt = rstb_text.readlines()
@@ -18,18 +17,22 @@ for line in rstb_txt:
 with open('totk_strings.json') as json_file:
     strings = json.loads(json_file.read())
 
-def to_rcl():
-
+def to_rcl_updated(version):
+    
     edits = ''
+    restbl_path = f'Master Mode v1.0\\romfs\\System\\Resource\\ResourceSizeTable.Product.{version}.rsizetable.zs'
+
+    with open(restbl_path, 'rb') as file:
+        table = ResourceSizeTable.from_binary(file.read())
 
     for entry in rstb_dict:
-        if entry in strings:
-            edits = edits + '* ' + entry + ' = ' + str(rstb_dict[entry]) + '\n'
+        if table.get_size(entry) is None:
+            edits = edits + '+ ' + entry + ' = ' + str(rstb_dict[entry]) + '\n'
 
         else:
-            edits = edits + '+ ' + entry + ' = ' + str(rstb_dict[entry]) + '\n'
+            edits = edits + '* ' + entry + ' = ' + str(rstb_dict[entry]) + '\n'
 
     with open('master_mode.rcl', 'w') as file:
         file.write(edits)
-
-to_rcl()
+    
+to_rcl_updated('110')
