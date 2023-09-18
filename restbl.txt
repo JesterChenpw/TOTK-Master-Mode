@@ -514,3 +514,26 @@ Pack/Actor/FireRodLv3Fire.pack : 60000
 Actor/FireRodLv3Fire.engine__actor__ActorParam.bgyml : 10000
 GameParameter/GameParameterTable/FlameBallLord.engine__actor__GameParameterTable.bgyml : 8000
 GameBalance/AttackParam/FlameBallLord.game__gamebalance__AttackParam.bgyml : 10500
+
+Pack/Actor/Item_Enemy_911.pack : 50000
+Model/Item_Enemy_911.Item_Enemy_911.bfres : 300000
+TexToGo/Item_Enemy_911_Alb.txtg : 75000
+Actor/Item_Enemy_911.engine__actor__ActorParam.bgyml : 12000
+Component/AttachmentParam/Item_Enemy_911.game__component__AttachmentParam.bgyml : 12000
+Component/ModelInfo/Item_Enemy_911.engine__component__ModelInfo.bgyml : 7500
+Component/ShooterParam/Item_Enemy_911.game__component__ShooterParam.bgyml : 9500
+GameParameter/ChemicalExpandParam/ChemicalExpandLordIce.game__pouchcontent__ChemicalExpandParam.bgyml : 8000
+GameParameter/GameParameterTable/Item_Enemy_911.engine__actor__GameParameterTable.bgyml : 9500
+GameParameter/PriceParam/Item_Enemy_911.game__pouchcontent__PriceParam.bgyml : 7500
+GameParameter/RodParam/Item_Enemy_911.game__Object__RodParam.bgyml : 17000
+UI/Tex/Icon/Item_Enemy_911.bntx : 200000
+
+Pack/Actor/ExpandLordIceField.pack : 60000
+Actor/ExpandLordIceField.engine__actor__ActorParam.bgyml : 9000
+GameParameter/GameParameterTable/ExpandLordIce.engine__actor__GameParameterTable.bgyml : 8000
+GameBalance/AttackParam/ExpandLordIce.game__gamebalance__AttackParam.bgyml : 10500
+
+Pack/Actor/IceRodLv3Fire.pack : 65000
+Actor/IceRodLv3Ice.engine__actor__ActorParam.bgyml : 10000
+GameParameter/GameParameterTable/FreezeBallLord.engine__actor__GameParameterTable.bgyml : 8000
+GameBalance/AttackParam/FreezeBallLord.game__gamebalance__AttackParam.bgyml : 10500

@@ -31,7 +31,7 @@
 - Cook time: 15:00
 - Thrown damage: 200
 
-###### Freezing Demonic Gleeok Horn (Item_Enemy_911) (not started yet)
+###### Freezing Demonic Gleeok Horn (Item_Enemy_911) (fully implemented, waiting for model/texture)
 - Fuse Damage: 100
 - Elements: Ice
 - Sell Price: 1000 rupees

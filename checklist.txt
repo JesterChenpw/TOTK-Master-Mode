@@ -64,5 +64,5 @@ Burning Demonic Gleeok Horn     CHECK
 (model)
 Freezing Demonic Gleeok Horn    CHECK
 (model)
-Shocking Demonic Gleeok Horn    CHECK
+Shocking Demonic Gleeok Horn
 (model)
