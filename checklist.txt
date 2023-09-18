@@ -28,7 +28,7 @@ Golden Boss Bokoblin Horn       CHECK
 (model)
 Soldier Construct V Horn        CHECK
 (model)
-Captain Construct V Horn
+Captain Construct V Horn        CHECK
 (model)
 +1 Rank                         CHECK
 Golden in XP system             CHECK

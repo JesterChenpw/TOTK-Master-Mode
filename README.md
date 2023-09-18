@@ -184,7 +184,7 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Sell Price: 200
 - Buy Price: 800
 
-###### Captain Construct V Horn (Item_Enemy_909) (not started yet)
+###### Captain Construct V Horn (Item_Enemy_909) (fully implemented, waiting for model/texture)
 - Fuse Dmaage: 65
 - Sell Price: 300
 - Buy Price: 1200

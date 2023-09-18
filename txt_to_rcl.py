@@ -8,14 +8,11 @@ rstb_dict = {}
 rstb_txt = sorted(rstb_txt)
 
 for line in rstb_txt:
-    if not line == '\n':
+    if not line == '\n' and not 'RSDB' in line:
         line = line[:-1]
         entry, size = line.split(' : ')
         #print(entry, size)
         rstb_dict[entry] = int(size)
-
-with open('totk_strings.json') as json_file:
-    strings = json.loads(json_file.read())
 
 def to_rcl_updated(version):
     
