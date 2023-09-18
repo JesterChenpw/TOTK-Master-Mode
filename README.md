@@ -179,12 +179,12 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Soldier Construct V Horn (Item_Enemy_908) (not started yet)
+###### Soldier Construct V Horn (Item_Enemy_908) (fully implemented, waiting for model/texture)
 - Fuse Damage: 50
 - Sell Price: 200
 - Buy Price: 800
 
-###### Captain Construct V Horn (Item_Enemy_909) (did not start yet)
+###### Captain Construct V Horn (Item_Enemy_909) (not started yet)
 - Fuse Dmaage: 65
 - Sell Price: 300
 - Buy Price: 1200
