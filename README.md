@@ -191,18 +191,72 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 
 ##### New weapons
 
-###### Seized Construct Sword (Weapon_Sword_200) (not started yet)
+###### Lynel Sword (Weapon_Sword_016) (not started yet)
+- Damage: 18
+- Durability: 20
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Lynel Crusher (Weapon_Lsword_016) (not started yet)
+- Damage: 26
+- Durability: 18
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Lynel Spear (Weapon_Spear_016) (not started yet)
+- Damage: 10
+- Durability: 25
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Mighty Lynel Sword (Weapon_Sword_017) (not started yet)
+- Damage: 28
+- Durability: 25
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Mighty Lynel Crusher (Weapon_Lsword_017) (not started yet)
 - Damage: 40
+- Durability: 21
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Mighty Lynel Spear (Weapon_Lsword_017) (not started yet)
+- Damage: 16
+- Durability: 30
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Savage Lynel Sword (Weapon_Sword_018) (not started yet)
+- Damage: 42
+- Durability: 30
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Savage Lynel Crusher (Weapon_Lsword_018) (not started yet)
+- Damage: 58
+- Durability: 24
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Savage Lynel Spear (Weapon_Spear_018) (not started yet)
+- Damage: 34
+- Durability: 35
+- Fuse durability: 10
+- Able to guard by itself
+
+###### Seized Construct Sword (Weapon_Sword_200) (not started yet)
+- Damage: 30
 - Durability: 54
 - Zonai bonus: 25
 
 ###### Seized Construct Longsword (Weapon_Lsword_200) (not started yet)
-- Damage: 55
+- Damage: 45
 - Durability: 50
 - Zonai bonus: 25
 
 ###### Seized Construct Spear (Weapon_Spear_200) (not started yet)
-- Damage: 30
+- Damage: 21
 - Durability: 50
 - Zonai bonus: 25
 

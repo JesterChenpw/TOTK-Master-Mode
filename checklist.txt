@@ -68,6 +68,16 @@ Mighty Lynel Spear
 Savage Lynel Crusher
 Savage Lynel Sword
 Savage Lynel Spear
+Seized Construct Sword
+(model)
+Seized Construct Longsword
+(model)
+Seized Construct Spear
+(model)
+Seized Construct Shield
+(model)
+Seized Construct Bow
+(model)
 Burning Demonic Gleeok Horn     CHECK
 (model)
 Freezing Demonic Gleeok Horn    CHECK
