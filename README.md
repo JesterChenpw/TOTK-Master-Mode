@@ -149,7 +149,7 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Buy Price: 800
 - Cook time: 2:30
 
-###### Golden Lizalfos Horn (Item_Enemy_903) (fully implemented, waiting for model/texture)
+###### Golden Lizalfos Horn (Item_Enemy_903) (fully implemented)
 - Fuse Damage: 60
 - Sell Price: 250
 - Buy Price: 1000

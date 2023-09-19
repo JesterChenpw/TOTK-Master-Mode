@@ -39,7 +39,7 @@
 - Cook time: 15:00
 - Thrown damage: 200
 
-###### Shocking Demonic Gleeok Horn (Item_Enemy_912) (not started yet)
+###### Shocking Demonic Gleeok Horn (Item_Enemy_912) (fully implemented, waiting for model/texture)
 - Fuse Damage: 100
 - Elements: Electric
 - Sell Price: 1000 rupees

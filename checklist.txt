@@ -59,10 +59,18 @@ Molduga
 (model)
 Hinox
 (model)
-Lynel weapons
+Lynel Crusher
+Lynel Sword
+Lynel Spear
+Mighty Lynel Crusher
+Mighty Lynel Sword
+Mighty Lynel Spear
+Savage Lynel Crusher
+Savage Lynel Sword
+Savage Lynel Spear
 Burning Demonic Gleeok Horn     CHECK
 (model)
 Freezing Demonic Gleeok Horn    CHECK
 (model)
-Shocking Demonic Gleeok Horn
+Shocking Demonic Gleeok Horn    CHECK
 (model)

@@ -1,5 +1,5 @@
 import mmh3
 
-String = 'StringToHash'
+String = ''
 
 print(hex(mmh3.hash(String, signed = False)))

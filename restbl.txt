@@ -537,3 +537,31 @@ Pack/Actor/IceRodLv3Fire.pack : 65000
 Actor/IceRodLv3Ice.engine__actor__ActorParam.bgyml : 10000
 GameParameter/GameParameterTable/FreezeBallLord.engine__actor__GameParameterTable.bgyml : 8000
 GameBalance/AttackParam/FreezeBallLord.game__gamebalance__AttackParam.bgyml : 10500
+
+Pack/Actor/Item_Enemy_912.pack : 50000
+Model/Item_Enemy_912.Item_Enemy_912.bfres : 300000
+TexToGo/Item_Enemy_912_Alb.txtg : 75000
+Actor/Item_Enemy_912.engine__actor__ActorParam.bgyml : 12000
+Component/AttachmentParam/Item_Enemy_912.game__component__AttachmentParam.bgyml : 12000
+Component/ModelInfo/Item_Enemy_912.engine__component__ModelInfo.bgyml : 7500
+Component/ShooterParam/Item_Enemy_912.game__component__ShooterParam.bgyml : 9500
+GameParameter/ChemicalExpandParam/ChemicalExpandLordElectric.game__pouchcontent__ChemicalExpandParam.bgyml : 8000
+GameParameter/GameParameterTable/Item_Enemy_912.engine__actor__GameParameterTable.bgyml : 9500
+GameParameter/PriceParam/Item_Enemy_912.game__pouchcontent__PriceParam.bgyml : 7500
+GameParameter/RodParam/Item_Enemy_912.game__Object__RodParam.bgyml : 17000
+UI/Tex/Icon/Item_Enemy_912.bntx : 200000
+
+Pack/Actor/ThunderRodLv3Thunder.pack : 65000
+Actor/ThunderRodLv3Thunder.engine__actor__ActorParam.bgyml : 10000
+GameParameter/GameParameterTable/ThunderRodLv3Thunder.engine__actor__GameParameterTable.bgyml : 8000
+GameBalance/AttackParam/ThunderRodLv3Thunder.game__gamebalance__AttackParam.bgyml : 10500
+
+Pack/Actor/ExpandLordElectricWaterField.pack : 70000
+Actor/ExpandLordElectricWaterField.engine__actor__ActorParam.bgyml : 9000
+GameParameter/GameParameterTable/ExpandLordElectricWaterField.engine__actor__GameParameterTable.bgyml : 8000
+GameBalance/AttackParam/ExpandLordElectricWaterField.game__gamebalance__AttackParam.bgyml : 10500
+
+Pack/Actor/ExpandLordElectricField.pack : 70000
+Actor/ExpandLordElectricField.engine__actor__ActorParam.bgyml : 9000
+GameBalance/AttackParam/ExpandLordElectric.game__gamebalance__AttackParam.bgyml : 8000
+GameParameter/GameParameterTable/ExpandLordElectric.engine__actor__GameParameterTable.bgyml : 10500
