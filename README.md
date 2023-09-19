@@ -191,7 +191,7 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 
 ##### New weapons
 
-###### Lynel Sword (Weapon_Sword_016) (not started yet)
+###### Lynel Sword (Weapon_Sword_016) (fully implemented, waiting for model/texture)
 - Damage: 18
 - Durability: 20
 - Fuse durability: 10

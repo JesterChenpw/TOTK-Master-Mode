@@ -565,3 +565,13 @@ Pack/Actor/ExpandLordElectricField.pack : 70000
 Actor/ExpandLordElectricField.engine__actor__ActorParam.bgyml : 9000
 GameBalance/AttackParam/ExpandLordElectric.game__gamebalance__AttackParam.bgyml : 8000
 GameParameter/GameParameterTable/ExpandLordElectric.engine__actor__GameParameterTable.bgyml : 10500
+
+Pack/Actor/Weapon_Sword_016.pack : 80000
+Actor/Weapon_Sword_016.engine__actor__ActorParam.bgyml : 11000
+Component/AttachmentParam/Weapon_Sword_016.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Sword_016.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Sword_016.engine__component__ModelInfo.bgyml : 7800
+Component/WeaponParam/Weapon_Sword_016.game__component__WeaponParam.bgyml : 14000
+Life/LifeParameters/Weapon_Sword_016.game__life__LifeParameters.bgyml : 7500
+Game/PictureBookInfo/Weapon.game__ui__PictureBookInfo.bgyml : 80000
+UI/Tex/Icon/Weapon_Sword_016.bntx : 200000

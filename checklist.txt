@@ -60,14 +60,23 @@ Molduga
 Hinox
 (model)
 Lynel Crusher
-Lynel Sword
+(model)
+Lynel Sword                     CHECK
+(model)
 Lynel Spear
+(model)
 Mighty Lynel Crusher
+(model)
 Mighty Lynel Sword
+(model)
 Mighty Lynel Spear
+(model)
 Savage Lynel Crusher
+(model)
 Savage Lynel Sword
+(model)
 Savage Lynel Spear
+(model)
 Seized Construct Sword
 (model)
 Seized Construct Longsword
