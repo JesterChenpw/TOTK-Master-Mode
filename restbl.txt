@@ -1,4 +1,5 @@
 Mals/USen.Product.110.sarc : 20428992
+Mals/EUfr.Product.110.sarc : 20428992
 Life/DamageGlobalParam/Default.game__life__DamageGlobalParam.bgyml : 7000
 RSDB/ActorInfo.Product.110.rstbl.byml : 7000000
 RSDB/GameActorInfo.Product.110.rstbl.byml : 3000000
