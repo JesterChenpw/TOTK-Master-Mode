@@ -43,6 +43,18 @@ TexToGo/MarcWolf_Fulffy_Alb.txtg : 0
 Banc/MinusField/E-4_Static.bcett.byml : 400000
 Pack/Actor/Enemy_Army_Manager_110.pack : 20000
 Life/LifeParameters/Enemy_Army_Manager_110.game__life__LifeParameters.bgyml : 7500
+Pack/Actor/Sage_NormalArrow.pack : 50000
+GameBalance/AttackParam/NormalArrow.game__gamebalance__AttackParam.bgyml : 10000
+Pack/Actor/Sage_Soul_Gerudo.pack : 2000000
+GameBalance/AttackParam/NpcGerudoSage.game__gamebalance__AttackParam.bgyml : 15000
+Pack/Actor/Sage_Soul_Goron.pack : 1300000
+GameBalance/AttackParam/NpcGoronSage.game__gamebalance__AttackParam.bgyml : 12000
+Pack/Actor/Sage_Soul_Rito.pack : 2500000
+GameBalance/AttackParam/Npc_Tulin_Sage.game__gamebalance__AttackParam.bgyml : 10000
+Pack/Actor/Sage_Soul_Zonau.pack : 1800000
+GameBalance/AttackParam/Npc_RaumiGolem_Sage.game__gamebalance__AttackParam.bgyml : 13500
+Pack/Actor/Sage_Soul_Zora.pack : 900000
+GameBalance/AttackParam/NpcZoraSage.game__gamebalance__AttackParam.bgyml : 20000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
