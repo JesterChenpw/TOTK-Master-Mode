@@ -209,7 +209,7 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Fuse durability: 10
 - Able to guard by itself
 
-###### Mighty Lynel Sword (Weapon_Sword_017) (not started yet)
+###### Mighty Lynel Sword (Weapon_Sword_017) (fully implemented, waiting for model/texture)
 - Damage: 28
 - Durability: 25
 - Fuse durability: 10

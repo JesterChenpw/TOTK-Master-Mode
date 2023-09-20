@@ -17,7 +17,7 @@ Golden Moblin Horn              CHECK
 Golden Lizalfos Horn            CHECK
 (model)                         CHECK
 Golden Lizalfos Tail            CHECK
-(model)
+(model)                         CHECK
 Golden Lynel Saber Horn         CHECK
 (model)                         CHECK
 Golden Lynel Mace Horn          CHECK
@@ -67,7 +67,7 @@ Lynel Spear
 (model)
 Mighty Lynel Crusher
 (model)
-Mighty Lynel Sword
+Mighty Lynel Sword              CHECK
 (model)
 Mighty Lynel Spear
 (model)
