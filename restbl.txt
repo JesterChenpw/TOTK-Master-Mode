@@ -55,6 +55,8 @@ Pack/Actor/Sage_Soul_Zonau.pack : 1800000
 GameBalance/AttackParam/Npc_RaumiGolem_Sage.game__gamebalance__AttackParam.bgyml : 13500
 Pack/Actor/Sage_Soul_Zora.pack : 900000
 GameBalance/AttackParam/NpcZoraSage.game__gamebalance__AttackParam.bgyml : 20000
+Component/ConditionParam/Lizalfos_Gold.game__component__ConditionParam.bgyml : 10000
+Component/ConditionParam/Enemy_Bokoblin_Gold.game__component__ConditionParam.bgyml : 10000
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
@@ -581,6 +583,25 @@ Pack/Actor/ExpandLordElectricField.pack : 70000
 Actor/ExpandLordElectricField.engine__actor__ActorParam.bgyml : 9000
 GameBalance/AttackParam/ExpandLordElectric.game__gamebalance__AttackParam.bgyml : 8000
 GameParameter/GameParameterTable/ExpandLordElectric.engine__actor__GameParameterTable.bgyml : 10500
+
+Pack/Actor/BokoblinBasket_Electric.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_Electric.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_Electric.game__component__ShooterParam.bgyml : 8000
+Pack/Actor/BokoblinBasket_ElectricalFruit.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_ElectricalFruit.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_ElectricalFruit.game__component__ShooterParam.bgyml : 8000
+Pack/Actor/BokoblinBasket_Fire.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_Fire.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_Fire.game__component__ShooterParam.bgyml : 8000
+Pack/Actor/BokoblinBasket_FireFruit.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_FireFruit.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_FireFruit.game__component__ShooterParam.bgyml : 8000
+Pack/Actor/BokoblinBasket_Ice.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_Ice.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_Ice.game__component__ShooterParam.bgyml : 8000
+Pack/Actor/BokoblinBasket_IceFruit.pack : 60000
+Component/BokoblinBasketParam/BokoblinBasket_IceFruit.game__component__BokoblinBasketParam.bgyml : 8000
+Component/ShooterParam/BokoblinBasket_IceFruit.game__component__ShooterParam.bgyml : 8000
 
 Pack/Actor/Weapon_Sword_016.pack : 80000
 Actor/Weapon_Sword_016.engine__actor__ActorParam.bgyml : 11000
