@@ -102,7 +102,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Soldier Construct V (Enemy_Zonau_Robot_Gold) (fully implemented)
+###### Seized Soldier Construct (Enemy_Zonau_Robot_Gold) (fully implemented)
 - Base Attack Power: 56
 - Base Attack Power (melee): 80
 - Base Attack Power (ranged): 56
@@ -114,7 +114,7 @@
 - Arrows only do 20% of damage
 - Harder to headshot, headshots only deal 150% damage
 
-###### Captain Construct V (Enemy_Zonau_Golem_Gold) (fully implemented)
+###### Seized Captain Construct (Enemy_Zonau_Golem_Gold) (fully implemented)
 - Base Attack Power: 64
 - Base Attack Power (melee): 86
 - Base Attack Power (ranged): 64
@@ -179,12 +179,12 @@ Check minibosses_spoilers.md for new mini bosses variants. If you're only a play
 - Buy Price: 2600
 - Cook time: 9:00
 
-###### Soldier Construct V Horn (Item_Enemy_908) (fully implemented, waiting for model/texture)
+###### Seized Soldier Construct Horn (Item_Enemy_908) (fully implemented, waiting for model/texture)
 - Fuse Damage: 50
 - Sell Price: 200
 - Buy Price: 800
 
-###### Captain Construct V Horn (Item_Enemy_909) (fully implemented, waiting for model/texture)
+###### Seized Captain Construct Horn (Item_Enemy_909) (fully implemented, waiting for model/texture)
 - Fuse Dmaage: 65
 - Sell Price: 300
 - Buy Price: 1200
