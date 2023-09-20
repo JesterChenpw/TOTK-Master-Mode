@@ -40,6 +40,9 @@ TexToGo/Armor_1036_Upper_Alb.txtg : 0
 TexToGo/Armor_1036_Upper_Nrm.txtg : 0
 TexToGo/Armor_1036_Upper_Spm.txtg : 0
 TexToGo/MarcWolf_Fulffy_Alb.txtg : 0
+Banc/MinusField/E-4_Static.bcett.byml : 400000
+Pack/Actor/Enemy_Army_Manager_110.pack : 20000
+Life/LifeParameters/Enemy_Army_Manager_110.game__life__LifeParameters.bgyml : 7500
 
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
