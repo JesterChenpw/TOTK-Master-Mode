@@ -59,13 +59,13 @@ Molduga
 (model)
 Hinox
 (model)
-Lynel Crusher
+Lynel Crusher                   CHECK
 (model)
 Lynel Sword                     CHECK
 (model)
 Lynel Spear
 (model)
-Mighty Lynel Crusher
+Mighty Lynel Crusher            CHECK
 (model)
 Mighty Lynel Sword              CHECK
 (model)
