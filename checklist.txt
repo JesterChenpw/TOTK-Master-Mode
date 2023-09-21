@@ -73,7 +73,7 @@ Mighty Lynel Spear
 (model)
 Savage Lynel Crusher
 (model)
-Savage Lynel Sword
+Savage Lynel Sword              CHECK
 (model)
 Savage Lynel Spear
 (model)

@@ -621,3 +621,12 @@ Component/ModelInfo/Weapon_Sword_017.engine__component__ModelInfo.bgyml : 7800
 Component/WeaponParam/Weapon_Sword_017.game__component__WeaponParam.bgyml : 14000
 Life/LifeParameters/Weapon_Sword_017.game__life__LifeParameters.bgyml : 7500
 UI/Tex/Icon/Weapon_Sword_017.bntx : 200000
+
+Pack/Actor/Weapon_Sword_018.pack : 80000
+Actor/Weapon_Sword_018.engine__actor__ActorParam.bgyml : 11000
+Component/AttachmentParam/Weapon_Sword_018.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Sword_018.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Sword_018.engine__component__ModelInfo.bgyml : 7800
+Component/WeaponParam/Weapon_Sword_018.game__component__WeaponParam.bgyml : 14000
+Life/LifeParameters/Weapon_Sword_018.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Sword_018.bntx : 200000
