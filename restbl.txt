@@ -668,6 +668,15 @@ Component/WeaponParam/Weapon_Spear_016.game__component__WeaponParam.bgyml : 1400
 Life/LifeParameters/Weapon_Spear_016.game__life__LifeParameters.bgyml : 7500
 UI/Tex/Icon/Weapon_Spear_016.bntx : 200000
 
+Pack/Actor/Weapon_Spear_017.pack : 320000
+Actor/Weapon_Spear_017.engine__actor__ActorParam.bgyml : 11000
+Component/AttachmentParam/Weapon_Spear_017.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Spear_017.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Spear_017.engine__component__ModelInfo.bgyml : 7800
+Component/WeaponParam/Weapon_Spear_017.game__component__WeaponParam.bgyml : 14000
+Life/LifeParameters/Weapon_Spear_017.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Spear_017.bntx : 200000
+
 Model/Weapon_Sword_016.Weapon_Sword_016.bfres : 300000
 Model/Weapon_Sword_017.Weapon_Sword_017.bfres : 300000
 Model/Weapon_Sword_018.Weapon_Sword_018.bfres : 300000
