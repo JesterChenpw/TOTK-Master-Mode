@@ -517,7 +517,7 @@ Drop/DropTableElementList/Enemy_Drake_Lord_Normal_03.game__drop__DropTableElemen
 Drop/DropTableElementList/Enemy_Drake_Lord_Normal_04.game__drop__DropTableElementList.bgyml : 10000
 
 Pack/Actor/Item_Enemy_910.pack : 50000
-Model/Item_Enemy_910.Item_Enemy_910.bfres : 300000
+Model/Item_Enemy_910.Item_Enemy_910.bfres : 20000000
 TexToGo/Item_Enemy_910_Alb.txtg : 75000
 Actor/Item_Enemy_910.engine__actor__ActorParam.bgyml : 12000
 Component/AttachmentParam/Item_Enemy_910.game__component__AttachmentParam.bgyml : 12000
@@ -540,7 +540,7 @@ GameParameter/GameParameterTable/FlameBallLord.engine__actor__GameParameterTable
 GameBalance/AttackParam/FlameBallLord.game__gamebalance__AttackParam.bgyml : 10500
 
 Pack/Actor/Item_Enemy_911.pack : 50000
-Model/Item_Enemy_911.Item_Enemy_911.bfres : 300000
+Model/Item_Enemy_911.Item_Enemy_911.bfres : 20000000
 TexToGo/Item_Enemy_911_Alb.txtg : 75000
 Actor/Item_Enemy_911.engine__actor__ActorParam.bgyml : 12000
 Component/AttachmentParam/Item_Enemy_911.game__component__AttachmentParam.bgyml : 12000
@@ -563,7 +563,7 @@ GameParameter/GameParameterTable/FreezeBallLord.engine__actor__GameParameterTabl
 GameBalance/AttackParam/FreezeBallLord.game__gamebalance__AttackParam.bgyml : 10500
 
 Pack/Actor/Item_Enemy_912.pack : 50000
-Model/Item_Enemy_912.Item_Enemy_912.bfres : 300000
+Model/Item_Enemy_912.Item_Enemy_912.bfres : 20000000
 TexToGo/Item_Enemy_912_Alb.txtg : 75000
 Actor/Item_Enemy_912.engine__actor__ActorParam.bgyml : 12000
 Component/AttachmentParam/Item_Enemy_912.game__component__AttachmentParam.bgyml : 12000
