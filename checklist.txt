@@ -63,7 +63,7 @@ Lynel Crusher                   CHECK
 (model)
 Lynel Sword                     CHECK
 (model)
-Lynel Spear
+Lynel Spear                     CHECK
 (model)
 Mighty Lynel Crusher            CHECK
 (model)
@@ -71,7 +71,7 @@ Mighty Lynel Sword              CHECK
 (model)
 Mighty Lynel Spear
 (model)
-Savage Lynel Crusher
+Savage Lynel Crusher            CHECK
 (model)
 Savage Lynel Sword              CHECK
 (model)
