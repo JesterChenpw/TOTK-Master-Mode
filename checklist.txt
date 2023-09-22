@@ -42,7 +42,7 @@ RESTBL for other ver.
 Optional :
 
 Demon Lord Gleeok               CHECK
-(model)
+(model)                         CHECK
 Meteo Lynel
 (model)
 Blizzard Lynel
