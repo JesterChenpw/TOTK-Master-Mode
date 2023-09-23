@@ -88,8 +88,8 @@ Seized Construct Shield
 Seized Construct Bow
 (model)
 Burning Demonic Gleeok Horn     CHECK
-(model)
+(model)                         CHECK
 Freezing Demonic Gleeok Horn    CHECK
-(model)
+(model)                         CHECK
 Shocking Demonic Gleeok Horn    CHECK
-(model)
+(model)                         CHECK
