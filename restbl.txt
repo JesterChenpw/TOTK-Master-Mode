@@ -624,6 +624,19 @@ GameParameter/PriceParam/Item_Enemy_912.game__pouchcontent__PriceParam.bgyml : 7
 GameParameter/RodParam/Item_Enemy_912.game__Object__RodParam.bgyml : 17000
 UI/Tex/Icon/Item_Enemy_912.bntx : 200000
 
+Pack/Actor/Item_Enemy_913.pack : 100000
+Actor/Item_Enemy_913.engine__actor__ActorParam.bgyml : 17500
+Component/AttachmentParam/Item_Enemy_913.game__component__AttachmentParam.bgyml : 12500
+Component/ModelInfo/Item_Enemy_913.engine__component__ModelInfo.bgyml : 7500
+Model/Item_Enemy_913.Item_Enemy_913.bfres : 2000000
+Component/DropParam/Enemy_Zonau_BlockMaster_Gold.game__component__DropParam.bgyml : 9000
+Drop/DropTable/Enemy_Zonau_BlockMaster_Gold_Minus_Normal.game__drop__DropTable.bgyml : 9000
+Drop/DropTable/Enemy_Zonau_BlockMaster_Gold_Normal.game__drop__DropTable.bgyml : 9000
+Drop/DropTableElementList/Enemy_Sub_Zonau_BlockMaster_Gold_Normal_00.game__drop__DropTableElementList.bgyml : 9000
+Drop/DropTableElementList/Enemy_Sub_Zonau_BlockMaster_Gold_Normal_01.game__drop__DropTableElementList.bgyml : 9000
+Drop/DropTableElementList/Enemy_Sub_Zonau_BlockMaster_Gold_Normal_03.game__drop__DropTableElementList.bgyml : 9000
+Drop/DropTableElementList/Enemy_Zonau_BlockMaster_Gold_Proxy.game__drop__DropTableElementList.bgyml : 9000
+
 Pack/Actor/ThunderRodLv3Thunder.pack : 65000
 Actor/ThunderRodLv3Thunder.engine__actor__ActorParam.bgyml : 10000
 GameParameter/GameParameterTable/ThunderRodLv3Thunder.engine__actor__GameParameterTable.bgyml : 8000
