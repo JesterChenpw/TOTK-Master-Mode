@@ -53,8 +53,8 @@ Talus
 (model)
 Hinox
 (model)
-Flux Construct
-(model)
+Flux Construct                  CHECK
+(model)                         CHECK
 Molduga
 (model)
 Hinox
