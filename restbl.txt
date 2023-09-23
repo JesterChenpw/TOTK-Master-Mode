@@ -363,6 +363,8 @@ GameBalance/AttackParam/Zonau_BlockMaster_Block_Gold.game__gamebalance__AttackPa
 Pack/Actor/Enemy_Drake_Lord.pack : 2000000
 Actor/Enemy_Drake_Lord.engine__actor__ActorParam.bgyml : 12000
 Model/Enemy_Drake.Enemy_Drake_Lord.bfres : 20000000
+TexToGo/Enemy_Drake_Lord_Eye_Alb.txtg : 2000000
+TexToGo/Enemy_Drake_Lord_Neck_Emission.txtg : 2000000
 TexToGo/Enemy_Drake_Lord_Body_Emission.txtg : 2000000
 TexToGo/Enemy_Drake_Lord_Body_Alb.txtg : 20000000
 Component/ConditionParam/Drake_Lord.game__component__ConditionParam.bgyml : 11500
