@@ -61,6 +61,32 @@ Component/ConditionParam/Enemy_Bokoblin_Gold.game__component__ConditionParam.bgy
 Event/EventFlow/Npc_Zonau_Golem_Servant_ZonauChallenge_02.bfevfl : 2000
 GameParameter/SharpInfo/Default.game__weapon__SharpInfoTable.bgyml : 100000
 
+Pack/Actor/Enemy_Army_Manager_005.pack : 20000
+Life/LifeParameters/Enemy_Army_Manager_005.game__life__LifeParameters.bgyml : 7500
+Pack/Actor/Enemy_Army_Manager_005_Uncleared.pack : 20000
+Pack/Actor/Enemy_Army_Manager_007.pack : 20000
+Life/LifeParameters/Enemy_Army_Manager.game__life__LifeParameters.bgyml : 7500
+Pack/Actor/Enemy_Army_Manager_100.pack : 20000
+Pack/Actor/Enemy_Army_Manager_101.pack : 20000
+Life/LifeParameters/Enemy_Army_Manager_101.game__life__LifeParameters.bgyml : 7500
+Pack/Actor/Enemy_Army_Manager_102.pack : 20000
+Pack/Actor/Enemy_Army_Manager_105.pack : 20000
+Pack/Actor/Enemy_Army_Manager_107.pack : 20000
+Life/LifeParameters/Enemy_Army_Manager_107.game__life__LifeParameters.bgyml : 7500
+Pack/Actor/Enemy_Army_Manager_108.pack : 20000
+Pack/Actor/Enemy_Army_Manager_111.pack : 20000
+Pack/Actor/Enemy_Army_Manager_112.pack : 20000
+Pack/Actor/Enemy_Army_Manager_113.pack : 20000
+Pack/Actor/Enemy_Army_Manager_115.pack : 20000
+Pack/Actor/Enemy_Army_Manager_116.pack : 20000
+Pack/Actor/Enemy_Army_Manager_117.pack : 20000
+Pack/Actor/Enemy_Army_Manager_118.pack : 20000
+Pack/Actor/Enemy_Army_Manager_119.pack : 20000
+Pack/Actor/Enemy_Army_Manager_120.pack : 20000
+Pack/Actor/Enemy_Army_Manager_121.pack : 20000
+Pack/Actor/Enemy_Army_Manager_122.pack : 20000
+Pack/Actor/Enemy_Army_Manager_123.pack : 20000
+
 Pack/Actor/Enemy_Bokoblin_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Gold.engine__actor__ActorParam.bgyml : 10000
 BSA/MovementParam/Bokoblin_Gold.game__bsa__MovementParam.bgyml : 8000
