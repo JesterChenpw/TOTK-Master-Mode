@@ -780,21 +780,6 @@ Component/WeaponParam/Weapon_Spear_018.game__component__WeaponParam.bgyml : 1400
 Life/LifeParameters/Weapon_Spear_018.game__life__LifeParameters.bgyml : 7500
 UI/Tex/Icon/Weapon_Spear_018.bntx : 200000
 
-Pack/Actor/Weapon_Sword_200.pack : 200000
-Model/Weapon_Sword_200.Weapon_Sword_200.bfres : 3000000
-TexToGo/Weapon_Sword_200_Alb.txtg : 1000000
-TexToGo/Weapon_Sword_200_Blade_Alb.txtg : 1000000
-TexToGo/Weapon_Sword_200_Emm.txtg : 1000000
-TexToGo/Weapon_Sword_200_Blade_Emm.txtg : 1000000
-Actor/Weapon_Sword_200.engine__actor__ActorParam.bgyml : 10500
-Component/AttachmentParam/Weapon_Sword_200.game__component__AttachmentParam.bgyml : 10000
-Component/LifeParam/Weapon_Sword_200.game__component__LifeParam.bgyml : 8000
-Component/ModelInfo/Weapon_Sword_200.engine__component__ModelInfo.bgyml : 8000
-Component/WeaponParam/Weapon_Sword_200.game__component__WeaponParam.bgyml : 14500
-GameParameter/GameParameterTable/Weapon_Sword_200.engine__actor__GameParameterTable.bgyml : 8000
-Life/LifeParameters/Weapon_Sword_200.game__life__LifeParameters.bgyml : 7500
-UI/Tex/Icon/Weapon_Sword_200.bntx : 170000
-
 Model/Weapon_Sword_016.Weapon_Sword_016.bfres : 300000
 Model/Weapon_Sword_017.Weapon_Sword_017.bfres : 300000
 Model/Weapon_Sword_018.Weapon_Sword_018.bfres : 300000
@@ -831,3 +816,33 @@ TexToGo/Weapon_Spear_017_Spm.txtg : 300000
 TexToGo/Weapon_Spear_018_Alb.txtg : 300000
 TexToGo/Weapon_Spear_018_Nrm.txtg : 300000
 TexToGo/Weapon_Spear_018_Spm.txtg : 300000
+
+Pack/Actor/Weapon_Sword_200.pack : 200000
+Model/Weapon_Sword_200.Weapon_Sword_200.bfres : 3000000
+TexToGo/Weapon_Sword_200_Alb.txtg : 1000000
+TexToGo/Weapon_Sword_200_Blade_Alb.txtg : 1000000
+TexToGo/Weapon_Sword_200_Emm.txtg : 1000000
+TexToGo/Weapon_Sword_200_Blade_Emm.txtg : 1000000
+Actor/Weapon_Sword_200.engine__actor__ActorParam.bgyml : 10500
+Component/AttachmentParam/Weapon_Sword_200.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Sword_200.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Sword_200.engine__component__ModelInfo.bgyml : 8000
+Component/WeaponParam/Weapon_Sword_200.game__component__WeaponParam.bgyml : 14500
+GameParameter/GameParameterTable/Weapon_Sword_200.engine__actor__GameParameterTable.bgyml : 8000
+Life/LifeParameters/Weapon_Sword_200.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Sword_200.bntx : 170000
+
+Pack/Actor/Weapon_Lsword_200.pack : 200000
+Model/Weapon_Lsword_200.Weapon_Lsword_200.bfres : 3000000
+TexToGo/Weapon_Lsword_200.txtg : 1000000
+TexToGo/Weapon_Lsword_200_Blade_Alb.txtg : 1000000
+TexToGo/Weapon_Lsword_200_Emm.txtg : 1000000
+TexToGo/Weapon_Lsword_200_Blade_Emm.txtg : 1000000
+Actor/Weapon_Lsword_200.engine__actor__ActorParam.bgyml : 10500
+Component/AttachmentParam/Weapon_Lsword_200.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Lsword_200.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Lsword_200.engine__component__ModelInfo.bgyml : 8000
+Component/WeaponParam/Weapon_Lsword_200.game__component__WeaponParam.bgyml : 14500
+GameParameter/GameParameterTable/Weapon_Lsword_200.engine__actor__GameParameterTable.bgyml : 8000
+Life/LifeParameters/Weapon_Lsword_200.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Lsword_200.bntx : 170000

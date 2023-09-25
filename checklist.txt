@@ -79,7 +79,7 @@ Savage Lynel Spear              CHECK
 (model)                         CHECK
 Seized Construct Sword          CHECK
 (model)                         CHECK
-Seized Construct Longsword
+Seized Construct Longsword      CHECK
 (model)
 Seized Construct Spear
 (model)
