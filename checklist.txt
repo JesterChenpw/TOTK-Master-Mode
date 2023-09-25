@@ -77,8 +77,8 @@ Savage Lynel Sword              CHECK
 (model)                         CHECK
 Savage Lynel Spear              CHECK
 (model)                         CHECK
-Seized Construct Sword
-(model)
+Seized Construct Sword          CHECK
+(model)                         CHECK
 Seized Construct Longsword
 (model)
 Seized Construct Spear
@@ -86,6 +86,8 @@ Seized Construct Spear
 Seized Construct Shield
 (model)
 Seized Construct Bow
+(model)
+Demon Lord Greatsword           
 (model)
 Burning Demonic Gleeok Horn     CHECK
 (model)                         CHECK
