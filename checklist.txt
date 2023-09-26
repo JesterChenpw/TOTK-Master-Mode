@@ -81,7 +81,7 @@ Seized Construct Sword          CHECK
 (model)                         CHECK
 Seized Construct Longsword      CHECK
 (model)                         CHECK
-Seized Construct Spear
+Seized Construct Spear          CHECK
 (model)
 Seized Construct Shield
 (model)
