@@ -49,13 +49,13 @@ Blizzard Lynel
 (model)
 Thunderstorm Lynel
 (model)
-Talus
+Diamond Talus
 (model)
 Hinox
 (model)
-Flux Construct                  CHECK
+Seized Flux Construct           CHECK
 (model)                         CHECK
-Molduga
+Molduqueen                      CHECK
 (model)
 Hinox
 (model)
