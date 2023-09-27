@@ -616,8 +616,17 @@ Drop/DropTable/Enemy_Drake_Lord_Normal.game__drop__DropTable.bgyml : 8000
 Component/DropParam/Enemy_Drake_Lord.game__component__DropParam.bgyml : 8000
 Drop/DropTableElementList/Enemy_Drake_Lord_Normal_00.game__drop__DropTableElementList.bgyml : 10000
 Drop/DropTableElementList/Enemy_Drake_Lord_Normal_02.game__drop__DropTableElementList.bgyml : 55000
+Drop/DropTableElementList/Enemy_Drake_Lord_Normal_01.game__drop__DropTableElementList.bgyml : 55000
 Drop/DropTableElementList/Enemy_Drake_Lord_Normal_03.game__drop__DropTableElementList.bgyml : 10000
 Drop/DropTableElementList/Enemy_Drake_Lord_Normal_04.game__drop__DropTableElementList.bgyml : 10000
+Pack/Actor/TBox_Field_Iron_Lord.pack : 150000
+Model/Obj_TBox_Zonau_Iron_Lord.TBox_Zonau_Iron_Lord.bfres : 300000
+TexToGo/TBox_Field_Iron_Lord_Alb.txtg : 200000
+Component/ModelInfo/TBox_Field_Iron_Lord.engine__component__ModelInfo.bgyml : 7500
+Actor/TBox_Field_Iron_Lord.engine__actor__ActorParam.bgyml : 15000
+Component/DropParam/UnbreakableTreasureBox_Lord.game__component__DropParam.bgyml : 10500
+Drop/DropTable/UnbreakableTreasureBox_Normal_Lord.game__drop__DropTable.bgyml : 8000
+Drop/DropTableElementList/UnbreakableTreasureBox_Normal_Lord_00.game__drop__DropTableElementList.bgyml : 10500
 
 Pack/Actor/Item_Enemy_910.pack : 50000
 Model/Item_Enemy_910.Item_Enemy_910.bfres : 20000000
@@ -873,6 +882,17 @@ Component/WeaponParam/Weapon_Lsword_200.game__component__WeaponParam.bgyml : 145
 GameParameter/GameParameterTable/Weapon_Lsword_200.engine__actor__GameParameterTable.bgyml : 8000
 Life/LifeParameters/Weapon_Lsword_200.game__life__LifeParameters.bgyml : 7500
 UI/Tex/Icon/Weapon_Lsword_200.bntx : 1000000
+
+Pack/Actor/Weapon_Lsword_666.pack : 200000
+Model/Weapon_Lsword_666.Weapon_Lsword_666.bfres : 3000000
+TexToGo/Weapon_Lsword_666_Alb.txtg : 1000000
+Actor/Weapon_Lsword_666.engine__actor__ActorParam.bgyml : 10500
+Component/AttachmentParam/Weapon_Lsword_666.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Lsword_666.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Lsword_666.engine__component__ModelInfo.bgyml : 8000
+Component/WeaponParam/Weapon_Lsword_666.game__component__WeaponParam.bgyml : 14500
+Life/LifeParameters/Weapon_Lsword_666.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Lsword_666.bntx : 1000000
 
 Pack/Actor/Weapon_Spear_200.pack : 200000
 Model/Weapon_Lsword_200.Weapon_Lsword_200.bfres : 3000000
