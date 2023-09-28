@@ -22,7 +22,7 @@
   - Golden Boss Bokoblin Horn
   - Seized Soldier Construct Horn
   - Seized Captain Construct Horn
-  - Seized Flux Core
+  - Seized Flux Construct Core
   - Demonic Burning Gleeok Horn
   - Demonic Freezing Gleeok Horn
   - Demonic Shocking Gleeok Horn

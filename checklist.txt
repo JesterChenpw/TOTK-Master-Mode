@@ -51,13 +51,23 @@ Thunderstorm Lynel
 (model)
 Diamond Talus
 (model)
+Diamond Talus Heart
+(model)
+Mother Frox
+(model)
+Mother Frox Fang
+(model)
 Hinox
+(model)
+Hinox Horn
 (model)
 Seized Flux Construct           CHECK
 (model)                         CHECK
+Seized Flux Construct Core      CHECK
+(model)                         CHECK
 Molduqueen                      CHECK
 (model)                         CHECK
-Hinox
+Molduqueen Fan
 (model)
 Lynel Crusher                   CHECK
 (model)                         CHECK
