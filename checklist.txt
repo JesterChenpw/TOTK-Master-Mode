@@ -56,7 +56,7 @@ Hinox
 Seized Flux Construct           CHECK
 (model)                         CHECK
 Molduqueen                      CHECK
-(model)
+(model)                         CHECK
 Hinox
 (model)
 Lynel Crusher                   CHECK
@@ -82,12 +82,12 @@ Seized Construct Sword          CHECK
 Seized Construct Longsword      CHECK
 (model)                         CHECK
 Seized Construct Spear          CHECK
-(model)
+(model)                         CHECK
 Seized Construct Shield
 (model)
 Seized Construct Bow
 (model)
-Demon Lord Greatsword           
+Demon Lord Greatsword           CHECK
 (model)
 Burning Demonic Gleeok Horn     CHECK
 (model)                         CHECK

@@ -1,0 +1,45 @@
+- New enemies
+  - Golden Bokoblin
+  - Golden Moblin
+  - Golden Lizalfos
+  - Golden Lynel
+  - Golden Horriblin
+  - Golden Boss Bokoblin
+  - Seized Soldier Construct
+  - Seized Captain Construct
+
+- New mini-bosses
+  - Molduqueen
+  - Seized Flux Construct
+  - Demon Lord Gleeok
+
+- New enemy materials
+  - Golden Bokoblin Horn
+  - Golden Moblin Horn
+  - Golden Lizalfos Horn
+  - Golden Lynel Horn
+  - Golden Horriblin Horn
+  - Golden Boss Bokoblin Horn
+  - Seized Soldier Construct Horn
+  - Seized Captain Construct Horn
+  - Seized Flux Core
+  - Demonic Burning Gleeok Horn
+  - Demonic Freezing Gleeok Horn
+  - Demonic Shocking Gleeok Horn
+
+- "New" weapons
+  - Lynel Sword
+  - Lynel Crusher
+  - Lynel Spear
+  - Mighty Lynel Sword
+  - Mighty Lynel Crusher
+  - Mighty Lynel Spear
+  - Savage Lynel Sword
+  - Savage Lynel Crusher
+  - Savage Lynel Spear
+
+- New weapons
+  - Seized Construct Sword
+  - Seized Construct Longsword
+  - Seized Construct Spear
+  - Harbinger of Chaos
