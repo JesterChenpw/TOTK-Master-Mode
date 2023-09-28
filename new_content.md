@@ -23,6 +23,7 @@
   - Seized Soldier Construct Horn
   - Seized Captain Construct Horn
   - Seized Flux Construct Core
+  - Molduqueen Fin
   - Demonic Burning Gleeok Horn
   - Demonic Freezing Gleeok Horn
   - Demonic Shocking Gleeok Horn
