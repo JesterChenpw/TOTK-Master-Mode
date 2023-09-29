@@ -67,7 +67,7 @@ Seized Flux Construct Core      CHECK
 (model)                         CHECK
 Molduqueen                      CHECK
 (model)                         CHECK
-Molduqueen Fin
+Molduqueen Fin                  CHECK
 (model)
 Lynel Crusher                   CHECK
 (model)                         CHECK
