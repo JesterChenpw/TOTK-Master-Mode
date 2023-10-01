@@ -568,9 +568,12 @@ GameParameter/SpiceParam/Item_Enemy_906.game__pouchcontent__SpiceParam.bgyml : 1
 UI/Tex/Icon/Item_Enemy_906.bntx : 140000
 Ecosystem/HornTypeAndAttachmentMappingTable/Lynel_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 9000
 Model/Enemy_Lynel_Horn.Enemy_Lynel_Horn_Sharp_Gold.bfres : 10000000
-TexToGo/Enemy_Lynel_Horn_Sharp_Gold.txtg : 40000
-TexToGo/Enemy_Lynel_Horn_Hammer_Gold.txtg : 45000
-TexToGo/Item_Enemy_906_Alb.txtg : 200000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Alb_0.txtg : 500000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Alb_1.txtg : 500000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Spm_0.txtg : 500000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Spm_1.txtg : 500000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Nrm_0.txtg : 500000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Nrm_1.txtg : 500000
 
 Pack/Actor/Item_Enemy_907.pack : 40000
 Actor/Item_Enemy_907.engine__actor__ActorParam.bgyml : 10000
