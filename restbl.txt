@@ -922,3 +922,15 @@ Component/WeaponParam/Weapon_Spear_200.game__component__WeaponParam.bgyml : 1450
 GameParameter/GameParameterTable/Weapon_Spear_200.engine__actor__GameParameterTable.bgyml : 8000
 Life/LifeParameters/Weapon_Spear_200.game__life__LifeParameters.bgyml : 7500
 UI/Tex/Icon/Weapon_Spear_200.bntx : 1000000
+
+Pack/Actor/Weapon_Shield_200.pack : 150000
+Model/Weapon_Shield_200.Weapon_Shield_200.bfres : 1000000
+TexToGo/Weapon_Shield_200_Alb.txtg : 200000
+TexToGo/Weapon_Shield_200_Guard_Alb.txtg : 80000
+Actor/Weapon_Shield_200.engine__actor__ActorParam.bgyml : 11000
+Component/AttachmentParam/Weapon_Shield_200.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Shield_200.game__component__LifeParam.bgyml : 8000
+Component/ModelInfo/Weapon_Shield_200.engine__component__ModelInfo.bgyml : 8000
+Component/ShieldParam/Weapon_Shield_200.game__component__ShieldParam.bgyml : 10000
+Life/LifeParameters/Weapon_Shield_200.game__life__LifeParameters.bgyml : 7500
+UI/Tex/Icon/Weapon_Shield_200.bntx : 300000

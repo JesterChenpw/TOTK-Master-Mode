@@ -43,4 +43,5 @@
   - Seized Construct Sword
   - Seized Construct Longsword
   - Seized Construct Spear
+  - Seized Construct Shield
   - Harbinger of Chaos
