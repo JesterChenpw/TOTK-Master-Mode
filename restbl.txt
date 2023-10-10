@@ -579,8 +579,12 @@ GameParameter/SortKey/Item_Enemy_905.game__pouchcontent__SortKey.bgyml : 7500
 GameParameter/SpiceParam/Item_Enemy_905.game__pouchcontent__SpiceParam.bgyml : 11000
 UI/Tex/Icon/Item_Enemy_905.bntx : 200000
 Ecosystem/HornTypeAndAttachmentMappingTable/Bokoblin_Boss_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 9000
-Model/Enemy_Bokoblin_Boss_Horn.Enemy_Bokoblin_Boss_Horn_Sharp_Gold.bfres : 200000
+Model/Enemy_Bokoblin_Boss_Horn.Enemy_Bokoblin_Boss_Horn_Sharp_Gold.bfres : 5000000
 TexToGo/Enemy_Bokoblin_Boss_Horn_Hammer_Gold.Alb.txtg : 60000
+TexToGo/Enemy_Bokoblin_Boss_Horn_Alb1.txtg : 5000000
+TexToGo/Enemy_Bokoblin_Boss_Horn_Alb2.txtg : 5000000
+TexToGo/Enemy_Bokoblin_Boss_Horn_Alb3.txtg : 5000000
+TexToGo/Enemy_Bokoblin_Boss_Horn_Alb4.txtg : 5000000
 
 Pack/Actor/Item_Enemy_906.pack : 40000
 Actor/Item_Enemy_906.engine__actor__ActorParam.bgyml : 10000
