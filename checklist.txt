@@ -25,7 +25,7 @@ Golden Lynel Mace Horn          CHECK
 Golden Horriblin Horn           CHECK
 (model)
 Golden Boss Bokoblin Horn       CHECK
-(model)
+(model)                         CHECK
 Soldier Construct V Horn        CHECK
 (model)
 Captain Construct V Horn        CHECK
@@ -38,9 +38,6 @@ English translation
 French translation
 Compendium pictures
 RESTBL for other ver.
-
-Optional :
-
 Demon Lord Gleeok               CHECK
 (model)                         CHECK
 Meteo Lynel
@@ -95,7 +92,7 @@ Seized Construct Spear          CHECK
 (model)                         CHECK
 Seized Construct Shield         CHECK
 (model)
-Seized Construct Bow
+Seized Construct Bow            CHECK
 (model)
 Demon Lord Greatsword           CHECK
 (model)
