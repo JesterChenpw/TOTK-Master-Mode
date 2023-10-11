@@ -570,7 +570,7 @@ TexToGo/Enemy_Horablin_Horn_Hammer_Gold_Alb.txtg : 50000
 
 Pack/Actor/Item_Enemy_905.pack : 120000
 Actor/Item_Enemy_905.engine__actor__ActorParam.bgyml : 12000
-Model/Item_Enemy_905.Item_Enemy_905.bfres : 200000
+Model/Item_Enemy_905.Item_Enemy_905.bfres : 5000000
 Component/AttachmentParam/Item_Enemy_905.game__component__AttachmentParam.bgyml : 12000
 Component/ModelInfo/Item_Enemy_905.engine__component__ModelInfo.bgyml : 8000
 GameParameter/GameParameterTable/Item_Enemy_905.engine__actor__GameParameterTable.bgyml : 9000
