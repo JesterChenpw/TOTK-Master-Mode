@@ -118,6 +118,7 @@ TexToGo/Bokoblin_Gold_Apron_Alb.txtg : 12000
 TexToGo/Bokoblin_Gold_Body_Alb.txtg : 170000
 TexToGo/Bokoblin_Gold_Cloth_Alb.txtg : 30000
 TxtToGo/Bokoblin_Gold_Necklace_Alb.txtg : 21000
+Component/AffiliationParam/EnemyBokoblinGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Moriblin_Gold.pack : 950000
 Model/Enemy_Moriblin.anim.bfres : 15000
@@ -147,6 +148,7 @@ GameParameter/EnemyCommonParam/Moriblin_Gold.game__enemy__EnemyCommonParam.bgyml
 GameParameter/GameParameterTable/Moriblin_Gold.engine__actor__GameParameterTable.bgyml : 10000
 Life/DamageParameters/Enemy_Moriblin_Gold.game__life__DamageParameters.bgyml : 17000
 Life/LifeParameters/Moriblin_Gold.game__life__LifeParameters.bgyml : 8000
+Component/AffiliationParam/EnemyCommonAttackNPCGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Lizalfos_Gold.pack : 1300000
 Model/Enemy_Lizalfos.anim.bfres : 15000
@@ -216,6 +218,7 @@ GameParameter/EnemyCommonParam/Enemy_Lynel_Gold.game__enemy__EnemyCommonParam.bg
 GameParameter/GameParameterTable/Enemy_Lynel_Gold.engine__actor__GameParameterTable.bgyml : 15000
 Life/DamageParameters/Lynel_Gold.game__life__DamageParameters.bgyml : 24000
 Life/LifeParameters/Enemy_Lynel_Gold.game__life__LifeParameters.bgyml : 14500
+Component/AffiliationParam/EnemyCommonGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Bokoblin_Armor_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Armor_Gold.engine__actor__ActorParam.bgyml : 9000
@@ -307,6 +310,7 @@ GameParameter/EnemyCommonParam/Enemy_Zonau_Robot_Gold.game__enemy__EnemyCommonPa
 GameParameter/GameParameterTable/Enemy_Zonau_Robot_Gold.engine__actor__GameParameterTable.bgyml : 9000
 Life/DamageParameters/Enemy_Zonau_Robot_Gold.game__life__DamageParameters.bgyml : 16000
 Life/LifeParameters/Enemy_Zonau_Robot_Gold.game__life__LifeParameters.bgyml : 8000
+Component/AffiliationParam/ZonauEnemyCommonGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Zonau_Golem_Gold.pack : 1200000
 Model/Enemy_Zonau_Golem_Junior.Enemy_Zonau_Golem_Gold.bfres : 2000000
@@ -367,6 +371,7 @@ BSA/MovementParam/Sandworm_Gold.game__bsa__MovementParam.bgyml : 9000
 GameParameter/SandwormParam/Sandworm_Gold.game__enemy__SandwormParam.bgyml : 8000
 Life/DamageParameters/Enemy_Sandworm_Gold.game__life__DamageParameters.bgyml : 15000
 Life/LifeParameters/Sandworm_Gold.game__life__LifeParameters.bgyml : 7500
+Component/AffiliationParam/SandwormGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Zonau_BlockMaster_Gold.pack : 1200000
 TexToGo/Enemy_Zonau_BlockMaster_Block_Body_Gold_Emm.txtg : 2000000
@@ -397,6 +402,7 @@ Component/ModelInfo/Enemy_Zonau_BlockMaster_Gold.engine__component__ModelInfo.bg
 Component/ZonauBlockMasterParam/Enemy_Zonau_BlockMaster_Gold.game__component__ZonauBlockMasterParam.bgyml : 9000
 Life/DamageParameters/Enemy_Zonau_BlockMaster_Gold.game__life__DamageParameters.bgyml : 15000
 Life/LifeParameters/Enemy_Zonau_BlockMaster_Gold.game__life__LifeParameters.bgyml : 7500
+Component/AffiliationParam/ZonauMiddleBossCommonGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Enemy_Golem_Gold.pack : 1500000
 Actor/Enemy_Golem_Gold.engine__actor__ActorParam.bgyml : 10500
@@ -423,6 +429,7 @@ Life/DamageParameters/Enemy_Golem_Gold.game__life__DamageParameters.bgyml : 1500
 Life/LifeParameters/Enemy_Golem_Gold.game__life__LifeParameters.bgyml : 7500
 Model/Enemy_Golem_Gold.Enemy_Golem_Gold.bfres : 10000000
 TexToGo/Enemy_Golem_Gold.txtg : 10000000
+Component/AffiliationParam/Enemy_Golem_JuniorGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Zonau_BlockMaster_Block_Gold.pack : 60000
 Actor/Zonau_BlockMaster_Block_Gold.engine__actor__ActorParam.bgyml : 15000
@@ -460,6 +467,7 @@ GameParameter/EnemyCommonParam/Enemy_Drake_Lord.game__enemy__EnemyCommonParam.bg
 GameParameter/GameParameterTable/Enemy_Drake_Lord.engine__actor__GameParameterTable.bgyml : 11000
 Life/DamageParameters/Enemy_Drake_Lord.game__life__DamageParameters.bgyml : 17000
 Life/LifeParameters/Enemy_Drake_Lord.game__life__LifeParameters.bgyml : 8000
+Component/AffiliationParam/EnemyDrakeGold.game__component__AffiliationParam.bgyml : 10000
 
 Pack/Actor/Drake_Lord_Beam_Small_Electric.pack : 40000
 Pack/Actor/Drake_Lord_Beam_Small_Fire.pack : 40000
