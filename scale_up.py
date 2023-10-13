@@ -9,49 +9,18 @@ sky_files = ['Banc\\MainField\\Sky\\' + file.replace('.zs', '') for file in os.l
 castle_files = ['Banc\\MainField\\Castle\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Castle') if '.byml' in file]
 cave_files = ['Banc\\MainField\\Cave\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MainField\\Cave') if '.byml' in file]
 minusfield_files = ['Banc\\MinusField\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\MinusField') if '.byml' in file]
+dungeon_files = ['Banc\\LargeDungeon\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\LargeDungeon') if '.byml' in file]
+shrine_files = ['Banc\\SmallDungeon\\' + file.replace('.zs', '') for file in os.listdir(banc_path + '\\SmallDungeon') if '.byml' in file]
 
 rank_up_dict = {
-    "Enemy_Bokoblin_Junior": "Enemy_Bokoblin_Middle",
-    "Enemy_Bokoblin_Middle": "Enemy_Bokoblin_Senior",
-    "Enemy_Bokoblin_Seinor": "Enemy_Bokoblin_Dark",
-    "Enemy_Bokoblin_Dark": "Enemy_Bokoblin_Gold",
-    "Enemy_Bokoblin_Armor_Junior": "Enemy_Bokoblin_Armor_Middle",
-    "Enemy_Bokoblin_Armor_Middle": "Enemy_Bokoblin_Armor_Senior",
-    "Enemy_Bokoblin_Armor_Senior": "Enemy_Bokoblin_Armor_Dark",
-    "Enemy_Bokoblin_Armor_Dark": "Enemy_Bokoblin_Armor_Gold",
-    "Enemy_Bokoblin_Boss_Junior": "Enemy_Bokoblin_Boss_Middle",
-    "Enemy_Bokoblin_Boss_Middle": "Enemy_Bokoblin_Boss_Senior",
-    "Enemy_Bokoblin_Boss_Senior": "Enemy_Bokoblin_Boss_Dark",
-    "Enemy_Bokoblin_Boss_Dark": "Enemy_Bokoblin_Boss_Gold",
-    "Enemy_Bokoblin_Guard_Junior": "Enemy_Bokoblin_Guard_Middle",
-    "Enemy_Bokoblin_Guard_Junior_Ambush": "Enemy_Bokoblin_Guard_Middle_Ambush",
-    "Enemy_Bokoblin_Guard_Junior_Cliff": "Enemy_Bokoblin_Guard_Middle_Cliff",
-    "Enemy_Bokoblin_Guard_Junior_TreeHouseTop": "Enemy_Bokoblin_Guard_Middle_TreeHouseTop",
-    "Enemy_Moriblin_Junior": "Enemy_Moriblin_Middle",
-    "Enemy_Moriblin_Junior_LongSight": "Enemy_Moriblin_Middle",
-    "Enemy_Moriblin_Lookout_Cliff": "Enemy_Moriblin_Middle",
-    "Enemy_Moriblin_Middle": "Enemy_Moriblin_Senior",
-    "Enemy_Moriblin_Senior": "Enemy_Moriblin_Dark",
-    "Enemy_Moriblin_Dark": "Enemy_Moriblin_Gold",
-    "Enemy_Lizalfos_Junior": "Enemy_Lizalfos_Middle",
-    "Enemy_Lizalfos_Guard_Junior": "Enemy_Lizalfos_Guard_Middle",
-    "Enemy_Lizalfos_Guard_Junior_LongVisibility": "Enemy_Lizalfos_Guard_Middle_LongVisibility",
-    "Enemy_Lizalfos_Middle": "Enemy_Lizalfos_Senior",
-    "Enemy_Lizalfos_Senior": "Enemy_Lizalfos_Dark",
-    "Enemy_Lizalfos_Dark": "Enemy_Lizalfos_Gold",
-    "Enemy_Lynel_Junior": "Enemy_Lynel_Middle",
-    "Enemy_Lynel_Middle": "Enemy_Lynel_Senior",
-    "Enemy_Lynel_Senior": "Enemy_Lynel_Dark",
-    "Enemy_Lynel_Dark": "Enemy_Lynel_Gold",
-    "Enemy_Lynel_Boss": "Enemy_Lynel_Boss_Middle",
-    "Enemy_Lynel_Boss_Middle": "Enemy_Lynel_Boss_Senior",
-    "Enemy_Lynel_Boss_Senior": "Enemy_Lynel_Boss_Dark",
-    "Enemy_Lynel_Boss_Gold": "Enemy_Lynel_Boss_Gold",
-    "Enemy_Horablin_Junior": "Enemy_Horablin_Middle",
-    "Enemy_Horablin_Guard_Junior": "Enemy_Horablin_Guard_Middle",
-    "Enemy_Horablin_Middle": "Enemy_Horablin_Senior",
-    "Enemy_Horablin_Senior": "Enemy_Horablin_Dark",
-    "Enemy_Horablin_Dark": "Enemy_Horablin_Gold"
+    "Enemy_Zonau_Robot_Junior": "Enemy_Zonau_Robot_Middle",
+    "Enemy_Zonau_Robot_Middle": "Enemy_Zonau_Robot_Senior",
+    "Enemy_Zonau_Robot_Senior": "Enemy_Zonau_Robot_Dark",
+    "Enemy_Zonau_Robot_Dark": "Enemy_Zonau_Robot_Gold",
+    "Enemy_Zonau_Golem_Junior": "Enemy_Zonau_Golem_Middle",
+    "Enemy_Zonau_Golem_Middle": "Enemy_Zonau_Golem_Senior",
+    "Enemy_Zonau_Golem_Senior": "Enemy_Zonau_Golem_Dark",
+    "Enemy_Zonau_Golem_Dark": "Enemy_Zonau_Golem_Gold"
 }
 
 def change_map_file(file, folder, file_path):
@@ -99,6 +68,10 @@ def change_map_files_of_one_type(list_files):
             folder_name = folder_name + 'MainField\\Castle'
         elif 'Cave' in file:
             folder_name = folder_name + 'MainField\\Cave'
+        elif 'SmallDungeon' in file:
+            folder_name = folder_name + 'SmallDungeon'
+        elif 'Dungeon' in file:
+            folder_name = folder_name + 'LargeDungeon'
         else:
             folder_name = folder_name + 'MainField'
         
@@ -111,7 +84,7 @@ def do_all():
 
     restbl_changes = []
 
-    for file_list in [mainfield_files, sky_files, castle_files, cave_files, minusfield_files]:
+    for file_list in [mainfield_files, sky_files, castle_files, cave_files, minusfield_files, dungeon_files, shrine_files]:
 
         file_list_changed_files = change_map_files_of_one_type(file_list)
 
