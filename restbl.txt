@@ -757,6 +757,14 @@ GameParameter/PriceParam/Item_Enemy_914.game__pouchcontent__PriceParam.bgyml : 7
 GameParameter/SpiceParam/Item_Enemy_914.game__pouchcontent__SpiceParam.bgyml : 11000
 UI/Tex/Icon/Item_Enemy_914.bntx : 200000
 
+Pack/Actor/Item_Enemy_915.pack : 75000
+Model/Item_Enemy_915.Item_Enemy_915.bfres : 500000
+TexToGo/Rock_ItemEnemy915_A_Alb.txtg : 200000
+TexToGo/Rock_ItemEnemy915_B_Alb.txtg : 50000
+Actor/Item_Enemy_915.engine__actor__ActorParam.bgyml : 10000
+Component/AttachmentParam/Item_Enemy_915.game__component__AttachmentParam.bgyml : 10000
+Component/ModelInfo/Item_Enemy_915.engine__component__ModelInfo.bgyml : 7500
+
 Pack/Actor/ThunderRodLv3Thunder.pack : 65000
 Actor/ThunderRodLv3Thunder.engine__actor__ActorParam.bgyml : 10000
 GameParameter/GameParameterTable/ThunderRodLv3Thunder.engine__actor__GameParameterTable.bgyml : 8000

@@ -11,6 +11,7 @@
 - New mini-bosses
   - Molduqueen
   - Seized Flux Construct
+  - Diamond Battle Talus
   - Demon Lord Gleeok
 
 - New enemy materials
@@ -24,6 +25,7 @@
   - Seized Captain Construct Horn
   - Seized Flux Construct Core
   - Molduqueen Fin
+  - Diamond Battle Talus Heart
   - Demonic Burning Gleeok Horn
   - Demonic Freezing Gleeok Horn
   - Demonic Shocking Gleeok Horn
@@ -44,4 +46,5 @@
   - Seized Construct Longsword
   - Seized Construct Spear
   - Seized Construct Shield
+  - Seized Construct Bow
   - Harbinger of Chaos

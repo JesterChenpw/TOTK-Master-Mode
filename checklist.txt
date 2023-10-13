@@ -46,9 +46,9 @@ Blizzard Lynel
 (model)
 Thunderstorm Lynel
 (model)
-Diamond Talus
+Diamond Battle Talus            CHECK
 (model)
-Diamond Talus Heart
+Diamond Battle Talus Heart      CHECK
 (model)
 Mother Frox
 (model)
