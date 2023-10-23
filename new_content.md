@@ -7,11 +7,13 @@
   - Golden Boss Bokoblin
   - Seized Soldier Construct
   - Seized Captain Construct
+  - Baby Frox
 
 - New mini-bosses
   - Molduqueen
   - Seized Flux Construct
   - Diamond Battle Talus
+  - Mother Frox
   - Demon Lord Gleeok
 
 - New enemy materials
