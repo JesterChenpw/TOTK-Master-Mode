@@ -28,6 +28,7 @@
   - Seized Flux Construct Core
   - Molduqueen Fin
   - Diamond Battle Talus Heart
+  - Mother Frox Fang
   - Demonic Burning Gleeok Horn
   - Demonic Freezing Gleeok Horn
   - Demonic Shocking Gleeok Horn

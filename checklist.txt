@@ -52,7 +52,7 @@ Diamond Battle Talus Heart      CHECK
 (model)
 Mother Frox                     CHECK
 (model)
-Mother Frox Fang
+Mother Frox Fang                CHECK
 (model)
 Hinox
 (model)

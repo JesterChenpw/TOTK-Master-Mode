@@ -457,6 +457,8 @@ Component/PerceptionReceiverParam/Mogurudo_Gold.game__component__PerceptionRecei
 Model/Enemy_Mogurudo.anim.bfres : 11000
 TexToGo/Enemy_Mogurudo_Gold_Alb.txtg : 400000
 TexToGo/Enemy_Mogurudo_Crystal_Gold_Alb.txtg : 37500
+Ecosystem/HornTypeAndAttachmentMappingTable/Mogurudo_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 8000
+Model/Enemy_Mogurudo_Tooth.Enemy_Mogurudo_Tooth_Gold.bfres : 200000
 
 Pack/Actor/Enemy_Mogurudo_Gold_WeakPoint.pack : 80000
 Actor/Enemy_Mogurudo_Gold_WeakPoint.engine__actor__ActorParam.bgyml : 7500
@@ -829,6 +831,17 @@ TexToGo/Rock_ItemEnemy915_B_Alb.txtg : 50000
 Actor/Item_Enemy_915.engine__actor__ActorParam.bgyml : 10000
 Component/AttachmentParam/Item_Enemy_915.game__component__AttachmentParam.bgyml : 10000
 Component/ModelInfo/Item_Enemy_915.engine__component__ModelInfo.bgyml : 7500
+
+Pack/Actor/Item_Enemy_916.pack : 37500
+Actor/Item_Enemy_916.engine__actor__ActorParam.bgyml : 10000
+Model/Item_Enemy_916.Item_Enemy_916.bfres : 250000
+TexToGo/Item_Enemy_916_Alb.txtg : 40000
+Component/AttachmentParam/Item_Enemy_916.game__component__AttachmentParam.bgyml : 11500
+GameParameter/GameParameterTable/Item_Enemy_916.engine__actor__GameParameterTable.bgyml : 9000
+Component/ModelInfo/Item_Enemy_916.engine__component__ModelInfo.bgyml : 7500
+GameParameter/PriceParam/Item_Enemy_916.game__pouchcontent__PriceParam.bgyml : 7500
+GameParameter/SpiceParam/Item_Enemy_916.game__pouchcontent__SpiceParam.bgyml : 7500
+UI/Tex/Icon/Item_Enemy_916.bntx : 200000
 
 Pack/Actor/ThunderRodLv3Thunder.pack : 65000
 Actor/ThunderRodLv3Thunder.engine__actor__ActorParam.bgyml : 10000
