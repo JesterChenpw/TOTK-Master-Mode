@@ -806,6 +806,9 @@ Actor/Item_Enemy_913.engine__actor__ActorParam.bgyml : 17500
 Component/AttachmentParam/Item_Enemy_913.game__component__AttachmentParam.bgyml : 12500
 Component/ModelInfo/Item_Enemy_913.engine__component__ModelInfo.bgyml : 7500
 Model/Item_Enemy_913.Item_Enemy_913.bfres : 2000000
+Component/ASInfo/Item_Enemy_913.engine__component__ASInfo.bgyml : 8000
+AS/Item_Enemy_913.root.asb : 2000
+Model/Item_Enemy_913.anim.bfres : 11500
 Component/DropParam/Enemy_Zonau_BlockMaster_Gold.game__component__DropParam.bgyml : 9000
 Drop/DropTable/Enemy_Zonau_BlockMaster_Gold_Minus_Normal.game__drop__DropTable.bgyml : 9000
 Drop/DropTable/Enemy_Zonau_BlockMaster_Gold_Normal.game__drop__DropTable.bgyml : 9000
