@@ -379,6 +379,7 @@ TexToGo/Enemy_Zonau_BlockMaster_Block_Eye_Gold_Alb.txtg : 2000000
 TexToGo/Enemy_Zonau_BlockMaster_Block_Head_Gold_Alb.txtg : 2000000
 TexToGo/Enemy_Zonau_BlockMaster_Block_Body_Gold_Alb.txtg : 2000000
 Model/Enemy_Zonau_BlockMaster_Block.anim.bfres : 20000
+Component/PerceptionReceiverParam/Enemy_Zonau_BlockMaster_Gold.game__component__PerceptionReceiverParam.bgyml : 20000
 Model/Enemy_Zonau_BlockMaster.Enemy_Zonau_BlockMaster_Gold.bfres : 2000000
 Model/Enemy_Zonau_BlockMaster_Block.Enemy_Zonau_BlockMaster_Block_Body_Gold.bfres.mc : 20000000
 Model/Enemy_Zonau_BlockMaster_Block.Enemy_Zonau_BlockMaster_Block_Body_MassDraw_Gold.bfres.mc : 20000000
