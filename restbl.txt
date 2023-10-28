@@ -1,10 +1,12 @@
 Mals/USen.Product.110.sarc : 20428992
+Event/EventFlow/DefeatGanondorf.110.bfevfl : 130000
 Mals/EUfr.Product.110.sarc : 20428992
 Life/DamageGlobalParam/Default.game__life__DamageGlobalParam.bgyml : 7000
 TexToGo/Mt_Sword_147_emm.txtg : 10000
 RSDB/ActorInfo.Product.110.rstbl.byml : 7000000
 RSDB/GameActorInfo.Product.110.rstbl.byml : 3000000
 Pack/Actor/Player.pack : 1200000
+Logic/Set_Ganondorf_ArmyBattle_db18.logic.module.ainb : 36000
 Pack/Bootup.Nin_NX_NVN.pack : 1994272
 Pack/ResidentCommon.pack : 500000
 Life/DamageParameters/Player.game__life__DamageParameters.bgyml : 12000
