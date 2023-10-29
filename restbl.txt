@@ -463,6 +463,32 @@ TexToGo/Enemy_Mogurudo_Crystal_Gold_Alb.txtg : 37500
 Ecosystem/HornTypeAndAttachmentMappingTable/Mogurudo_Gold.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 8000
 Model/Enemy_Mogurudo_Tooth.Enemy_Mogurudo_Tooth_Gold.bfres : 200000
 
+Pack/Actor/Enemy_Giant_Gold.pack : 1200000
+Actor/Enemy_Giant_Gold.engine__actor__ActorParam.bgyml : 12000
+Component/ModelInfo/Enemy_Giant_Gold.engine__component__ModelInfo.bgyml : 8000
+Model/Enemy_Giant.anim.bfres : 10000
+TexToGo/Enemy_Giant_Gold_Eye_Alb : 30000
+TexToGo/Enemy_Giant_Gold_Eye_Emc : 30000
+TexToGo/Enemy_Giant_Gold_Body_Alb : 500000
+Component/DropParam/Enemy_Giant_Gold.game__component__DropParam.bgyml : 8000
+Component/GameBalanceClientParam/Giant_Gold.game__component__GameBalanceClientParam.bgyml : 8000
+GameParameter/GameParameterTable/Enemy_Giant_Gold.engine__actor__GameParameterTable.bgyml : 9000
+Component/LifeParam/Enemy_Giant_Gold.game__component__LifeParam.bgyml : 7500
+Component/PerceptionReceiverParam/Enemy_Giant_Gold.game__component__PerceptionReceiverParam.bgyml : 17000
+Drop/DropTable/Enemy_Giant_Gold_Normal.game__drop__DropTable.bgyml : 8000
+Drop/DropTable/Enemy_Giant_Gold_Minus_Normal.game__drop__DropTable.bgyml : 8000
+Drop/DropTableElementList/Enemy_Giant_Gold_Normal_00.game__drop__DropTableElementList.bgyml : 11500
+Drop/DropTableElementList/Enemy_Giant_Gold_Normal_01.game__drop__DropTableElementList.bgyml : 9000
+Drop/DropTableElementList/Enemy_Giant_Gold_Normal_02.game__drop__DropTableElementList.bgyml : 9000
+Drop/DropTableElementList/Enemy_Giant_Gold_Normal_03.game__drop__DropTableElementList.bgyml : 9000
+GameBalance/AttackInterval/Giant_Gold.game__gamebalance__AttackInterval.bgyml : 7500
+Component/ConditionParam/Enemy_Giant_Gold.game__component__ConditionParam.bgyml : 11500
+GameParameter/EnemyCommonParam/Enemy_Giant_Gold.game__enemy__EnemyCommonParam.bgyml : 12000
+GameBalance/AttackParam/Enemy_Giant_Gold.game__gamebalance__AttackParam.bgyml : 24000
+BSA/MovementParam/Giant_Gold.game__bsa__MovementParam.bgyml : 9000
+Life/LifeParameters/Enemy_Giant_Gold.game__life__LifeParameters.bgyml : 7500
+Life/DamageParameters/Enemy_Giant_Gold.game__life__DamageParameters.bgyml : 15000
+
 Pack/Actor/Enemy_Mogurudo_Gold_WeakPoint.pack : 80000
 Actor/Enemy_Mogurudo_Gold_WeakPoint.engine__actor__ActorParam.bgyml : 7500
 Component/LifeParam/Enemy_Mogurudo_Gold_WeakPoint.game__component__LifeParam.bgyml : 7500
