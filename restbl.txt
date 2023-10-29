@@ -63,10 +63,10 @@ Component/ConditionParam/Enemy_Bokoblin_Gold.game__component__ConditionParam.bgy
 Event/EventFlow/Npc_Zonau_Golem_Servant_ZonauChallenge_02.bfevfl : 2000
 GameParameter/SharpInfo/Default.game__weapon__SharpInfoTable.bgyml : 100000
 
-Pack/Actor/Enemy_Army_Manager_005.pack : 20000
+Pack/Actor/Enemy_Army_Manager_005.pack : 200000
 Life/LifeParameters/Enemy_Army_Manager_005.game__life__LifeParameters.bgyml : 7500
-Pack/Actor/Enemy_Army_Manager_005_Uncleared.pack : 20000
-Pack/Actor/Enemy_Army_Manager_007.pack : 20000
+Pack/Actor/Enemy_Army_Manager_005_Uncleared.pack : 200000
+Pack/Actor/Enemy_Army_Manager_007.pack : 200000
 Life/LifeParameters/Enemy_Army_Manager.game__life__LifeParameters.bgyml : 7500
 Pack/Actor/Enemy_Army_Manager_100.pack : 20000
 Pack/Actor/Enemy_Army_Manager_101.pack : 20000
