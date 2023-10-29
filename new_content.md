@@ -11,6 +11,7 @@
 
 - New mini-bosses
   - Molduqueen
+  - Deep Hinox
   - Seized Flux Construct
   - Diamond Battle Talus
   - Mother Frox
@@ -27,6 +28,7 @@
   - Seized Captain Construct Horn
   - Seized Flux Construct Core
   - Molduqueen Fin
+  - Deep Hinox Horn
   - Diamond Battle Talus Heart
   - Mother Frox Fang
   - Demonic Burning Gleeok Horn

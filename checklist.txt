@@ -40,12 +40,6 @@ Compendium pictures
 RESTBL for other ver.
 Demon Lord Gleeok               CHECK
 (model)                         CHECK
-Meteo Lynel
-(model)
-Blizzard Lynel
-(model)
-Thunderstorm Lynel
-(model)
 Diamond Battle Talus            CHECK
 (model)
 Diamond Battle Talus Heart      CHECK
@@ -54,9 +48,9 @@ Mother Frox                     CHECK
 (model)
 Mother Frox Fang                CHECK
 (model)
-Hinox
+Hinox                           CHECK
 (model)
-Hinox Horn
+Hinox Horn                      CHECK
 (model)
 Seized Flux Construct           CHECK
 (model)                         CHECK
