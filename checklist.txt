@@ -42,15 +42,15 @@ Demon Lord Gleeok               CHECK
 (model)                         CHECK
 Diamond Battle Talus            CHECK
 (model)
-Diamond Battle Talus Heart      CHECK
+Diamond Talus Heart             CHECK
 (model)
 Mother Frox                     CHECK
 (model)
 Mother Frox Fang                CHECK
 (model)
-Hinox                           CHECK
+Deep Hinox                      CHECK
 (model)
-Hinox Horn                      CHECK
+Deep Hinox Horn                 CHECK
 (model)
 Seized Flux Construct           CHECK
 (model)                         CHECK
@@ -88,8 +88,8 @@ Seized Construct Shield         CHECK
 (model)
 Seized Construct Bow            CHECK
 (model)
-Demon Lord Greatsword           CHECK
-(model)
+Harbinger of Chaos              CHECK
+(model)                         CHECK
 Burning Demonic Gleeok Horn     CHECK
 (model)                         CHECK
 Freezing Demonic Gleeok Horn    CHECK
