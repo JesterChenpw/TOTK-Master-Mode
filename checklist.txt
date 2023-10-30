@@ -6,9 +6,9 @@ Golden armored Bokoblin			CHECK
 Golden armored Lynel			CHECK
 Golden Horriblin				CHECK
 Golden Boss Bokoblin            CHECK
-Soldier Construct V             CHECK
+Seized Soldier Construct        CHECK
 (model)                         CHECK
-Captain Construct V             CHECK
+Seized Captain Construct        CHECK
 (model)                         CHECK
 Golden Bokoblin Horn            CHECK
 (model)
@@ -26,9 +26,9 @@ Golden Horriblin Horn           CHECK
 (model)
 Golden Boss Bokoblin Horn       CHECK
 (model)                         CHECK
-Soldier Construct V Horn        CHECK
+Seized Soldier Construct Horn   CHECK
 (model)
-Captain Construct V Horn        CHECK
+Seized Captain Construct Horn   CHECK
 (model)
 +1 Rank                         CHECK
 Golden in XP system             CHECK
