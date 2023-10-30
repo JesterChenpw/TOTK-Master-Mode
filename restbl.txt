@@ -222,6 +222,26 @@ Life/DamageParameters/Lynel_Gold.game__life__DamageParameters.bgyml : 24000
 Life/LifeParameters/Enemy_Lynel_Gold.game__life__LifeParameters.bgyml : 14500
 Component/AffiliationParam/EnemyCommonGold.game__component__AffiliationParam.bgyml : 10000
 
+Pack/Actor/Enemy_Lynel_Gold_R.pack : 3750000
+TexToGo/Lynel_Gold_R_Armor_Alb.txtg : 33000
+TexToGo/Lynel_Gold_R_Body_Alb.txtg : 450000
+TexToGo/Lynel_Gold_R_Hair_Alb.txtg : 24000
+Actor/Enemy_Lynel_Gold_R.engine__actor__ActorParam.bgyml : 18000
+Component/DropParam/Enemy_Lynel_Gold_R.game__component__DropParam.bgyml : 15000
+Component/LifeParam/Enemy_Lynel_Gold_R.game__component__LifeParam.bgyml : 14500
+Component/ModelInfo/Enemy_Lynel_Gold_R.engine__component__ModelInfo.bgyml : 14500
+Drop/DropTable/Enemy_Lynel_Gold_R_Minus_Normal.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Lynel_Gold_R_Normal_Bomb.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Lynel_Gold_R_Normal_Fire.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Lynel_Gold_R_Normal_Ice.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Lynel_Gold_R_Normal_Thunder.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Lynel_Gold_R_Normal.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Main_Lynel_Gold_R_Minsu_Arrow.game__drop__DropTable.bgyml : 10000
+Drop/DropTable/Enemy_Main_Lynel_Gold_R_Normal_Arrow.game__drop__DropTable.bgyml : 10000
+Drop/DropTableElementList/Enemy_Lynel_Gold_R_Normal_03.game__drop__DropTableElementList.bgyml : 50000
+Drop/DropTableElementList/Enemy_Lynel_Gold_R_Normal_04.game__drop__DropTableElementList.bgyml : 50000
+Life/LifeParameters/Enemy_Lynel_Gold_R.game__life__LifeParameters.bgyml : 14500
+
 Pack/Actor/Enemy_Bokoblin_Armor_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Armor_Gold.engine__actor__ActorParam.bgyml : 9000
 Component/Blackboard/BlackboardParamTable/Enemy_Armor_Life.engine__component__BlackboardParamTable.bgyml : 11000
