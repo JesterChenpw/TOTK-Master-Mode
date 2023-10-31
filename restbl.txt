@@ -226,6 +226,7 @@ Pack/Actor/Enemy_Lynel_Gold_R.pack : 3750000
 TexToGo/Lynel_Gold_R_Armor_Alb.txtg : 33000
 TexToGo/Lynel_Gold_R_Body_Alb.txtg : 450000
 TexToGo/Lynel_Gold_R_Hair_Alb.txtg : 24000
+GameParameter/GameParameterTable/Enemy_Lynel_Gold_R.engine__actor__GameParameterTable.bgyml : 15000
 Actor/Enemy_Lynel_Gold_R.engine__actor__ActorParam.bgyml : 18000
 Component/DropParam/Enemy_Lynel_Gold_R.game__component__DropParam.bgyml : 15000
 Component/LifeParam/Enemy_Lynel_Gold_R.game__component__LifeParam.bgyml : 14500
@@ -742,6 +743,21 @@ TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Spm_0.txtg : 750000
 TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Spm_1.txtg : 750000
 TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Nrm_0.txtg : 750000
 TexToGo/Enemy_Lynel_Horn_Sharp_Gold_Nrm_1.txtg : 750000
+
+Pack/Actor/Item_Enemy_906_R.pack : 40000
+Actor/Item_Enemy_906_R.engine__actor__ActorParam.bgyml : 10000
+Component/AttachmentParam/Item_Enemy_906_R.game__component__AttachmentParam.bgyml : 11000
+Component/ModelInfo/Item_Enemy_906_R.engine__component__ModelInfo.bgyml : 7500
+GameParameter/GameParameterTable/Item_Enemy_906_R.engine__actor__GameParameterTable.bgyml : 9000
+GameParameter/PriceParam/Item_Enemy_906_R.game__pouchcontent__PriceParam.bgyml : 7500
+GameParameter/SpiceParam/Item_Enemy_906_R.game__pouchcontent__SpiceParam.bgyml : 11000
+Ecosystem/HornTypeAndAttachmentMappingTable/Lynel_Gold_R.game__ecosystem__HornTypeAndAttachmentMappingTable.bgyml : 14500
+UI/Tex/Icon/Item_Enemy_906_R.bntx : 600000
+Model/Enemy_Lynel_Horn.Enemy_Lynel_Horn_Sharp_Gold_R.bfres : 20000000
+Model/Item_Enemy_906_R.Item_Enemy_906_R.bfres : 2000000
+Model/Item_Enemy_906_R.Item_Enemy_906_R_Sub_Lsword.bfres : 2000000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_R_Alb_0.txtg : 750000
+TexToGo/Enemy_Lynel_Horn_Sharp_Gold_R_Alb_1.txtg : 750000
 
 Pack/Actor/Item_Enemy_907.pack : 40000
 Actor/Item_Enemy_907.engine__actor__ActorParam.bgyml : 10000
