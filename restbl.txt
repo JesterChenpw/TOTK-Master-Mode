@@ -241,6 +241,15 @@ Drop/DropTable/Enemy_Main_Lynel_Gold_R_Normal_Arrow.game__drop__DropTable.bgyml 
 Drop/DropTableElementList/Enemy_Lynel_Gold_R_Normal_03.game__drop__DropTableElementList.bgyml : 50000
 Drop/DropTableElementList/Enemy_Lynel_Gold_R_Normal_04.game__drop__DropTableElementList.bgyml : 50000
 Life/LifeParameters/Enemy_Lynel_Gold_R.game__life__LifeParameters.bgyml : 14500
+Game/BSA/ActionVerbContainer/LynelViewWait_R.game__bsa__ActionVerbContainer.bgyml : 8560
+Game/BSA/ActionVerbContainer/LynelTurnOrWait_R.game__bsa__ActionVerbContainer.bgyml : 8496
+Game/BSA/ActionSeqContainer/Lynel_Alerted_R.game__bsa__ActionSeqContainer.bgyml : 6600
+Game/BSA/ActionSeqContainer/Lynel_EnemySearch_R.game__bsa__ActionSeqContainer.bgyml : 6800
+Game/BSA/ActionSeqContainer/Lynel_InaccessibleToTarget_R.game__bsa__ActionSeqContainer.bgyml : 14000
+Game/BSA/ActionSeqContainer/Lynel_InvestigateSuspiciousActivity_R.game__bsa__ActionSeqContainer.bgyml : 10000
+Game/BSA/ActionSeqContainer/Lynel_Wait_R.game__bsa__ActionSeqContainer.bgyml : 9000
+BSA/SchedulerParam/Enemy_Lynel_Gold_R.game__bsa__SchedulerParam.bgyml : 20000
+Component/BSAParam/Lynel_Gold_R.game__component__BSAParam.bgyml : 10000
 
 Pack/Actor/Enemy_Bokoblin_Armor_Gold.pack : 1500000
 Actor/Enemy_Bokoblin_Armor_Gold.engine__actor__ActorParam.bgyml : 9000
