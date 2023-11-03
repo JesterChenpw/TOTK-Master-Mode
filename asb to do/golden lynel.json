@@ -1,0 +1,425 @@
+{
+    "Attack_360_Lsword_End": {
+        "Rate": 1.6,
+        "End Frame (AtCollision)": 7.0
+    },
+    "Attack_360_Lsword_Start": {
+        "Rate": 1.6
+    },
+    "Attack_Big_Front_Lsword": {
+        "Rate": 1.6,
+        "Start Frame (AtSound)": 29.0,
+        "Start Frame (RumbleControllerTrigger)": 37.0,
+        "Start Frame (AtCollision)": 32.0,
+        "End Frame (AtCollision)": 37.0,
+        "Start Frame (WeaponBlur)": 32.0,
+        "Start Frame (Trans)": 32.0,
+        "End Frame (Trans)": 37.0,
+        "Start Frame (Rotate1)": 32.0,
+        "End Frame (Rotate1)": 37.0,
+        "Start Frame (Rotate2)": 12.0,
+        "End Frame (Rotate2)": 19.0,
+        "Start Frame (JstAvdRec)": 30.0,
+        "End Frame (JstAvdRec)": 38.0,
+        "Start Frame (SpecialBoneControl)": 31.0,
+        "End Frame (SpecialBoneControl)": 64.0,
+        "Start Frame (ChangeSeFloorContact)": 47.0,
+        "End Frame (ChangeSeFloorContact)": 50.0
+    },
+    "Attack_Big_Front_Sword": {
+        "Rate": 1.6,
+        "Start Frame (AtSound)": 22.0,
+        "Start Frame (AtCollision)": 22.0,
+        "End Frame (AtCollision)": 26.0,
+        "Start Frame (Rotate)": 5.0,
+        "End Frame (Rotate)": 11.0,
+        "Start Frame (WeaponBlur)": 19.0,
+        "End Frame (WeaponBlur)": 27.0,
+        "Start Frame (Trans)": 20.0,
+        "End Frame (Trans)": 24.0,
+        "Start Frame (Slip)": 24.0,
+        "End Frame (Slip)": 28.0
+    },
+    "Attack_Bow_End": {
+        "Rate": 1.8
+    },
+    "Attack_Bow_Start": {
+        "Rate": 1.8,
+        "Start Frame (AttackCharge)": 11.0
+    },
+    "Attack_Bow_Upper_End": {
+        "Rate": 1.8
+    },
+    "Attack_Bow_Upper_Start": {
+        "Rate": 1.8,
+        "Start Frame (AttackCharge)": 11.0
+    },
+    "Attack_Dash_Lsword_End": {
+        "Rate": 1.6,
+        "Start Frame (AtSound)": 2.0,
+        "End Frame (Trans)": 5.0,
+        "Start Frame (AtCollision)": 2.0,
+        "End Frame (AtCollision)": 6.0,
+        "Start Frame (WeaponBlur)": 2.0,
+        "End Frame (WeaponBlur)": 6.0,
+        "End Frame (SpecialBoneControl)": 44.0,
+        "Start Frame (ChangeSeFloorContact)": 23.0,
+        "End Frame (ChangeSeFloorContact)": 25.0
+    },
+    "Attack_Dash_Lsword_Start": {
+        "Rate": 1.6,
+        "End Frame (Rotate)": 22.0
+    },
+    "Attack_Dash_Sword_End": {
+        "Rate": 1.6,
+        "End Frame (AtCollision)": 5.0,
+        "End Frame (Trans)": 9.0,
+        "End Frame (WeaponBlur)": 9.0
+    },
+    "Attack_Dash_Sword_Start": {
+        "Rate": 1.6,
+        "End Frame (Rotate)": 22.0,
+        "Start Frame (WeaponBlur)": 5.0,
+        "End Frame (WeaponBlur)": 12.0
+    },
+    "Attack_Explosion_Lsword_End": {
+        "Rate": 2.5
+    },
+    "Attack_Explosion_Lsword_Start": {
+        "Rate": 3.0,
+        "Start Frame (ObjThrow)": 50.0,
+        "Start Frame (AtSound)": 46.0,
+        "Start Frame (RumbleControllerTrigger1)": 7.0,
+        "Start Frame (RumbleControllerTrigger2)": 49.0
+    },
+    "Attack_Explosion_Spear_Start": {
+        "Rate": 3.0,
+        "Start Frame (ObjThrow)": 50.0,
+        "Start Frame (AtSound)": 46.0,
+        "Start Frame (RumbleControllerTrigger1)": 7.0,
+        "Start Frame (RumbleControllerTrigger2)": 49.0
+    },
+    "Attack_Explosion_Sword_Start": {
+        "Rate": 3.0,
+        "Start Frame (ObjThrow)": 50.0,
+        "Start Frame (AtSound)": 46.0,
+        "Start Frame (RumbleControllerTrigger1)": 7.0,
+        "Start Frame (RumbleControllerTrigger2)": 49.0
+    },
+    "Attack_Fire_Sword_End": {
+        "Rate": 1.8
+    },
+    "Attack_Fire_Sword_Start": {
+        "Rate": 1.8,
+        "Start Frame (ObjThrow)": 46.0,
+        "Start Frame (AtCollision)": 46.0,
+        "End Frame (AtCollision)": 48.0,
+        "Start Frame (Rotate)": 35.0,
+        "End Frame (Rotate)": 43.0
+    },
+    "Attack_Horn_Lsword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 32.0
+    },
+    "Attack_Horn_Sharp": {
+        "Rate": 1.8
+    },
+    "Attack_Horn_Spear_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 30.0
+    },
+    "Attack_Horn_Spear_Start": {
+        "Rate": 1.6,
+        "Start Frame (WeaponHold)": 16.0
+    },
+    "Attack_Horn_Sword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 32.0
+    },
+    "Attack_Horn_Sword_Start": {
+        "Rate": 1.6,
+        "Start Frame (WeaponHold)": 16.0
+    },
+    "Attack_Jump_Lsword_End": {
+        "Rate": 2.0,
+        "Start Frame (RumbleControllerTrigger)": 2.0,
+        "End Frame (AtCollision)": 2.0,
+        "End Frame (WeaponBlur)": 2.0,
+        "End Frame (LimitLookIK)": 17.0
+    },
+    "Attack_Jump_Lsword_Middle": {
+        "Rate": 1.8
+    },
+    "Attack_Jump_Spear_End": {
+        "Rate": 1.3,
+        "Start Frame (RumbleControllerTrigger)": 2.0,
+        "End Frame (AtCollision)": 4.0,
+        "Start Frame (WeaponBlur)": 25.0,
+        "End Frame (WeaponBlur)": 35.0,
+        "End Frame (LimitLookIK)": 27.0
+    },
+    "Attack_Jump_Spear_Middle": {
+        "Rate": 1.8
+    },
+    "Attack_Jump_Sword_End": {
+        "Rate": 1.3,
+        "End Frame (AtCollision)": 4.0,
+        "End Frame (WeaponBlur)": 4.0,
+        "End Frame (LimitLookIK)": 27.0
+    },
+    "Attack_Jump_Sword_Middle": {
+        "Rate": 1.8
+    },
+    "Attack_Lsword_End": {
+        "Rate": 1.3,
+        "Start Frame (AtSound)": 12.0,
+        "Start Frame (AtCollision)": 12.0,
+        "End Frame (AtCollision)": 21.0,
+        "Start Frame (WeaponBlur)": 8.0,
+        "End Frame (WeaponBlur)": 21.0
+    },
+    "Attack_Near_Lsword_1": {
+        "Rate": 1.5,
+        "Start Frame (AtSound)": 29.0,
+        "Start Frame (RumbleControllerTrigger)": 32.0,
+        "End Frame (NoChangeAS)": 34.0,
+        "Start Frame (AtCollision)": 29.0,
+        "End Frame (AtCollision)": 33.0,
+        "Start Frame (Rotate)": 12.0,
+        "End Frame (Rotate)": 24.0,
+        "Start Frame (Trans)": 27.0,
+        "End Frame (Trans)": 30.0,
+        "Start Frame (KeepBoneControlAngle)": 29.0,
+        "End Frame (KeepBoneControlAngle)": 35.0,
+        "Start Frame (WeaponBlur)": 29.0,
+        "End Frame (WeaponBlur)": 33.0,
+        "Start Frame (JstAvdRec)": 25.0,
+        "End Frame (JstAvdRec)": 33.0,
+        "End Frame (SpecialBoneControl)": 52.0
+    },
+    "Attack_Near_Lsword_2": {
+        "Rate": 1.5,
+        "Start Frame (AtSound1)": 5.0,
+        "Start Frame (AtSound2)": 16.0,
+        "Start Frame (RumbleControllerTrigger)": 20.0,
+        "End Frame (NoChangeAS)": 22.0,
+        "Start Frame (AtCollision1)": 5.0,
+        "End Frame (AtCollision1)": 11.0,
+        "Start Frame (AtCollision2)": 16.0,
+        "End Frame (AtCollision2)": 21.0,
+        "Start Frame (Rotate)": 7.0,
+        "End Frame (Rotate)": 15.0,
+        "Start Frame (KeepBoneControlAngle)": 16.0,
+        "End Frame (KeepBoneControlAngle)": 39.0,
+        "Start Frame (Trans)": 15.0,
+        "End Frame (Trans)": 19.0,
+        "Start Frame (WeaponBlur1)": 5.0,
+        "End Frame (WeaponBlur1)": 11.0,
+        "Start Frame (WeaponBlur2)": 16.0,
+        "End Frame (WeaponBlur2)": 21.0,
+        "Start Frame (JstAvdRec)": 13.0,
+        "End Frame (JstAvdRec)": 20.0,
+        "End Frame (SpecialBoneControl)": 39.0 
+    },
+    "Attack_Near_Lsword_3": {
+        "Rate": 1.5,
+        "Start Frame (AtSound1)": 6.0,
+        "Start Frame (AtSound2)": 17.0,
+        "Start Frame (RumbleControllerTrigger)": 19.0,
+        "Start Frame (AtCollision1)": 6.0,
+        "End Frame (AtCollision1)": 13.0,
+        "Start Frame (AtCollision2)": 17.0,
+        "End Frame (AtCollision2)": 23.0,
+        "Start Frame (Rotate)": 7.0,
+        "End Frame (Rotate)": 14.0,
+        "Start Frame (KeepBoneControlAngle)": 16.0,
+        "End Frame (KeepBoneControlAngle)": 51.0,
+        "Start Frame (Trans)": 15.0,
+        "End Frame (Trans)": 19.0,
+        "Start Frame (WeaponBlur1)": 6.0,
+        "End Frame (WeaponBlur1)": 13.0,
+        "Start Frame (WeaponBlur2)": 17.0,
+        "End Frame (WeaponBlur2)": 23.0,
+        "Start Frame (JstAvdRec)": 13.0,
+        "End Frame (JstAvdRec)": 23.0,
+        "End Frame (SpecialBoneControl)": 51.0,
+        "Start Frame (ChangeSeFloorContact)": 32.0,
+        "End Frame (ChangeSeFloorContact)": 35.0
+    },
+    "Attack_Near_Sword_1": {
+        "Rate": 1.5,
+        "Start Frame (AtSound)": 24.0,
+        "Start Frame (AtCollision)": 24.0,
+        "End Frame (AtCollision)": 29.0,
+        "Start Frame (Trans)": 21.0,
+        "End Frame (Trans)": 25.0,
+        "Start Frame (Rotate)": 9.0,
+        "End Frame (Rotate)": 27.0,
+        "End Frame (NoChangeAS)": 29.0,
+        "Start Frame (WeaponBlur)": 23.0,
+        "End Frame (WeaponBlur)": 31.0
+    },
+    "Attack_Near_Sword_2": {
+        "Rate": 1.5,
+        "Start Frame (AtSound)": 9.0,
+        "Start Frame (AtCollision)": 7.0,
+        "End Frame (AtCollision)": 13.0,
+        "Start Frame (Trans)": 7.0,
+        "End Frame (Trans)": 11.0,
+        "Start Frame (Rotate)": 5.0,
+        "End Frame (Rotate)": 9.0,
+        "End Frame (NoChangeAS)": 13.0,
+        "Start Frame (WeaponBlur)": 7.0,
+        "End Frame (WeaponBlur)": 14.0
+    },
+    "Attack_Near_Sword_3": {
+        "Rate": 1.5,
+        "Start Frame (AtSound)": 10.0,
+        "Start Frame (AtCollision)": 7.0,
+        "End Frame (AtCollision)": 12.0,
+        "Start Frame (Trans)": 6.0,
+        "End Frame (Trans)": 12.0,
+        "Start Frame (Rotate)": 6.0,
+        "End Frame (Rotate)": 10.0,
+        "Start Frame (WeaponBlur)": 5.0,
+        "End Frame (WeaponBlur)": 16.0
+    },
+    "Attack_Spear_Start": {
+        "Rate": 2.0,
+        "End Frame (NoChangeAS)": 15.0,
+        "Start Frame (WeaponBlur)": 4.0,
+        "End Frame (WeaponBlur)": 22.0
+    },
+    "Attack_Sword_Start": {
+        "Rate": 2.0,
+        "End Frame (NoChangeAS)": 15.0
+    },
+    "Disappear_Sword": {
+        "Rate": 2.0
+    },
+    "Drawn_Bow_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponHold)": 12.0
+    },
+    "Drawn_Bow_Start": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 4.0
+    },
+    "Drawn_Bow_To_Lsword": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 12.0,
+        "Start Frame (WeaponHold)": 6.0
+    },
+    "Drawn_Bow_To_Spear": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 10.0,
+        "Start Frame (WeaponHold)": 6.0
+    },
+    "Drawn_Bow_To_Sword": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 12.0,
+        "Start Frame (WeaponHold)": 6.0
+    },
+    "Drawn_Lsword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponHold)": 13.0
+    },
+    "Drawn_Lsword_Start": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 4.0
+    },
+    "Drawn_Lsword_To_Bow": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 17.0,
+        "Start Frame (WeaponHold)": 11.0
+    },
+    "Drawn_Spear_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponHold)": 11.0
+    },
+    "Drawn_Spear_Start": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 4.0
+    },
+    "Drawn_Spear_To_Bow": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 15.0,
+        "Start Frame (WeaponHold)": 12.0
+    },
+    "Drawn_Sword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponHold)": 11.0
+    },
+    "Drawn_Sword_Start": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 3.0
+    },
+    "Drawn_Sword_To_Bow": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 13.0,
+        "Start Frame (WeaponHold)": 7.0
+    },
+    "Howling": {
+        "Rate": 3.0
+    },
+    "Miss_Horn_Lsword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 9.0
+    },
+    "Miss_Horn_Spear_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 7.0
+    },
+    "Miss_Horn_Sword_End": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 9.0
+    },
+    "Miss_Horn_Sword_Start": {
+        "Rate": 2.0,
+        "Start Frame (ChangeSeFloorContact)": 10.0,
+        "End Frame (ChangeSeFloorContact)": 12.0
+    },
+    "Miss_Lsword": {
+        "Rate": 2.0,
+        "Start Frame (ChangeSeFloorContact)": 7.0,
+        "End Frame (ChangeSeFloorContact)": 9.0
+    },
+    "Miss_Sword": {
+        "Rate": 2.0,
+        "Start Frame (ChangeSeFloorContact)": 7.0,
+        "End Frame (ChangeSeFloorContact)": 9.0
+    },
+    "Wait_Battle_Bow": {
+        "Rate": 3.0
+    },
+    "Wait_Battle_Lsword": {
+        "Rate": 3.0
+    },
+    "Wait_Battle_Lsword_To_Wait_Lsword": {
+        "Rate": 2.0
+    },
+    "Wait_Battle_Spear": {
+        "Rate": 3.0
+    },
+    "Wait_Battle_Spear_To_Wait_Spear": {
+        "Rate": 2.0
+    },
+    "Wait_Battle_Sword": {
+        "Rate": 3.0
+    },
+    "Wait_Battle_Sword_To_Wait_Sword": {
+        "Rate": 2.0
+    },
+    "Wait_To_Wait_Battle_Lsword": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 6.0
+    },
+    "Wait_To_Wait_Battle_Spear": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 3.0
+    },
+    "Wait_To_Wait_Battle_Sword": {
+        "Rate": 2.0,
+        "Start Frame (WeaponDrawn)": 3.0
+    }
+}
