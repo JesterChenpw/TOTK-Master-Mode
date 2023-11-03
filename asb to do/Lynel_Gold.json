@@ -1,10 +1,13 @@
 {
     "Attack_360_Lsword_End": {
         "Rate": 1.6,
-        "End Frame (AtCollision)": 7.0
+        "End Frame (AtCollision)": 7.0,
+        "End Frame (LimitLookIK)": 9.0,
+        "End Frame (WeaponBlur)": 9.0
     },
     "Attack_360_Lsword_Start": {
-        "Rate": 1.6
+        "Rate": 1.6,
+        "Start Frame (WeaponBlur)": 26.0
     },
     "Attack_Big_Front_Lsword": {
         "Rate": 1.6,
