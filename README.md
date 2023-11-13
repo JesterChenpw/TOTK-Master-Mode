@@ -9,6 +9,7 @@
 - Spin to win only does 0.5x damage
 - Can't eat raw materials. Can only have one of each cooked material
 - Elemental objects in Bokoblin baskets are replaced with elemental ores
+- [True Damage Display](https://gamebanana.com/mods/478039) is implemented
 
 ##### Scaling
 - All enemies that have golden variants (so not counting Constructs) will go up a rank (like in BotW). There will still be one of each base enemy for the compendium. Each tier of enemy will use the XP threshold of the previous rank, like in BotW as well. e.g. Silver Lizalfos -> Golden Lizalfos will occur when Black Lizalfos -> Silver Lizalfos would have occured in Normal Mode.
