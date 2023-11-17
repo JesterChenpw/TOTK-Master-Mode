@@ -5,7 +5,7 @@
 - Almost all Link's attacks do not interrupt enemies' actions
 - Charged attacks are slower and take more stamina
 - Hitting a Lynel when on its back does less damage for one handed and two handed weapons
-- Flurry rush only does 0.25x damage
+- Flurry rush deals less hits than vanilla
 - Spin to win only does 0.5x damage
 - Can't eat raw materials. Can only have one of each cooked material
 - Elemental objects in Bokoblin baskets are replaced with elemental ores
