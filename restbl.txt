@@ -1163,6 +1163,19 @@ TexToGo/Weapon_Lsword_Harbinger_Eyes_Spm.txtg : 200000
 TexToGo/Weapon_Lsword_Harbinger_Gem_Alb.txtg : 6000
 TexToGo/Weapon_Lsword_Harbinger_Handle_Alb.txtg : 100000
 
+Pack/Actor/Weapon_Lsword_300.pack : 75000
+Actor/Weapon_Lsword_300.engine__actor__ActorParam.bgyml : 10000
+Component/AttachmentParam/Weapon_Lsword_300.game__component__AttachmentParam.bgyml : 10000
+Component/LifeParam/Weapon_Lsword_300.game__component__LifeParam.bgyml : 7500
+Component/ModelInfo/Weapon_Lsword_300.engine__component__ModelInfo.bgyml : 7500
+Component/WeaponParam/Weapon_Lsword_300.game__component__WeaponParam.bgyml : 12000
+GameParameter/GameParameterTable/Weapon_Lsword_300.engine__actor__GameParameterTable.bgyml : 8000
+Life/LifeParameters/Weapon_Lsword_300.game__life__LifeParameters.bgyml : 7500
+GameParameter/RodParam/Weapon_Lsword_300.game__Object__RodParam.bgyml : 11500
+UI/Tex/Icon/Weapon_Lsword_300.bntx : 100000
+Model/Weapon_Lsword_300.Weapon_Lsword_300.bfres : 500000
+TexToGo/Weapon_Lsword_300_Alb.txtg : 75000
+
 Pack/Actor/Weapon_Spear_200.pack : 200000
 Model/Weapon_Lsword_200.Weapon_Lsword_200.bfres : 3000000
 TexToGo/Weapon_Spear_200_Alb.txtg : 1000000
