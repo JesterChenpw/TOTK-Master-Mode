@@ -1,7 +1,7 @@
 import mmh3
 
 # Whatever you want here
-actor_list = ["Enemy_Lizalfos_Gold", "Enemy_Lizalfos_Gold_R"]
+actor_list = ["Item_Enemy_900", "Item_Enemy_900_R"]
 
 def hash(value):
     hash = hex(mmh3.hash(value, signed=False))
