@@ -586,14 +586,14 @@ def MergeMods(mod_path, romfs_path, restbl_path='', version=121, compressed=True
     #    json.dump(changelog, f, indent=4)
     print("Applying changes...")
     restbl.ApplyChangelog(changelog)
-    restbl.Reserialize(output_dir = 'Mods/Master Mode v1.0/romfs/System/Resource')
+    restbl.Reserialize(output_dir = 'Mods/Master Mode Core/romfs/System/Resource')
     if compressed:
-        with open('Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename, 'rb') as file:
+        with open('Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename, 'rb') as file:
             data = file.read()
-        if os.path.exists('Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename + '.zs'):
-            os.remove('Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename + '.zs')
-        os.rename('Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename, 'Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename + '.zs')
-        with open('Mods/Master Mode v1.0/romfs/System/Resource/' + restbl.filename + '.zs', 'wb') as file:
+        if os.path.exists('Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename + '.zs'):
+            os.remove('Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename + '.zs')
+        os.rename('Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename, 'Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename + '.zs')
+        with open('Mods/Master Mode Core/romfs/System/Resource/' + restbl.filename + '.zs', 'wb') as file:
             compressor = zs.ZstdCompressor()
             file.write(compressor.compress(data))
     print("Finished")
