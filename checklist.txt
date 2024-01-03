@@ -32,12 +32,7 @@ Seized Captain Construct Horn   CHECK
 (model)
 +1 Rank                         CHECK
 Golden in XP system             CHECK
-Ganondorf and alike recolor
-Final boss segment buff
-English translation
-French translation
 Compendium pictures
-RESTBL for other ver.
 Demon Lord Gleeok               CHECK
 (model)                         CHECK
 Diamond Battle Talus            CHECK
@@ -87,7 +82,7 @@ Seized Construct Spear          CHECK
 Seized Construct Shield         CHECK
 (model)
 Seized Construct Bow            CHECK
-(model)
+(model)							CHECK
 Harbinger of Chaos              CHECK
 (model)                         CHECK
 Burning Demonic Gleeok Horn     CHECK
