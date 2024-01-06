@@ -11,7 +11,6 @@ To install, add this mod to your mod folder, it should be compatible with every 
 #### Master Mode Spicy Ending
 
 - Custom harder Demon King's Army without sages
-- Forced Boss Rush (with harder bosses) regardless of if you beat them before
 - Harder Demon King Ganondorf
 
 To install, copy paste romfs over the romfs of the Master Mode Core mod.
