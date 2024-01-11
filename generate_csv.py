@@ -8,7 +8,8 @@ def hash(value):
 
 def create_line(variable_name: str):
     variable_type = 'Enum' if '.State' in variable_name else 'Bool'
-    return str(hash(variable_name))[2:] + ',' + variable_type + ',' + variable_name + '\n'
+    return str(hash(variable_name))[2:] + ';' + variable_type + ';' + variable_name + '\n'
+    #return 'deadbeef' + ';' + variable_type + ';' + variable_name + '\n'
 
 def create_lines_stuff(object_name: str):
     string = ''
