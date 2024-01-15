@@ -4,6 +4,7 @@
 @flag offset_shift 0x100
 
 @enabled
+00c295f8 1f2003d5
 01122da8 1f2003d5
 01122de0 1f2003d5
 01123530 1f2003d5
