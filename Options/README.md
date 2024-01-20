@@ -14,3 +14,8 @@ To install, add this mod to your mod folder, it should be compatible with every 
 - Harder Demon King Ganondorf
 
 To install, copy paste romfs over the romfs of the Master Mode Core mod.
+
+#### Master Mode Punitive Death
+
+- Every time you die, the game will remove one of your weapons, bows or shields if you have any.
+- - Even if you reload your save or quit the game and load your save again, you will still lose something. Avoid abusing this at your advantage though. (don't play the option if you don't want to play its rules.)
