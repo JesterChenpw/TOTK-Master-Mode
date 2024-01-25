@@ -30,9 +30,9 @@
 - 14968627051698606471: Black Lizalfos -> Black Bokoblin (scalable)
 - 17916953056260097608: Black Lizalfos (scalable) -> Black Boss Bokoblin (scalable)
 - 14497634561457367375: Black Lizalfos -> Black Lizalfos (scalable)
+- 524658722492496849  : Silver Bokoblin -> Blue-Maned Lynel (Sword)
 
 ## A-8 Surface
-- 524658722492496849  : Silver Bokoblin -> Blue-Maned Lynel (Sword)
 - 11780176454621839984: Silver Bokoblin -> Silver Moblin
 - 7485580131069030211 : Silver Lizalfos (scalable) -> Electric Lizalfos (scalable)
 - 12877420562447874313: Electric Lizalfos -> Blue-Maned Lynel (scalable) (Spear)
@@ -92,7 +92,6 @@
 - 17357474415376165027: Silver Bokoblin -> Silver Lizalfos
 
 ## C-1 Surface
-- 13337176792764272647: Blue Lizalfos -> Black Lizalfos (scalable)
 - 13516895590295002174: Blue Bokoblin -> Black Moblin
 
 ## C-2 Surface
@@ -104,7 +103,7 @@
 ## C-3 Surface
 - 2998673423887678289 : Blue Bokoblin (scalable) -> Black Moblin (scalable)
 - 3217432651312229901 : Blue Bokoblin -> Black Lizalfos
-- 12851423161547053873: Blue Bokoblin -> Golden Bokoblin
+- 12851423161547053873: Blue Bokoblin -> Golden Lizalfos
 
 ## C-4 Surface
 - 17122457198576568018: Blue Bokoblin -> Black Bokoblin (scalable)
