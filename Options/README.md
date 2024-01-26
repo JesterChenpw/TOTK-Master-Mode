@@ -19,3 +19,18 @@ To install, copy paste romfs over the romfs of the Master Mode Core mod.
 
 - Every time you die, the game will remove one of your weapons, bows or shields if you have any.
   - Even if you reload your save or quit the game and load your save again, you will still lose something. Avoid abusing this at your advantage though. (don't play the option if you don't want to play its rules.)
+
+To install, add this mod to your mod folder, it should be compatible with every other mod (1.1.0 only atm)
+
+#### Master Mode Gameplay changes
+
+- Gloom damage does 0.8x damage instead of vanilla 0.3.
+- Almost all Link's attacks do not interrupt enemies' actions.
+- Charged attacks are slower and consume more stamina.
+- Hitting a Lynel while on its back does less damage for one handed and two handed weapons.
+- Flurry Rush does less hits than in vanilla.
+- Two handed weapon Charged attack does half the damage.
+- Can't eat Raw Materials. 
+- Can only have one of each cooked material.
+
+To install, copy paste romfs over the romfs of the Master Mode Core mod.
