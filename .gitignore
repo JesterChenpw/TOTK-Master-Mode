@@ -11,3 +11,7 @@ rules.md
 create_modifier_yaml.py
 modifier_data.json
 modifier.yml
+romfs.txt
+test.json
+enhancement.yml
+enhancement.py
