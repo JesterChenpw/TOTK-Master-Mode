@@ -15,3 +15,6 @@ romfs.txt
 test.json
 enhancement.yml
 enhancement.py
+todo.txt
+generate_restbl.py
+hashes.py
