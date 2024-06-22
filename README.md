@@ -38,3 +38,75 @@ This mod comes with multiple options that when all activated represent what we e
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 - **Rebalanced mounted Lynel damage**: To take into account the DPS of weapons, one handed weapons deal less damage on the back of Lynels and two handed weapons deal even less damage.
+
+### Credits
+
+#### Lead developer and mod core
+- [Echocolat](https://gamebanana.com/members/1771411)
+
+#### Modelers
+- [The5thTear](https://gamebanana.com/members/2858090)
+- [MaxLastBreath](https://gamebanana.com/members/2745192)
+- nox_tenebris
+- petekrayer
+- [TheRicoLicious](https://gamebanana.com/members/2121006)
+- [Mintlightning](https://gamebanana.com/members/2153930)
+- bread_mann
+
+#### Texturers
+- [Aster](https://gamebanana.com/members/1782454)
+- The5thTear
+- MaxLastBreath
+- nox_tenebris
+- petekrayer
+- Mintighnting
+
+#### UI
+- Aster
+- The5thTear
+- MaxLastBreath
+
+#### Testing
+- [Godzilaa4](https://gamebanana.com/members/2937126) (Yuzu, Ryujinx)
+- [Korokii](https://www.youtube.com/@Korokii_) (Yuzu)
+- Echocolat (Yuzu, Ryujinx)
+- Aster (Switch)
+- [Aelys](https://gamebanana.com/members/2043076) (Switch)
+- charlie92155 (Yuzu)
+- dt12369 (Yuzu)
+
+#### Planning, development
+- Echocolat
+- [YourDiamondDog](https://gamebanana.com/members/2792161)
+- MaxLastBreath (made the Health Regeneration option)
+- Godzilaa4, The5thTear (gave great ideas)
+
+#### Translations
+- Echocolat (American/European english, American/European french)
+- YourDiamondDog (American/European english)
+- soudakatt (American/European spanish)
+- neokat (Russian)
+- Qw2#8979 (Japanese)
+- dt12369 (Japanese, traditional Chinese)
+- chmoon_0 (Korean)
+- henkita (Italian)
+- sandra938_ (Italian)
+- yasashi_mh (German)
+- xinluochenjiang (Chinese, traditional Chinese)
+- gloriavankuik (Dutch)
+- Godzilaa4 (Portuguese brazilian)
+
+#### Content creators
+- Korokii
+- [KnightPohtaytoe](https://www.youtube.com/@knightpohtaytoe)
+- [Hawkbloo](https://www.youtube.com/@HawkblooYT)
+- [NETv NEWTORK](https://www.youtube.com/@netvnetwork8577)
+- [La Clemstim](https://www.youtube.com/@LaClemstim)
+
+#### Special thanks
+- dt12369 for the GIANT amount of help they provided during the whole development
+- [Waikuteru](https://gamebanana.com/members/1676542) for help with Event editing and custom Event creation
+- [miirkuz](https://gamebanana.com/members/1783085) for help with Event editing
+- [Kraiten](https://gamebanana.com/members/2343073) for overall help
+- The whole Challenge Mode team for all their help and support during this year
+- My dearest one ♡♡♡
