@@ -22,6 +22,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
+- **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
 
 ##### Buffs
 - **Better Defense Up meal effect**: The Defense Up meal effect is buffed in order to make it viable and interesting against Attack Up. Level 1 goes from 4 to 12, Level 2 goes from 12 to 24 and Level 3 goes from 24 to 48. (__recommended__)
