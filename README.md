@@ -33,7 +33,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
 - **Nerfed Flurry Rush**: Link's Flurry Rushes inflict less hits. (__recommended__)
 - **No natural Gloomed hearts regenetation**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
-- **Oblivious sages**: Sages don't attack enemies. (__recommended__)
+- **Oblivious sages**: Sages don't attack enemies, enmemis aren't distracted by Sages. (__recommended__)
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
