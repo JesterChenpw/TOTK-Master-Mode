@@ -33,7 +33,6 @@
 
 ### Icons
 - Seized Construct Shield
-- Diamond Talus Heart
 - Mother Frox Fang
 - Golden Moblin Horn
 - Seized Soldier Construct Horn
