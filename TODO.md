@@ -21,8 +21,8 @@
 - Bokoblin Tyrant Horn
 - Moblin Tyrant
 - Moblin Tyrant Horn
-- Lizalfos Tyrant
-- Lizalfos Tyrant Horn
+- ~~Lizalfos Tyrant~~
+- ~~Lizalfos Tyrant Horn~~
 - Boss Bokoblin Tyrant
 - Boss Bokoblin Tyrant Horn
 - Horriblin Tyrant
@@ -45,7 +45,7 @@
 - Seized Construct Bow
 - Bokoblin Tyrant Horn
 - Moblin Tyrant Horn
-- Lizalfos Tyrant Horn
+- ~~Lizalfos Tyrant Horn~~
 - Boss Bokoblin Tyrant Horn
 - Horriblin Tyrant Horn
 - Flaming Sword of the Demon King
