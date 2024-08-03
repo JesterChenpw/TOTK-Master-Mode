@@ -23,10 +23,11 @@
 - Moblin Tyrant Horn
 - ~~Lizalfos Tyrant~~
 - ~~Lizalfos Tyrant Horn~~
+- Lizalfos Tyrant Tail
 - Boss Bokoblin Tyrant
 - Boss Bokoblin Tyrant Horn
-- Horriblin Tyrant
-- Horriblin Tyrant Horn
+- ~~Horriblin Tyrant~~
+- ~~Horriblin Tyrant Horn~~
 - Flaming Sword of the Demon King
 - Frozen Club of the Demon King
 - Thunder Spear of the Demon King
@@ -46,6 +47,7 @@
 - Bokoblin Tyrant Horn
 - Moblin Tyrant Horn
 - ~~Lizalfos Tyrant Horn~~
+- Lizalfos Tyrant Tail
 - Boss Bokoblin Tyrant Horn
 - Horriblin Tyrant Horn
 - Flaming Sword of the Demon King
