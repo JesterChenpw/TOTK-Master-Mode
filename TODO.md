@@ -1,7 +1,7 @@
 ### Model imports (Echocolat)
 - ~~Seized Construct Shield~~
 - Diamond Battle Talus
-- Diamond Talus Heart
+- ~~Diamond Talus Heart~~
 - Mother Frox
 - Mother Frox Fang
 - Golden Moblin Horn
