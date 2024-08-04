@@ -4,7 +4,7 @@
 - ~~Diamond Talus Heart~~
 - Mother Frox
 - Mother Frox Fang
-- Golden Moblin Horn
+- ~~Golden Moblin Horn~~
 - Seized Soldier Construct Horn
 - Seized Captain Construct Horn
 - Golden Bokoblin Horn
@@ -35,7 +35,7 @@
 ### Icons
 - Seized Construct Shield
 - Mother Frox Fang
-- Golden Moblin Horn
+- ~~Golden Moblin Horn~~
 - Seized Soldier Construct Horn
 - Seized Captain Construct Horn
 - Golden Bokoblin Horn
