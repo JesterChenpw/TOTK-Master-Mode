@@ -5,9 +5,9 @@
 - Mother Frox
 - Mother Frox Fang
 - ~~Golden Moblin Horn~~
-- Seized Soldier Construct Horn
-- Seized Captain Construct Horn
-- Golden Bokoblin Horn
+- ~~Seized Soldier Construct Horn~~
+- ~~Seized Captain Construct Horn~~
+- ~~Golden Bokoblin Horn~~
 
 ### New models
 - Set of the Chosen Hero (being worked on by Pete)
@@ -36,9 +36,9 @@
 - Seized Construct Shield
 - Mother Frox Fang
 - ~~Golden Moblin Horn~~
-- Seized Soldier Construct Horn
-- Seized Captain Construct Horn
-- Golden Bokoblin Horn
+- ~~Seized Soldier Construct Horn~~
+- ~~Seized Captain Construct Horn~~
+- ~~Golden Bokoblin Horn~~
 - Set of the Chosen Hero
 - Death Bringer
 - Fanondorf
