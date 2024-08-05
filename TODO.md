@@ -9,6 +9,8 @@
 - Fanondorf
 - Molduqueen Fin
 - Seized Construct Bow
+- Deep Hinox
+- Deep Hinox Horn
 
 ### Retextures
 - Baby Frox
@@ -34,6 +36,7 @@
 - Moblin Tyrant Horn
 - Lizalfos Tyrant Tail
 - Boss Bokoblin Tyrant Horn
+- Deep Hinox Horn
 - Flaming Sword of the Demon King
 - Frozen Club of the Demon King
 - Thunder Spear of the Demon King
