@@ -1,7 +1,6 @@
 ### Model imports (Echocolat)
 - Diamond Battle Talus
 - Mother Frox
-- Mother Frox Fang
 
 ### New models
 - Set of the Chosen Hero (being worked on by Pete)
@@ -26,7 +25,6 @@
 - Thunder Spear of the Demon King
 
 ### Icons
-- Mother Frox Fang
 - Set of the Chosen Hero
 - Death Bringer
 - Fanondorf
