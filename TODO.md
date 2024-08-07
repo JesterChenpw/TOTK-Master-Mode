@@ -1,6 +1,5 @@
 ### Model imports (Echocolat)
 - Diamond Battle Talus
-- Mother Frox
 
 ### New models
 - Set of the Chosen Hero (being worked on by Pete)
