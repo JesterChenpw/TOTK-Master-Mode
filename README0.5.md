@@ -53,6 +53,7 @@ This mod comes with multiple options that when all activated represent what we e
 - [TheRicoLicious](https://gamebanana.com/members/2121006)
 - [Mintlightning](https://gamebanana.com/members/2153930)
 - bread_mann
+- [Kraiten](https://gamebanana.com/members/2343073)
 
 #### Texturers
 - [Aster](https://gamebanana.com/members/1782454)
@@ -108,6 +109,6 @@ This mod comes with multiple options that when all activated represent what we e
 - dt12369 for the GIANT amount of help they provided during the whole development
 - [Waikuteru](https://gamebanana.com/members/1676542) for help with Event editing and custom Event creation
 - [miirkuz](https://gamebanana.com/members/1783085) for help with Event editing
-- [Kraiten](https://gamebanana.com/members/2343073) for overall help
+- Kraiten for overall help
 - The whole Challenge Mode team for all their help and support during this year
 - My dearest one ♡♡♡

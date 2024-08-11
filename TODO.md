@@ -6,7 +6,6 @@
 - Death Bringer
 - Fanondorf
 - Molduqueen Fin
-- Seized Construct Bow
 - Deep Hinox
 - Deep Hinox Horn
 
@@ -28,7 +27,6 @@
 - Death Bringer
 - Fanondorf
 - Molduqueen Fin
-- Seized Construct Bow
 - Bokoblin Tyrant Horn
 - Moblin Tyrant Horn
 - Lizalfos Tyrant Tail
