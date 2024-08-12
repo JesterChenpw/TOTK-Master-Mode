@@ -1,5 +1,5 @@
 ### Model imports (Echocolat)
-- Diamond Battle Talus
+- nothing for now :D
 
 ### New models
 - Set of the Chosen Hero (being worked on by Pete)
