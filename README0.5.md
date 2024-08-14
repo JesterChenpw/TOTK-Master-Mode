@@ -17,7 +17,7 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 This mod comes with multiple options that when all activated represent what we envisioned when creating it, but that we are aware won't please everybody, that is why they are options.
 
 ##### Additions
-- **Brazilian over American English**: - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
+- **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Cook or Die**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. (__recommended__)
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
 - **Enemy Health Regeneration**: ~~Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ **This will be in the full release of the mod!**

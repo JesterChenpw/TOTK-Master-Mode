@@ -2,12 +2,12 @@
 - nothing for now :D
 
 ### New models
-- Set of the Chosen Hero (being worked on by Pete)
 - Death Bringer
 - Fanondorf
 - Molduqueen Fin
 - Deep Hinox
 - Deep Hinox Horn
+- CM Chest
 
 ### Retextures
 - Baby Frox
