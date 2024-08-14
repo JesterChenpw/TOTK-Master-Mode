@@ -23,6 +23,8 @@ This mod comes with multiple options that when all activated represent what we e
 - **Enemy Health Regeneration**: ~~Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ **This will be in the full release of the mod!**
 - **True Demon King's Army**: ~~Custom Demon King's Army made more interesting and way harder. (__recommended__)~~ **This will be in the full release of the mod!**
 - **All enemies scale**: ~~Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.~~ **This will be in the full release of the mod!**
+- **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
+- **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
 
 ##### Buffs
 - **Better Defense Up meal effect**: The Defense Up meal effect is buffed in order to make it viable and interesting against Attack Up. Level 1 goes from 4 to 12, Level 2 goes from 12 to 24 and Level 3 goes from 24 to 48. (__recommended__)
