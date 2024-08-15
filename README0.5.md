@@ -21,7 +21,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Cook or Die**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. (__recommended__)
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
 - **Enemy Health Regeneration**: ~~Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ **This will be in the full release of the mod!**
-- **True Demon King's Army**: ~~Custom Demon King's Army made more interesting and way harder. (__recommended__)~~ **This will be in the full release of the mod!**
+- **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 - **All enemies scale**: ~~Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.~~ **This will be in the full release of the mod!**
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
 - **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
