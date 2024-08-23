@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v0.5 beta)
+## Tears of the Kingdom Open Beta v0.5
 
 ### Mod description
 
@@ -76,8 +76,8 @@ This mod comes with multiple options that when all activated represent what we e
 - Echocolat (Yuzu, Ryujinx)
 - Aster (Switch)
 - [Aelys](https://gamebanana.com/members/2043076) (Switch)
-- charlie92155 (Yuzu)
-- dt12369 (Yuzu)
+- [charlie92155](https://gamebanana.com/members/2191196) (Yuzu)
+- dt13269 (Yuzu)
 
 #### Planning, development
 - Echocolat
@@ -88,10 +88,10 @@ This mod comes with multiple options that when all activated represent what we e
 #### Translations
 - Echocolat (American/European english, American/European french)
 - YourDiamondDog (American/European english)
-- soudakatt (American/European spanish)
-- neokat (Russian)
-- Qw2#8979 (Japanese)
-- dt12369 (Japanese, traditional Chinese)
+- [soudakatt](https://gamebanana.com/members/2443162) (American/European spanish)
+- [neokat](https://gamebanana.com/members/1612448) (Russian)
+- [Qw2#8979](https://gamebanana.com/members/2550981) (Japanese)
+- dt13269 (Japanese, traditional Chinese)
 - chmoon_0 (Korean)
 - henkita (Italian)
 - sandra938_ (Italian)
@@ -106,9 +106,11 @@ This mod comes with multiple options that when all activated represent what we e
 - [Hawkbloo](https://www.youtube.com/@HawkblooYT)
 - [NETv NEWTORK](https://www.youtube.com/@netvnetwork8577)
 - [La Clemstim](https://www.youtube.com/@LaClemstim)
+- [Aife](https://www.youtube.com/@Aife)
+- [Général Mass](https://www.youtube.com/@GeneralMass)
 
 #### Special thanks
-- dt12369 for the GIANT amount of help they provided during the whole development
+- dt13269 for the GIANT amount of help they provided during the whole development
 - [Waikuteru](https://gamebanana.com/members/1676542) for help with Event editing and custom Event creation
 - [miirkuz](https://gamebanana.com/members/1783085) for help with Event editing
 - Kraiten for overall help
