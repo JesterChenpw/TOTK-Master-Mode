@@ -1,4 +1,4 @@
-## Tears of the Kingdom Open Beta v0.5.7
+## Tears of the Kingdom Open Beta v0.5.8
 
 ### Mod description
 

@@ -3,13 +3,8 @@
 @flag print_values
 @flag offset_shift 0x100
 
-// PictureBookData crash fix
 @enabled
 00C295F8 1F2003D5
-@stop
-
-// True Damage Display
-@enabled
 01122DA8 1F2003D5
 01122DE0 1F2003D5
 01123530 1F2003D5
@@ -20,10 +15,4 @@
 017999EC 1F2003D5
 01799D88 1F2003D5
 01799E84 1F2003D5
-@stop
-
-// No One Shot Protection
-@enabled
-017059E4 E0031F2A
-017059E8 C0035FD6
 @stop
