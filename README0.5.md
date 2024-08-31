@@ -1,4 +1,4 @@
-## Tears of the Kingdom Open Beta v0.5.8
+## Tears of the Kingdom Open Beta v0.5.9
 
 ### Mod description
 
@@ -17,15 +17,14 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 This mod comes with multiple options that when all activated represent what we envisioned when creating it, but that we are aware won't please everybody, that is why they are options.
 
 ##### Additions
+- **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
+- **All enemies scale**: ~~Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.~~ **This will be in the full release of the mod!**
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
+- **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
 - **Cook or Die**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. (__recommended__)
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
 - **Enemy Health Regeneration**: ~~Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ **This will be in the full release of the mod!**
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
-- **All enemies scale**: ~~Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.~~ **This will be in the full release of the mod!**
-- **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
-- **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
-- **No One Shot Protection**: Disables one shot protection. (__recommended__)
 
 ##### Buffs
 - **Better Defense Up meal effect**: The Defense Up meal effect is buffed in order to make it viable and interesting against Attack Up. Level 1 goes from 4 to 12, Level 2 goes from 12 to 24 and Level 3 goes from 24 to 48. (__recommended__)
@@ -35,7 +34,8 @@ This mod comes with multiple options that when all activated represent what we e
 - **Hitstun nerf for Link**: Most of Link's attacks do not interrupt enemies' actions. (__recommended__)
 - **Nerfed charge attacks**: ~~Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)~~ **This will be in the full release of the mod!**
 - **Nerfed Flurry Rush**: Link's Flurry Rushes inflict less hits. (__recommended__)
-- **No natural Gloomed hearts regenetation**: ~~Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)~~ **This will be in the full release of the mod!**
+- **No natural Gloomed hearts regeneration**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
+- **No One Shot Protection**: Disables one shot protection. (__recommended__)
 - **Oblivious sages**: Sages don't attack enemies, enemies aren't distracted by Sages. (__recommended__)
 
 ##### Rebalances
