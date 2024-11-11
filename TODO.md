@@ -11,16 +11,9 @@
 
 ### Retextures
 - Baby Frox
-- Bokoblin Tyrant
-- Bokoblin Tyrant Horn
-- Moblin Tyrant
-- Moblin Tyrant Horn
-- Lizalfos Tyrant Tail
-- Boss Bokoblin Tyrant
-- Boss Bokoblin Tyrant Horn
-- Flaming Sword of the Demon King
-- Frozen Club of the Demon King
-- Thunder Spear of the Demon King
+- ~~Flaming Sword of the Demon King~~
+- ~~Frozen Club of the Demon King~~
+- ~~Thunder Spear of the Demon King~~
 
 ### Icons
 - Set of the Chosen Hero
@@ -32,6 +25,6 @@
 - Lizalfos Tyrant Tail
 - Boss Bokoblin Tyrant Horn
 - Deep Hinox Horn
-- Flaming Sword of the Demon King
-- Frozen Club of the Demon King
-- Thunder Spear of the Demon King
+- ~~Flaming Sword of the Demon King~~
+- ~~Frozen Club of the Demon King~~
+- ~~Thunder Spear of the Demon King~~
