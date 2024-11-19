@@ -39,6 +39,7 @@ This mod comes with multiple options that when all activated represent what we e
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
+- **Rebalanced Chests**: Shrine and Dungeon chests content was changed to make them more interesting.
 - **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts (__recommended__)
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 - **Rebalanced mounted Lynel damage**: To take into account the DPS of weapons, one handed weapons deal less damage on the back of Lynels and two handed weapons deal even less damage.
