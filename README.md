@@ -18,11 +18,11 @@ This mod comes with multiple options that when all activated represent what we e
 
 ##### Additions
 - **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
-- **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
+- ~~**All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.~~ Currently TKMM fucks up the whole mod when this option is enabled. The .tkcl file will be updated once TKMM is fixed in that regard.
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
-- **Enemy Health Regeneration**: ~~Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ Will be added later.
+- ~~**Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis, until they regenerated 100% of their health. The regeneration rate is smaller when the enemy has more HP. Made by MaxLastBreath.~~ Will be added later, as the team member handling this option currently faces personal life issues.
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
@@ -39,9 +39,9 @@ This mod comes with multiple options that when all activated represent what we e
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
-- **Rebalanced Chests**: Shrine and Dungeon chests content was changed to make them more interesting.
-- **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts (__recommended__)
-- **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
+- ~~**Rebalanced Chests**: Shrine and Dungeon chests content was changed to make them more interesting.~~ Currently TKMM fucks up the whole mod when this option is enabled. The .tkcl file will be updated once TKMM is fixed in that regard.
+- **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts. (__recommended__)
+- ~~**Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)~~ Currently TKMM fucks up the whole mod when this option is enabled. The .tkcl file will be updated once TKMM is fixed in that regard.
 - **Rebalanced mounted Lynel damage**: To take into account the DPS of weapons, one handed weapons deal less damage on the back of Lynels and two handed weapons deal even less damage.
 
 ### Credits
