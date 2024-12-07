@@ -1,4 +1,4 @@
-## TOTK Challenge Mode
+## TOTK Challenge Mode!
 
 ### Mod description
 
