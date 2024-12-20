@@ -1,0 +1,23 @@
+STANDALONE WEAPON
+Equipment_ExEffectType
+Equipment_ExEffectValue
+
+CHEST (TBox_Field_Iron_Mod)
+Drop__DropActor_EffectType
+Drop__DropActor_EffectValue
+
+EFFECTS
+enum ExEffectType {
+  None = 0,
+  AttackUp = 1,
+  AttackUpPlus = 2,
+  DurabilityUp = 3,
+  DurabilityUpPlus = 4,
+  FinishBlow = 5,
+  LongThrow = 6,
+  RapidFire = 7,
+  ThreeWayZoom = 8,
+  FiveWay = 9,
+  GuardUp = 0xa,
+  GuardUpPlus = 0xb,
+};
