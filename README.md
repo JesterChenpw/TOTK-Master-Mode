@@ -16,7 +16,7 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 #### Options
 
 This mod comes with multiple options that when all activated represent what we envisioned when creating it, but that we are aware won't please everybody, that is why they are options.
-**Currently, TKMM doesn't work properly with bigger mods, so please do NOT install the mod with TKMM. This will be updated once TKMM is fixed, with a .tkcl file where you will be able to select your options.**
+**Currently, TKMM doesn't work properly with bigger mods, so please do NOT install the mod with TKMM. This will be updated once TKMM is fixed, with a .tkcl file where you will be able to select your options. For now, recommended build downloads include all recommended options.**
 
 ##### Additions
 - **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
@@ -87,6 +87,9 @@ ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the 
 - One Moblin can't move in a Depths camp (Fixed in next version)
 - One of the new unique weapons doesn't fuse properly when fusing an object that doesn't replace the blade to it (Fixed in next version)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
+
+### If you encounter another issue
+Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
 
 ### Credits
 
