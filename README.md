@@ -87,6 +87,7 @@ ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the 
 - One Moblin can't move in a Depths camp (Fixed in next version)
 - One of the new unique weapons doesn't fuse properly when fusing an object that doesn't replace the blade to it (Fixed in next version)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
+- Mineru's Construct's physical attacks do not damage Seized Construct (Fixed in next version)
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
