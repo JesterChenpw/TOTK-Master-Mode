@@ -5,7 +5,7 @@
 This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dangerous enemies__ and __tweaking game mechanics__ for a more challenging and interesting experience with the game. It is __recommended to start a whole new save__ with this mod for the best experience possible!
 
 #### Features
-- This mod comes with [True Damage Display](https://gamebanana.com/mods/478039) integrated in it. It makes it so that the hidden buffs and nerfs the devs put on Spears and Two-Handed weapons are gone, and what the games shows in the UI is the exact damage the weapon is doing.
+- This mod comes with True Damage Display v2 integrated in it. It makes it so that the game actually displays how it changes fuse damage on spears and two handed weapons, and also makes sure that other attack modifiers are also affected by the weapon type.
 - All scalable enemies (Bokoblins, Moblins, Lizalfos, Horriblins, Boss Bokoblins, Lynels, Soldier Constructs and Captain Constructs) __were scaled by one rank__. For example, all red Bokoblins are blue in the mod. At least one specimen of each base enemy will stay, for Hyrule Compendium, Quests or Armor upgrades.
 - All scalable enemies now have a new rank (Golden for all Monsters, Seized for the Constructs), __stronger__, tankier, faster, but also __more rewarding__ with their unique fusable materials and better overall drops. 
 - All mini bosses (Molduga, Gleeok, Frox, Flux Construct, Hinox and Talus) now have a new, __unique__ more powerful rank, wielding unique fuse materials. You can learn more about them in the __Challenge Mode - Rumors__ book in the Room of Awakening.
@@ -39,9 +39,8 @@ This mod comes with multiple options that when all activated represent what we e
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
-- **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts. (__recommended__)
+- **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts. The amount of meal slots was divided by 2 (60 -> 30). (__recommended__)
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
-- **Rebalanced mounted Lynel damage**: To take into account the DPS of weapons, one handed weapons deal less damage on the back of Lynels and two handed weapons deal even less damage.
 
 ##### Masochism options
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
@@ -69,8 +68,7 @@ Also make sure that you are not playing on version 1.0.0 of the game, which is n
 
 ##### On Switch hardware (atmosphere)
 - Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
-- In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` folder from the mod archive in it.
-- In your modded Switch SD Card, navigate to `atmosphere\exefs_patches`, create a folder inside (you can call it like you want, probably "Challenge Mode" or "CM"), and extract the *file inside the exefs folder* from the mod archive in it. Said file's name should be a serie of digits and letters from A to F, with file extension `.ips`, like `6F32C68DD3BC7D77AA714B80E92A096A737CDA77.ips` for 1.2.0.
+- In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
 
 ### Regarding save files
 
