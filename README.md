@@ -5,7 +5,7 @@
 This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dangerous enemies__ and __tweaking game mechanics__ for a more challenging and interesting experience with the game. It is __recommended to start a whole new save__ with this mod for the best experience possible!
 
 #### Features
-- This mod comes with True Damage Display v2 integrated in it. It makes it so that the game actually displays how it changes fuse damage on spears and two handed weapons, and also makes sure that other attack modifiers are also affected by the weapon type.
+- This mod comes with [True Damage Display v2](https://gamebanana.com/mods/568686) integrated in it. It makes it so that the game actually displays how it changes fuse damage on spears and two handed weapons, and also makes sure that other attack modifiers are also affected by the weapon type.
 - All scalable enemies (Bokoblins, Moblins, Lizalfos, Horriblins, Boss Bokoblins, Lynels, Soldier Constructs and Captain Constructs) __were scaled by one rank__. For example, all red Bokoblins are blue in the mod. At least one specimen of each base enemy will stay, for Hyrule Compendium, Quests or Armor upgrades.
 - All scalable enemies now have a new rank (Golden for all Monsters, Seized for the Constructs), __stronger__, tankier, faster, but also __more rewarding__ with their unique fusable materials and better overall drops. 
 - All mini bosses (Molduga, Gleeok, Frox, Flux Construct, Hinox and Talus) now have a new, __unique__ more powerful rank, wielding unique fuse materials. You can learn more about them in the __Challenge Mode - Rumors__ book in the Room of Awakening.
