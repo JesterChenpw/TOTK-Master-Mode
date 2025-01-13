@@ -69,6 +69,7 @@ Also make sure that you are not playing on version 1.0.0 of the game, which is n
 ##### On Switch hardware (atmosphere)
 - Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
+- In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
 ### Regarding save files
 
