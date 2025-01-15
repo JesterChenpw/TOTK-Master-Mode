@@ -22,7 +22,6 @@ This mod comes with multiple options that when all activated represent what we e
 - **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
-- **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
@@ -45,6 +44,7 @@ This mod comes with multiple options that when all activated represent what we e
 ##### Masochism options
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
+- **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced.
 - **Unnerfed New Gleeok**: The new Gleeok is at its prime state, before the wave of nerfs she received. Not balanced.
