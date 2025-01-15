@@ -75,18 +75,8 @@ Also make sure that you are not playing on version 1.0.0 of the game, which is n
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.1.0)
-- One of the new unique weapons loses the full durability spark when fused (Fixed in next version)
-- New enemy, weapon and chest spawns in the Depths respawn infinitely (Fixed in next version)
-- Some weapons do not have the correct modifier ranges (Fixed in next version)
-- Some weapons do not have modifiers and repairability in Recommended builds (Fixed in next version)
-- Link's hands aren't properly on Lynel Crushers' handle (Fixed in next version)
-- One of the new unique weapons has Link's hands clip into its handle (Fixed in next version)
-- Two chests in the Depths softlock the game when opened (Zora Depths & Underground Gerudo Cemetery) (Fixed in next version)
-- One Moblin can't move in a Depths camp (Fixed in next version)
-- One of the new unique weapons doesn't fuse properly when fusing an object that doesn't replace the blade to it (Fixed in next version)
+### Known issues (v1.2.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
-- Mineru's Construct's physical attacks do not damage Seized Construct (Fixed in next version)
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
