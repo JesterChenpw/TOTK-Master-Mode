@@ -35,6 +35,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Nerfed Flurry Rush**: Link's Flurry Rushes inflict less hits. (__recommended__)
 - **No natural Gloomed hearts regeneration**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
 - **No One Shot Protection**: Disables one shot protection. (__recommended__)
+- **No saving during battle**: Disables saving when you fight. (__recommended__)
 - **Oblivious sages**: Sages don't attack enemies, enemies aren't distracted by Sages. (__recommended__)
 
 ##### Rebalances
