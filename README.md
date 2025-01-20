@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.2.3)
+## TOTK Challenge Mode (v1.2.4)
 
 ### Mod description
 
