@@ -1,5 +1,7 @@
 ## TOTK Challenge Mode (v1.2.4)
 
+[Discord Server](https://discord.gg/Z35qfGBTeH)
+
 ### Mod description
 
 This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dangerous enemies__ and __tweaking game mechanics__ for a more challenging and interesting experience with the game. It is __recommended to start a whole new save__ with this mod for the best experience possible!
