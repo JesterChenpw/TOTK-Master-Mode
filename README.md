@@ -21,7 +21,8 @@ This mod comes with multiple options that when all activated represent what we e
 **Currently, TKMM doesn't work properly with bigger mods, so please do NOT install the mod with TKMM. This will be updated once TKMM is fixed, with a .tkcl file where you will be able to select your options. For now, recommended build downloads include all recommended options.**
 
 ##### Additions
-- **All bosses buff**: Bosses are all stronger and faster, Dungeon bosses deal gloom damage. (__recommended__)
+- **All bosses buff**: Bosses are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
+- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. (__recommended__)
 - **Blåhaj over Blue Sand Seal Plush**: Replaces the Blue Sand Seal Plushes with Blåhajs. Trans rights are human rights :) (this is just a port of [the eponymous mod](https://gamebanana.com/mods/499961))
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
@@ -48,6 +49,7 @@ This mod comes with multiple options that when all activated represent what we e
 ##### Masochism options
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
 - **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
+- **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. WARNING: This may crash your Nintendo Switch hardware.
