@@ -22,10 +22,10 @@ This mod comes with multiple options that when all activated represent what we e
 
 ##### Additions
 - **All bosses buff**: Bosses are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
-- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. (__recommended__)
 - **Blåhaj over Blue Sand Seal Plush**: Replaces the Blue Sand Seal Plushes with Blåhajs. Trans rights are human rights :) (this is just a port of [the eponymous mod](https://gamebanana.com/mods/499961))
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
+- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. (__recommended__)
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
