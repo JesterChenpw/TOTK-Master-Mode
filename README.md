@@ -109,7 +109,7 @@ Aster, The5thTear, MaxLastBreath
 Echocolat, [YourDiamondDog](https://gamebanana.com/members/2792161), MaxLastBreath (made the Health Regeneration option), Godzilaa4, The5thTear (gave great ideas)
 
 #### Translations
-Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt12369 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch)
+Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt12369 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch), tartine_nature (French)
 
 #### Beta Test Content creators
 Korokii, [KnightPohtaytoe](https://www.youtube.com/@knightpohtaytoe), [Hawkbloo](https://www.youtube.com/@HawkblooYT), [NETv NEWTORK](https://www.youtube.com/@netvnetwork8577), [La Clemstim](https://www.youtube.com/@LaClemstim)
