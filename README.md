@@ -53,7 +53,6 @@ This mod comes with multiple options that when all activated represent what we e
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. WARNING: This may crash your Nintendo Switch hardware.
-- **Unnerfed New Gleeok**: The new Gleeok is at its prime state, before the wave of nerfs she received. Not balanced.
 
 ### How to install
 
