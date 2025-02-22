@@ -35,6 +35,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Higher Gloom damage multiplier**: Gloomed enemies in the vanilla game inflict 0.3x times their damage converted to gloomed hearts. This was changed to 0.8x their damage. (__recommended__)
 - **Hitstun nerf for Link**: Most of Link's attacks do not interrupt enemies' actions. (__recommended__)
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
+- **Nerfed Fairies**: Fairies only heal Link by 1HP (one quarter of a Heart) instead of 20HP (5 Hearts). (__recommended__)
 - **Nerfed Flurry Rush**: Link's Flurry Rushes inflict less hits. (__recommended__)
 - **No natural Gloomed hearts regeneration**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
 - **No One Shot Protection**: Disables one shot protection. (__recommended__)
@@ -52,6 +53,7 @@ This mod comes with multiple options that when all activated represent what we e
 - **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
+- **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. WARNING: This may crash your Nintendo Switch hardware.
 
 ### How to install
