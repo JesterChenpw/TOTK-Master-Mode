@@ -17,8 +17,7 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 
 #### Options
 
-This mod comes with multiple options that when all activated represent what we envisioned when creating it, but that we are aware won't please everybody, that is why they are options.
-**Currently, TKMM doesn't work properly with bigger mods, so please do NOT install the mod with TKMM. This will be updated once TKMM is fixed, with a .tkcl file where you will be able to select your options. For now, recommended build downloads include all recommended options.**
+This mod comes with multiple options to enhance your experience. Recommended options should all be enabled in order to play as the mod was intended to be played, but you're free to tinker with them as you want.
 
 ##### Additions
 - **All bosses buff**: Bosses are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
@@ -58,8 +57,19 @@ This mod comes with multiple options that when all activated represent what we e
 
 ### How to install
 
+Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
+
+*If you're using TKMM*:
+
+Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
+
+Make sure you're using a version that's at least as recent as v2.0.0 beta2. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as Dark Army Resurrection, The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+
+*If you're not using TKMM*:
+
 First of all, make sure you are not using other mods at the same time (except for Performance mods like [Ultracam](https://gamebanana.com/mods/480138), and mods that do not edit any of the system files).
-Also make sure that you are not playing on version 1.0.0 of the game, which is not supported.
+
+When installing an update of Challenge Mode, make sure to delete the previous Challenge Mode installation(s).
 
 ##### On Yuzu (and forks)
 - Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
