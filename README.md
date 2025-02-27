@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.3.2)
+## TOTK Challenge Mode (v1.3.3)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -47,9 +47,10 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 
 ##### Masochism options
+- **All bosses buff+**: All bosses buff but on steroids. Bosses are even stronger and faster (except for Ganondorf), Dungeon bosses deal heavy gloom damage. (__recommended__)
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
-- **Dangerous Bokoblin Baskets**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems.
 - **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit.
+- **Enemy Elemental Gem Arrows**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems. This also applies to any elemental fruit fuse used on arrows by enemies.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while.
@@ -92,7 +93,7 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.3.2)
+### Known issues (v1.3.3)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Enemy Health Regeneration sometimes makes it so that enemies start with only a small portion of their HP. This is being worked on.
 
