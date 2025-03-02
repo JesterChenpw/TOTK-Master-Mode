@@ -20,11 +20,11 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 This mod comes with multiple options to enhance your experience. Recommended options should all be enabled in order to play as the mod was intended to be played, but you're free to tinker with them as you want.
 
 ##### Additions
-- **All bosses buff**: Bosses are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
+- **All bosses buff**: Bosses (including Moragia, Sludge Like, Kohga 1 2 3 & his Construct) are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
 - **Blåhaj over Blue Sand Seal Plush**: Replaces the Blue Sand Seal Plushes with Blåhajs. Trans rights are human rights :) (this is just a port of [the eponymous mod](https://gamebanana.com/mods/499961))
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
-- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. (__recommended__)
+- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. Gloom Spawn and Phantom Ganon are also buffed. (__recommended__)
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
@@ -47,14 +47,14 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 
 ##### Masochism options
-- **All bosses buff+**: All bosses buff but on steroids. Bosses are even stronger and faster (except for Ganondorf), Dungeon bosses deal heavy gloom damage. (__recommended__)
+- **All bosses buff+**: All bosses buff but on steroids. Bosses are even stronger and faster (except for Ganondorf), they deal heavy gloom damage. (__recommended__)
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
-- **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit.
+- **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit. Gloom Spawn and Phantom Ganon are also buffed.
 - **Enemy Elemental Gem Arrows**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems. This also applies to any elemental fruit fuse used on arrows by enemies.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
-- **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while.
-- **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. WARNING: This may crash your Nintendo Switch hardware.
+- **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while. WARNING: This may take a lot of memory and may crash your Nintendo Switch hardware if used alongside All enemies scale.
+- **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. No temporary save is made after beating it, which will make you restart the Army if you lose to Demon King Ganondorf. WARNING: This may crash your Nintendo Switch hardware. 
 
 ### How to install
 
@@ -96,6 +96,7 @@ ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the 
 ### Known issues (v1.3.3)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Enemy Health Regeneration sometimes makes it so that enemies start with only a small portion of their HP. This is being worked on.
+- When installed through TKMM, the credits are a bit messed up. This should be fixed in TKMM's next update.
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
@@ -115,16 +116,20 @@ Aster, The5thTear, MaxLastBreath, nox_tenebris, petekrayer, MintLightning
 Aster, The5thTear, MaxLastBreath
 
 #### Testing
-[Godzilaa4](https://gamebanana.com/members/2937126) (Yuzu, Ryujinx), [Korokii](https://www.youtube.com/@Korokii_) (Yuzu), Echocolat (Yuzu, Ryujinx), Aster (Switch), [Aëlys](https://gamebanana.com/members/2043076) (Switch), charlie92155 (Yuzu), dt12369 (Yuzu)
+[Godzilaa4](https://gamebanana.com/members/2937126) (Yuzu, Ryujinx), [Korokii](https://www.youtube.com/@Korokii_) (Yuzu), Echocolat (Yuzu, Ryujinx), Aster (Switch), [Aëlys](https://gamebanana.com/members/2043076) (Switch), charlie92155 (Yuzu), dt13269 (Yuzu)
 
 #### Planning, development
 Echocolat, [YourDiamondDog](https://gamebanana.com/members/2792161), MaxLastBreath (made the Health Regeneration option), Godzilaa4, The5thTear (gave great ideas)
 
 #### Translations
-Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt12369 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch), tartine_nature (French), don'tcallmeTony (Dani) (Italian), Rimoru48 (German), ne_chelovek322 (Russian)
+Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt13269 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch), tartine_nature (French), don'tcallmeTony (Dani) (Italian), Rimoru48 (German), ne_chelovek322 (Russian), chubby_bub (English)
 
 #### Beta Test Content creators
 Korokii, [KnightPohtaytoe](https://www.youtube.com/@knightpohtaytoe), [Hawkbloo](https://www.youtube.com/@HawkblooYT), [NETv NEWTORK](https://www.youtube.com/@netvnetwork8577), [La Clemstim](https://www.youtube.com/@LaClemstim)
 
+#### Used tools
+
+[Arch Leaders](https://github.com/ArchLeaders) (NX Editor, TotkTagTool, TKMM), dt13269 (ASB and AINB libraries), [Ton Roosendaal](https://www.blender.org/), [National Security Agency](https://ghidra-sre.org/) (Ghidra for executable patches)
+
 #### Special thanks
-dt12369 for the GIANT amount of help they provided during the whole development, [Waikuteru](https://gamebanana.com/members/1676542) for help with Event editing and custom Event creation, [miirkuz](https://gamebanana.com/members/1783085) for help with Event editing, Kraiten for overall help, The whole Challenge Mode team for all their help and support during this year, **My dearest one ♡♡♡**
+[Nintendo](https://www.nintendo.com/us/) for making this beautiful game that I love and hate, [lordbubbles](https://gamebanana.com/members/1630162) for being cool asf, dt13269 for the GIANT amount of help they provided during the whole development, [Waikuteru](https://gamebanana.com/members/1676542) for help with Event editing and custom Event creation, [miirkuz](https://gamebanana.com/members/1783085) for help with Event editing, Kraiten for overall help, The whole Challenge Mode team for all their help and support during this year, **My dearest one ♡♡♡**
