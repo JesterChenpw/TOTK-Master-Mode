@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.3.3)
+## TOTK Challenge Mode (v1.3.4)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -93,7 +93,7 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.3.3)
+### Known issues (v1.3.4)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Enemy Health Regeneration sometimes makes it so that enemies start with only a small portion of their HP. This is being worked on.
 - When installed through TKMM, the credits are a bit messed up. This should be fixed in TKMM's next update.
