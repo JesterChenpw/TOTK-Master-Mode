@@ -36,6 +36,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
 - **Nerfed Fairies**: Fairies only heal Link by 1HP (one quarter of a Heart) instead of 20HP (5 Hearts). (__recommended__)
 - **Nerfed Flurry Rush**: Link's Flurry Rushes inflict less hits. (__recommended__)
+- **Nerfed Sneakstrike**: Link's Sneakstrikes deal half the damage. (__recommended__)
 - **No natural Gloomed hearts regeneration**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
 - **No One Shot Protection**: Disables one shot protection. (__recommended__)
 - **No saving during battle**: Disables saving when you fight. (__recommended__)
@@ -56,7 +57,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while. WARNING: This may take a lot of memory and may crash your Nintendo Switch hardware if used alongside All enemies scale.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. No temporary save is made after beating it, which will make you restart the Army if you lose to Demon King Ganondorf. WARNING: This may crash your Nintendo Switch hardware. 
 
-### How to install
+### How to install (TKMM)
 
 Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
 
@@ -65,6 +66,16 @@ Make sure that you are not playing on version 1.0.0 of the game, which is not su
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
 Make sure you're using a version that's at least as recent as v2.0.0 beta2. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as Dark Army Resurrection, The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+
+#### Compatibility Patches
+
+**When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
+
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Packaged/Challenge%20Mode%201.3.4.tkcl?raw=true) - *Target version is 1.0.2*
+
+### How to install (Not TKMM)
+
+Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
 
 *If you're not using TKMM*:
 
@@ -107,7 +118,7 @@ Please report the issue in the `#bug-report channel` of the Discord server, deta
 [Echocolat](https://gamebanana.com/members/1771411)
 
 #### Modelers
-[The5thTear](https://gamebanana.com/members/2858090), [MaxLastBreath](https://gamebanana.com/members/2745192), nox_tenebris, petekrayer, [TheRicoLicious](https://gamebanana.com/members/2121006), [MintLightning](https://gamebanana.com/members/2153930), bread_mann, [Kraiten](https://gamebanana.com/members/2343073), [Aster](https://gamebanana.com/members/1782454)
+[The5thTear](https://gamebanana.com/members/2858090), [MaxLastBreath](https://gamebanana.com/members/2745192), nox_tenebris, petekrayer, [TheRicoLicious](https://gamebanana.com/members/2121006), [MintLightning](https://gamebanana.com/members/2153930), bread_mann, [Kraiten](https://gamebanana.com/members/2343073), [Aster](https://gamebanana.com/members/1782454), [Real Princess Zelda](https://gamebanana.com/members/2537238)
 
 #### Texturers
 Aster, The5thTear, MaxLastBreath, nox_tenebris, petekrayer, MintLightning
