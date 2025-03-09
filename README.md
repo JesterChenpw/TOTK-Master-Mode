@@ -71,7 +71,7 @@ Make sure you're using a version that's at least as recent as v2.0.0 beta2. This
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Packaged/Challenge%20Mode%201.3.4.tkcl?raw=true) - *Target version is 1.0.2*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.3.4%20x%20DotK%201.0.2%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.0.2*
 
 ### How to install (Not TKMM)
 
