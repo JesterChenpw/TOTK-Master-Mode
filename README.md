@@ -40,7 +40,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **No natural Gloomed hearts regeneration**: Gloomed hearts no longer regenerate on the Surface or under lightroots. This is heavily recommended because some new enemies will have your heart UI glitched without this option. (__recommended__)
 - **No One Shot Protection**: Disables one shot protection. (__recommended__)
 - **No saving during battle**: Disables saving when you fight. (__recommended__)
-- **Oblivious sages**: Sages don't attack enemies, enemies aren't distracted by Sages. (__recommended__)
+- **Oblivious sages and Sidon ability nerf**: Sages don't attack enemies, enemies aren't distracted by Sages. Sidon's ability has a longer cooldown. (__recommended__)
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
