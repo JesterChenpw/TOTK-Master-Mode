@@ -61,11 +61,9 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 
 Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
 
-*If you're using TKMM*:
-
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
-Make sure you're using a version that's at least as recent as v2.0.0 beta2. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as Dark Army Resurrection, The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+Make sure you're using a version that's at least as recent as v2.0.0 beta2. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
 
 #### Compatibility Patches
 
@@ -76,8 +74,6 @@ Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocol
 ### How to install (Not TKMM)
 
 Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
-
-*If you're not using TKMM*:
 
 First of all, make sure you are not using other mods at the same time (except for Performance mods like [Ultracam](https://gamebanana.com/mods/480138), and mods that do not edit any of the system files).
 
